@@ -1,0 +1,40 @@
+name: Daily games scrape
+
+on:
+  schedule:
+    # 02:00 UTC = 03:00 UK during BST (summer)
+    #            = 02:00 UK during GMT (winter)
+    - cron: "0 2 * * *"
+  workflow_dispatch:   # manual "Run workflow" button
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: |
+          python scraper.py \
+            --workers 3 \
+            --output games.json \
+            --steamrip-delay 0.5
+
+      - name: Commit updated games.json
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update games.json"
+          file_pattern: games.json
