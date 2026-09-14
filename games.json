@@ -204211,11 +204211,22 @@
   {
     "title": "Tiny Bakery",
     "url": "https://steamrip.com/tiny-bakery-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Run a tiny bakery for sweet-toothed slime customers! Adapt to changing weather, seasons, and festivals as cravings shift. Unlock new recipes, welcome new guests, and prepare each night for the day ahead.",
+    "cover_image": "https://i7.imageban.ru/out/2026/09/14/dee9af28c512268894936b0dcb73567d.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3951340/791bfdf45e8bcab88d0db81a02cb47fdf437e4a4/ss_791bfdf45e8bcab88d0db81a02cb47fdf437e4a4.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3951340/fd9eb74a028abeb93bbd169f1f65fec678c77cf6/ss_fd9eb74a028abeb93bbd169f1f65fec678c77cf6.1920x1080.jpg"
+      "https://en.riotpixels.com/games/tiny-bakery/screenshots/11/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/tiny-bakery/screenshots/10/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/tiny-bakery/screenshots/9/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/tiny-bakery/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/tiny-bakery/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/tiny-bakery/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/tiny-bakery/screenshots/",
+      "http://s01.riotpixels.net/data/2a/8a/2a8a7350-69ea-4b66-8ce1-af2a7adade79.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8e/51/8e517df7-430a-4da8-be7a-50b7296790ac.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/02/25/0225edc1-bf1e-4c65-bc90-cc692200e9a3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/27/26/2726e7e6-effb-4d06-bc5b-0ed53700cfc3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ba/7e/ba7e6ee2-225b-4380-83ce-f6deb6259758.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2b/4e/2b4e9756-0759-401e-8e44-3813298d5f61.jpg.240p.jpg"
     ],
     "system_requirements": {
       "OS": "Windows 10 (64-bit)",
@@ -204234,15 +204245,19 @@
     "size": "1011.9 MB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/8fhwnujbp11m",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/tiny-bakery/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Managerial",
+      "Isometric",
+      "3D"
+    ],
+    "company": "Bubbly Games",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/3951340/1445996264/23ad9d28d42b50507bd7c342ec6907c8b9f9ba6e/1788984761/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "Tiny Bookshop",
@@ -228759,5 +228774,626 @@
     "source_cover": "fitgirl",
     "source_screenshots": "fitgirl",
     "source_description": "fitgirl"
+  },
+  {
+    "title": "Breathedge 2",
+    "url": "https://steamrip.com/breathedge-2-free-download/",
+    "description": "",
+    "cover_image": "https://i4.imageban.ru/out/2021/10/05/a658179a56a977f16610df1748351712.jpg",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2412960/3f0027c768aca4d2d48297b0bfc3645f2ff47f66/ss_3f0027c768aca4d2d48297b0bfc3645f2ff47f66.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2412960/28739aab193842391312b2d4a54efbb6c61699aa/ss_28739aab193842391312b2d4a54efbb6c61699aa.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "64-bit Windows 10/11",
+      "Processor": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+      "Memory": "12 GB RAM",
+      "Graphics": "NVidia GeForce GTX 1660 6GB / AMD RX 5500 XT 6GB",
+      "DirectX": "Version 11",
+      "Storage": "15 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, RPG, Simulation, Early Access",
+      "Developer": "RedRuins Softworks",
+      "Platform": "PC",
+      "Game Size": "7.3 GB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 25259567"
+    },
+    "size": "7.3 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/m1a29wiq6cur",
+    "fitgirl_url": "https://fitgirl-repacks.site/breathedge/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Adventure",
+      "Survival",
+      "First-person",
+      "3D"
+    ],
+    "company": "RedRuins Softworks, HypeTrain Digital",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Dig For Riches",
+    "url": "https://steamrip.com/dig-for-riches-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3934080/fad5af3054c2fa9bee4c3d5be4a5283b4004bdd8/ss_fad5af3054c2fa9bee4c3d5be4a5283b4004bdd8.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3934080/319ee86295d3028e284b0764e9faac96ca512260/ss_319ee86295d3028e284b0764e9faac96ca512260.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10",
+      "Processor": "Intel Core i7",
+      "Memory": "8 GB RAM",
+      "Graphics": "GTX 1660",
+      "DirectX": "Version 10",
+      "Storage": "5 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Casual, Indie, RPG, Simulation, Strategy",
+      "Developer": "OxygenStudio",
+      "Platform": "PC",
+      "Game Size": "1.7 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 22382688"
+    },
+    "size": "1.7 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/loqfxjumm8jz",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Ben and Ed",
+    "url": "https://steamrip.com/ben-and-ed-free-download/",
+    "description": "Welcome to Ed-0: Zombie Uprising, a new ”Oedo Panic Rogue-like” title. The year is 1854, in Japan at the end of the Edo period. At the time, Japan was in the midst of its isolation, but Western countries were undergoing a technological and labor revolution called the “Zombie Industrial Revolution,” and were eagerly watching for new colonial settlements with a power unmatched in Japan. Soon, the Black Ships arrived in Japan and demanded the opening of the country to the outside world. This allows the zombies to invade Japan…. The zombies that entered the country created more zombies, and the zombie infestation spread around Edo. At such a time, a group of people with mysterious powers, unaffected by zombies, appeared. People rumored them to be the “Zom-beings.” Now, the hunt for zombies by the three “Zom-beings” has begun in order to restore Japan to the way it was before the country was opened to the outside world!! Ed-0: Zombie Uprising takes place in Edo era Japan—but millions of zombies have raided the isolated country! Enter this world as a Samurai, Sumo Wrestler, or Ninja to slaughter the massive horde of undead. Strengthen your character by gathering items and skills in unique dungeons. Everything is randomly generated each time you play! No run is the same. Dungeons won’t be easy, so expect tension with every run—fight to the brink of death and make harsh decisions to survive. Encounter countless surprises and unpredictable adversaries as you expand your power and achieve greatness. Every run is unique. Player judgment will be essential, having to face “once-in-a-lifetime” challenges amid a hoard of zombies.",
+    "cover_image": "https://i3.imageban.ru/out/2023/07/13/4de5d9a2fdcba8eeba11288f6afbc137.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/ed-0-zombie-uprising/screenshots/14/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/ed-0-zombie-uprising/screenshots/12/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/ed-0-zombie-uprising/screenshots/11/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/ed-0-zombie-uprising/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/ed-0-zombie-uprising/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/ed-0-zombie-uprising/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/fe/9f/fe9f539d-110a-466f-b589-4606e7c36711.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7d/77/7d779661-60ff-4b85-91f1-eb1b620efc09.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0a/b4/0ab49779-062c-42d9-ad98-2cf5df706de4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c3/86/c386e363-a967-4bef-8dfa-7641a9688adb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e1/fa/e1faa404-a56d-4d7d-ad64-251d29927558.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/74/8d/748d8046-1156-47aa-be2b-7a88eaeca52f.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Window 7/8 32-bit",
+      "Processor": "Quad-core Intel or AMD, 2,0 GHz or faster",
+      "Memory": "4 GB RAM",
+      "Graphics": "DirectX 10 compatible graphics card",
+      "DirectX": "Version 10",
+      "Storage": "5 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Indie",
+      "Developer": "Sluggerfly",
+      "Platform": "PC",
+      "Game Size": "1.8 GB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 1195046"
+    },
+    "size": "1.8 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/5uz8pd7vgfem",
+    "fitgirl_url": "https://fitgirl-repacks.site/ed-0-zombie-uprising/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Action",
+      "Third-person",
+      "3D",
+      "Zombies"
+    ],
+    "company": "Lancarse, D3Publisher",
+    "updates": [
+      {
+        "name": "Ed-0.Zombie.Uprising.Update.v1.1.3-RUNE.rar",
+        "url": "https://filecrypt.cc/Container/6296AC4F22.html"
+      }
+    ],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Fell & Sell",
+    "url": "https://steamrip.com/fell-sell-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4627110/608384a2ce58e1f0520afe6256e4845852e67358/ss_608384a2ce58e1f0520afe6256e4845852e67358.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4627110/5317170c7c84c39644e9682271cb12bdfb0cc24a/ss_5317170c7c84c39644e9682271cb12bdfb0cc24a.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows 8/8.1/10/11 (x64 x86)",
+      "Processor": "Quad Core Processor or equivalent",
+      "Memory": "8 GB RAM",
+      "Graphics": "GTX 760 2 GB or equivalent",
+      "Storage": "4 GB available space",
+      "Sound Card": "DirectX compatible"
+    },
+    "game_info": {
+      "Genre": "Action, RPG, Simulation",
+      "Developer": "Art Games Studio S.A.",
+      "Platform": "PC",
+      "Game Size": "601.6 MB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 25185742"
+    },
+    "size": "601.6 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/f9efnmxgnjci",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Dreamed Away",
+    "url": "https://steamrip.com/dreamed-away-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1919900/ss_403ff5062a03866c0af680dd590031767ee59d2a.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1919900/ss_3981fdccb281703219b44579c0641c91fe63c358.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows 7",
+      "Processor": "1.2Ghz+",
+      "Memory": "2 GB RAM",
+      "Graphics": "512MB",
+      "Storage": "500 MB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Indie, RPG",
+      "Developer": "WAKE UP GAMES",
+      "Platform": "PC",
+      "Game Size": "574.2 MB",
+      "Released By": "DINOByTES",
+      "Version": "Build 21194159"
+    },
+    "size": "574.2 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/mrc80k7ol1yh",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Fly Corp",
+    "url": "https://steamrip.com/fly-corp-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1372530/ss_2139656ca7929aa362730f5774b0a67b90ddcbb1.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1372530/ss_b428a9af46467373a64aa0945b30f6515fa68a9d.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows 7 SP1, Windows 8.1, Windows 10 (64bit versions only)",
+      "Processor": "Pentium 4 @ 3 GHz/AMD 64 3200+",
+      "Memory": "512 MB RAM",
+      "Graphics": "Compatible with DirectX 11",
+      "DirectX": "Version 11",
+      "Storage": "500 MB available space",
+      "Sound Card": "DirectX® Compatible"
+    },
+    "game_info": {
+      "Genre": "Indie, Simulation, Strategy",
+      "Developer": "KishMish Games",
+      "Platform": "PC",
+      "Game Size": "187.3 MB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 24148984"
+    },
+    "size": "187.3 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/hql91b661ufp",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Master Of Pottery",
+    "url": "https://steamrip.com/master-of-pottery-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1160490/ss_93a9aa5ca446e80a19898342db457c07bb46089e.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1160490/ss_626b866594fc78a131cb6ca18b32032a080ba2f7.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows 7",
+      "Processor": "Dual core CPU 2.4 GHz",
+      "Memory": "4 GB RAM",
+      "Graphics": "GeForce GTX 650",
+      "DirectX": "Version 10",
+      "Storage": "2 GB available space"
+    },
+    "game_info": {
+      "Genre": "Casual, Indie, Simulation",
+      "Developer": "AZGames",
+      "Platform": "PC",
+      "Game Size": "712.2 MB",
+      "Released By": "TENOKE",
+      "Version": "Build 25190195"
+    },
+    "size": "712.2 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/rpeagtthehsy",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Focus Grove",
+    "url": "https://steamrip.com/focus-grove-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4030830/69db46c180067ace6fa30544cd2c8baceffa6dfb/ss_69db46c180067ace6fa30544cd2c8baceffa6dfb.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4030830/a873885b29569361f1b2c1eda6773ea7e4a7865f/ss_a873885b29569361f1b2c1eda6773ea7e4a7865f.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10 x64",
+      "Processor": "Intel Core i5-2500 / AMD FX-6300 or similar",
+      "Memory": "4 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 650 / AMD Radeon HD 7750 (2 GB VRAM)",
+      "Storage": "2500 MB available space"
+    },
+    "game_info": {
+      "Genre": "Casual, Indie, Simulation",
+      "Developer": "Little Lantern",
+      "Platform": "PC",
+      "Game Size": "779.7 MB",
+      "Released By": "I_KnoW",
+      "Version": "Build 25254434"
+    },
+    "size": "779.7 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/fsuix2oh66iv",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Project Cobalt",
+    "url": "https://steamrip.com/project-cobalt-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3916570/290f11878431c609da856ee9fa39e5bd5cba03ff/ss_290f11878431c609da856ee9fa39e5bd5cba03ff.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3916570/a16de572736353be846a3edd396685e314a10296/ss_a16de572736353be846a3edd396685e314a10296.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10",
+      "Processor": "Intel Core i7",
+      "Memory": "8 GB RAM",
+      "Graphics": "GTX 1660",
+      "DirectX": "Version 10",
+      "Storage": "8 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Indie, RPG, Simulation, Strategy",
+      "Developer": "OxygenStudio",
+      "Platform": "PC",
+      "Game Size": "3.7 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 23278727"
+    },
+    "size": "3.7 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/n1ln24etem12",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Power Rangers: Battle for the Grid",
+    "url": "https://steamrip.com/power-rangers-battle-for-the-grid-free-download/",
+    "description": "GRID is a racing experience like no other. Offering unrivalled wheel-to-wheel racing, GRID returns with an all-new experience where every race is the chance to choose your own path, create your own story and conquer the world of Motorsport. Take your place in the GRID World Series and fight in thrilling moment-to-moment battles with the most iconic and desirable race cars – current and classic, from GT through Touring and Muscle to Stock and Super Modified – and in some of the world’s most iconic locations. GRID captures every moment of the race, from the adrenaline rush of lights-out to the elation at the chequered flag. Incidents come one right after the other – tight overtakes, bumper-to bumper scrapes and competitive collisions – all heightened by rivalries, team-mates and a nemesis driver who will all either try to help or hinder your progress. Included DLCs Aston Martin VIP Pass Edition Alfa Romeo 155 TS (+ XP Boost) Edition Chevrolet Camaro SSX Concept (+ XP Boost) Season 1 Season 2 Season 3 Ultimate Edition Upgrade",
+    "cover_image": "https://i86.fastpic.ru/big/2019/1010/17/f0dc9f76c0671f52d800b03163509617.jpg",
+    "screenshots": [
+      "http://en.riotpixels.com/games/grid-ii-2019/screenshots/68/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/grid-ii-2019/screenshots/67/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/grid-ii-2019/screenshots/55/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/grid-ii-2019/screenshots/54/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/grid-ii-2019/screenshots/50/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/grid-ii-2019/screenshots/35/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/5c/4c/5c4cd313-7380-4cd2-bafd-7da6d0f5e9da.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ed/ef/edefd320-d405-468e-a5e3-ee6cf52e758b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/64/8d/648d64eb-c28c-4f08-b7b0-f590f6d0ab45.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ae/42/ae42c941-dbcc-4045-9379-b666d9bae791.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bf/14/bf145cf2-a1a7-4761-b253-65a8dd076306.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bf/b9/bfb9e2e2-9855-4217-a006-fc2c0afa5447.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows 7 64-bit",
+      "Processor": "Intel Core i3-3225 @ 3.30GHz",
+      "Memory": "4 GB RAM",
+      "Graphics": "NVIDIA® GeForce® 8800 GTS 512",
+      "DirectX": "Version 10",
+      "Network": "Broadband Internet connection",
+      "Storage": "2 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action",
+      "Developer": "nWay, INC",
+      "Platform": "PC",
+      "Game Size": "1.5 GB",
+      "Released By": "OFME + CSF",
+      "Version": "Build 9074457"
+    },
+    "size": "1.5 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/syhbncwbbl7i",
+    "fitgirl_url": "https://fitgirl-repacks.site/grid-ultimate-edition/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Arcade",
+      "Racing",
+      "3D"
+    ],
+    "company": "Codemasters",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Scratch the Ticket",
+    "url": "https://steamrip.com/scratch-the-ticket-free-download/",
+    "description": "Scratch the Ticket is a tense, first-person incremental gambling simulator where every lottery card becomes a high-stakes test of nerve and greed. In this high-yield loop, players operate their own machinery to print custom tickets before manually scratching away silver cells to reveal cash rewards. While every revealed multiplier drastically boosts the ticket’s total payout, a single hidden bomb lurks among the cells waiting to instantly detonate and wipe out all accumulated earnings for that card if uncovered.\n\nSuccess hinges entirely on knowing exactly when to walk away and cash out before disaster strikes. As winnings accumulate, players can reinvest their profits into powerful technological upgrades like UV flashlights, LED panels, and chemical masks to gain an illegal edge and peer through the silver film. Ultimately, the objective is to survive the escalating psychological tension, fund progressively advanced printing operations, and scrape together enough cash to purchase a luxurious dream apartment. The Crust",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4626940/b3a2202c102a8417fee9938a418f619f6230d06a/ss_b3a2202c102a8417fee9938a418f619f6230d06a.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4626940/249c5e77d3f67987ff79d2ba9fb79973437c253b/ss_249c5e77d3f67987ff79d2ba9fb79973437c253b.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Win10 x64",
+      "Processor": "Quad-core Intel or AMD, 2.5 GHz or faster",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA GTX 1660 or Radeon RX 5500 XT",
+      "DirectX": "Version 11",
+      "Storage": "2 GB available space"
+    },
+    "game_info": {
+      "Genre": "Casual, Indie, Simulation, Strategy, Free To Play",
+      "Developer": "Shilenok",
+      "Platform": "PC",
+      "Game Size": "780.3 MB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 25056025"
+    },
+    "size": "780.3 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/xdmeuwelk6cm",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Shroom and Gloom",
+    "url": "https://steamrip.com/shroom-and-gloom-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3271280/3fa3d0c9194a61602f7c6070694e53352539c83b/ss_3fa3d0c9194a61602f7c6070694e53352539c83b.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3271280/2ba13c8ddf4f6c809d5ff8c8317eec33ba53bf5f/ss_2ba13c8ddf4f6c809d5ff8c8317eec33ba53bf5f.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10 x64 Bit",
+      "Processor": "Intel Core i3-6300 / AMD FX-8350",
+      "Memory": "8 GB RAM",
+      "Graphics": "GeForce GTX 960 / Radeon RX 570",
+      "DirectX": "Version 11",
+      "Storage": "13 GB available space",
+      "Additional Notes": "Low Quality setting, in 1080p, producing 30 FPS"
+    },
+    "game_info": {
+      "Genre": "Adventure, Indie, Early Access",
+      "Developer": "Team Lazerbeam",
+      "Platform": "PC",
+      "Game Size": "1.1 GB",
+      "Released By": "Rune + CSF",
+      "Version": "Build 25221077"
+    },
+    "size": "1.1 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/tqajmuzhpa3b",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Sporting Goods Shop",
+    "url": "https://steamrip.com/sporting-goods-shop-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3653250/02c7a4f9436a28d5db5d45a6188428f730ec682b/ss_02c7a4f9436a28d5db5d45a6188428f730ec682b.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3653250/56a83be5c41c2d533608c01ae1861c22747112e8/ss_56a83be5c41c2d533608c01ae1861c22747112e8.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows 7 64-bit | Windows 8 64-bit | Windows 10 64-bit",
+      "Processor": "Intel Core i5-9400F | AMD Ryzen 5 3600",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 1050 | AMD Radeon RX-580",
+      "Network": "Broadband Internet connection",
+      "Storage": "1700 MB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Casual, Indie, RPG, Simulation, Sports",
+      "Developer": "Business Tycoon",
+      "Platform": "PC",
+      "Game Size": "1.8 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 25249227"
+    },
+    "size": "1.8 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/zlqfs95bxy9m",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Whiskerwood",
+    "url": "https://steamrip.com/whiskerwood-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2489330/551af359b07969454eccc257518a626012a14b38/ss_551af359b07969454eccc257518a626012a14b38.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2489330/21a0ea1ae67375ac7fd0cd7f596ef4e7b8d70cda/ss_21a0ea1ae67375ac7fd0cd7f596ef4e7b8d70cda.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows® 10 (64-bit)",
+      "Processor": "Intel® Core™ i5-4670 (quad-core) / AMD® FX-Series™ FX-8350 (quad-core)",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA® GeForce® GTX 1050 Ti (4 GB) / AMD® Radeon™ RX-580 (8 GB) / Intel® Arc™ A350 (4 GB)",
+      "DirectX": "Version 12",
+      "Storage": "10 GB available space"
+    },
+    "game_info": {
+      "Genre": "Simulation, Strategy, Early Access",
+      "Developer": "Minakata Dynamics",
+      "Platform": "PC",
+      "Game Size": "2.3 GB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 25248666"
+    },
+    "size": "2.3 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/bavyikh9ic31",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Tricking 0",
+    "url": "https://steamrip.com/tricking-0-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1925560/60c93363fa51f1468fc58284d95b0cbd182102bd/ss_60c93363fa51f1468fc58284d95b0cbd182102bd.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1925560/241255c90e6970276e05389b51eea58fb16e9764/ss_241255c90e6970276e05389b51eea58fb16e9764.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10 version 21H1 (build 19043) or newer",
+      "Processor": "Quad Core Processor > 2.5Ghz, x86, x64 architecture with SSE2 instruction set support",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA 1060, AMD RX56, DirectX 11 or DirectX 12 and Shader Model 5.0",
+      "DirectX": "Version 11",
+      "Storage": "5 GB available space",
+      "Additional Notes": "Please set quality settings to low if you can’t reach 60FPS, the game is way better when it’s smooth."
+    },
+    "game_info": {
+      "Genre": "Action, Indie, Simulation, Sports, Early Access",
+      "Developer": "Full-in Studios",
+      "Platform": "PC",
+      "Game Size": "4.8 GB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 24939452"
+    },
+    "size": "4.8 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/iwj4kk3a1l7e",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
   }
 ]
