@@ -229112,11 +229112,22 @@
   {
     "title": "Project Cobalt",
     "url": "https://steamrip.com/project-cobalt-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "It began with a contract you were never meant to sign. Inside a cold, sterile chamber, silent doctors watched as you agreed to something you didn’t understand. Poison gas filled the room… and darkness consumed you. Days later, you awaken on a hostile island . You are weak, hungry, and unarmed . The experiment has already begun — and survival is no longer a choice… it’s the only option ⚔️. Survive the Unknown Monitor your hunger, thirst, stamina, body temperature, and health — every small decision matters. Beware of scorpions, snakes, crabs, bears, deer, chickens, and more. Fight against invisible threats like disease, poisoning, bleeding, drowning, and exhaustion. The night is long, the storms are violent, and the island itself wants you gone. Gather & Craft Scavenge drifting barrels and containers washed ashore. Collect wood and minerals to forge tools, weapons, and survival gear. Build shelters to withstand storms and environmental hazards. Upgrade what you craft to push your survival further. Economy & Progression Hunt, farm, and gather resources to earn money. Spend your earnings to buy rare items, materials, and upgrades. Decide wisely — every purchase can change the course of your survival. A Dynamic World A full day–night cycle brings both opportunity and danger. Shifting weather changes the way you must play — adapt or perish. The island is unpredictable, and it remembers every mistake you make. Loot containers and drifting barrels for supplies. Key Features Deep survival systems (hunger, thirst, stamina, temperature, health). Dangerous wildlife & environmental hazards. Resource gathering, crafting, and upgrades. Hunting, farming, selling & buying items. Dynamic day–night cycle and weather events.",
+    "cover_image": "https://i6.imageban.ru/out/2026/09/14/830671aed6101239e7b4b68508fa386c.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3916570/290f11878431c609da856ee9fa39e5bd5cba03ff/ss_290f11878431c609da856ee9fa39e5bd5cba03ff.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3916570/a16de572736353be846a3edd396685e314a10296/ss_a16de572736353be846a3edd396685e314a10296.1920x1080.jpg"
+      "https://en.riotpixels.com/games/project-cobalt/screenshots/26/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/project-cobalt/screenshots/23/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/project-cobalt/screenshots/17/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/project-cobalt/screenshots/11/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/project-cobalt/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/project-cobalt/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/project-cobalt/screenshots/",
+      "http://s01.riotpixels.net/data/bc/1f/bc1f724f-9620-460f-924f-1b233740b880.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2a/c5/2ac5de6f-09c1-4359-9dc8-9902ff00cc63.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/36/6d/366dd494-1750-4d78-b0cd-0754c6ba63a3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d5/1f/d51f1c26-0dcc-4f7e-b138-816bbb344586.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/31/a8/31a84d59-e49e-49d6-9083-897ef089b63a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4a/8f/4a8f9443-50ed-4e45-9a3b-ff935b866333.jpg.240p.jpg"
     ],
     "system_requirements": {
       "notes": "Requires a 64-bit processor and operating system",
@@ -229138,15 +229149,22 @@
     "size": "3.7 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/n1ln24etem12",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/project-cobalt/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Action",
+      "Item crafting",
+      "Open world",
+      "Survival",
+      "First-person",
+      "3D"
+    ],
+    "company": "OxygenStudio",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/3916570/1875210419/4aa23fa81a0827037ce95c8f14327e04ecc84f8a/1755287184/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "Power Rangers: Battle for the Grid",
@@ -229386,6 +229404,695 @@
     "size": "4.8 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/iwj4kk3a1l7e",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Carrier Command 2",
+    "url": "https://steamrip.com/carrier-command-2-free-download/",
+    "description": "Carrier Commander is a real-time strategy game which allows you choose the intensity of your gameplay. You can just manage your Aircraft Carrier Operations against incoming attacks or intensify your game play by directly engaging the enemy by controlling your own Jets, Destroyer’s, Rescue Helicopters and more. Move up through the Military Ranks and unlock Special Operation Missions as you climb the the ladder of success. The choice is yours Commander! Game Features Purchase -/ Configure -/ Launch -/ Land -/ Refuel: Your F/A-18C Fighters into the skies to battle against incoming Enemy Aircraft, Ships and Submarines. Upgrade your AA Defenses to Fire Multiple Shells or Increase Reloading Speed but choose wisely as upgrades do not come cheap. Configure your Destroyer’s with various Deck Cannons, Torpedo’s, AA rockets, Short Range Sonar & Radar. Launch your Hawkeye Aircraft to provide Long Range Sonar and Radar for visual warnings on enemy advancements. Launch your 0H-58D attack helicopters to engage in close encounters with approaching enemies. Manage your assets properly to survive or pay the ultimate price! Intensify your engagement against the enemy by Flying your own F18 fighter or take control of your Destroyer’s and annihilate incoming threats. Launch your F18 into the skies using guns, unguided and guided rockets, bombs and destroy incoming planes, ships and submarines. Take Control of your destroyer to search and destroy incoming submarines, destroyer’s, battleships and enemy jets. The money you earn each Level is used as your starting funds for the next round of challenges. Therefore, limiting your purchasing of Fighter Jets and Upgrades greatly improves your starting funds for the next level. Random AI generators ensure No two games are the same when playing CARRIER COMMANDER",
+    "cover_image": "https://i5.imageban.ru/out/2022/08/13/e9a24638d883c8d1ba9b7551470cb1d9.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/carrier-commander/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/carrier-commander/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/carrier-commander/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/carrier-commander/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/carrier-commander/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/carrier-commander/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/b7/c7/b7c77000-ab6d-484a-8f09-9d1c0c5113d3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9d/cc/9dcc3bfe-748d-4a66-8add-4c77c55332cc.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/18/a9/18a9eec9-5cc2-43d9-8dc4-abc5f8ff503d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0f/61/0f613a69-a81a-478c-9019-b8f5154d2537.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fe/c4/fec45255-c85d-448d-a3b4-a156fe2bf261.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/99/f1/99f129a0-27c5-41c3-9a0b-e2c9f449a08a.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Windows 7 / 8 / 10",
+      "Processor": "Intel Core i5-4440 / AMD Ryzen 3 1200",
+      "Memory": "4 GB RAM",
+      "Graphics": "Intel HD 6000 / GeForce 550 / AMD R7 250 (AMD Radeon HD 7750)",
+      "Storage": "1 GB available space",
+      "VR Support": "SteamVR"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Simulation, Strategy",
+      "Developer": "Geometa",
+      "Platform": "PC",
+      "Game Size": "595.6 MB",
+      "Released By": "Goldberg + Skiminok CSF",
+      "Version": "Build 23836745"
+    },
+    "size": "595.6 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/3udn0pu86hmp",
+    "fitgirl_url": "https://fitgirl-repacks.site/carrier-commander/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Strategy",
+      "Real-time",
+      "3D"
+    ],
+    "company": "ss",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Asgard’s Fall — Viking Survivors",
+    "url": "https://steamrip.com/asgards-fall-viking-survivors-free-download/",
+    "description": "In the past, the world was almost invaded by zombies.You will play the commander of the remaining survivor camp, searching for hope for the last surviving companions, forming and assigning your special police squad to explore this post-apocalyptic world filled with zombies! “Fall” was created by Tan Haoxiang, the individual game developer of “The Jiang Si”, “The Jiang Si 2: Curse of Soul”, and “Star Quest”,”Fall” is a top-down modern zombie-style meat pigeon action game that presents players with a challenging and surprising post-apocalyptic this game, you will play as a survivor, shuttling through the ruins of a city overrun by zombies, exploring unknown areas, collecting resources, strengthening yourself, and fighting life and death with various forms of zombies. “Fall” is not only a game that tests players’ operational skills, but also a profound exploration of human nature, survival, and each game, players will experience different stories and face different challenges, and every failure is for a stronger rebirth. Game Features Rich weapons and equipment – From automatic rifles to grenade launchers, from simple police drones to high-tech artificial intelligence characters, the game provides a diverse selection of weapons. Thrilling combat system – Facing hordes of zombies, players need to use strategies and skills to take advantage of the environment and force them to make wise choices between attack and survival. Diverse types of zombies – From ordinary zombies to mutants with special abilities, players will face different challenges.Some zombies are extremely fast, while others have strong attack power, forcing players to constantly adjust their tactics. Story-driven background – Although the game is mainly in the Rogue-like mode, there is a fascinating story hidden behind it.As the game progresses, players will gradually uncover the reasons behind the end of the world and the possible path to redemption.",
+    "cover_image": "https://i5.imageban.ru/out/2024/11/21/3c62908ddbff827b3cc27f422320cc47.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/fall-ii-2024/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/fall-ii-2024/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/fall-ii-2024/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/fall-ii-2024/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/fall-ii-2024/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/fall-ii-2024/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/a3/92/a3921635-91c7-4fb4-84c1-29b2d9dc9fde.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7b/d9/7bd98eaa-facc-45ec-b4e3-c60bffd80e60.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/78/66/7866affa-76d4-44c0-b054-271e751a3fac.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8d/5f/8d5f9c7a-07c0-4d15-96dc-d975d3cc9691.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ee/9a/ee9a16a8-955d-47ea-a61e-d3096f7a47d8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/99/0e/990ea5cc-8fd7-4857-987e-97bcd46ac433.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10",
+      "Processor": "Intel i5-7200U @ 2.50GHz or equivalent",
+      "Memory": "8 GB RAM",
+      "Graphics": "GTX 770 / Radeon 8950 HD",
+      "Storage": "150 MB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Casual, Indie, RPG, Strategy",
+      "Developer": "Soulpotion",
+      "Platform": "PC",
+      "Game Size": "117.2 MB",
+      "Released By": "CSF + RUNE",
+      "Version": "Build 25250644"
+    },
+    "size": "117.2 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/qz0dl79fe359",
+    "fitgirl_url": "https://fitgirl-repacks.site/fall/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Arcade",
+      "Shoot 'em up",
+      "Top view",
+      "3D",
+      "Post-apocalypse",
+      "Zombie"
+    ],
+    "company": "Tan Haoxiang",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Backrooms Cleanup Crew",
+    "url": "https://steamrip.com/backrooms-cleanup-crew-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3140990/a4e02ae9dea54a7c9199f752a275fd0de966d57a/ss_a4e02ae9dea54a7c9199f752a275fd0de966d57a.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3140990/ss_c301c222525bc1ca86823194b68115a7d4e24724.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10 64-bit or higher",
+      "Processor": "Intel Core i5-4670K / AMD FX-8350 CPU or equivalent",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 970 / AMD Radeon R9 290 or equivalent",
+      "Storage": "5 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Casual, Indie, Simulation, Early Access",
+      "Developer": "On The Bridge Games",
+      "Platform": "PC",
+      "Game Size": "7.3 GB",
+      "Released By": "OFME + CSF",
+      "Version": "Build 23629295"
+    },
+    "size": "7.3 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/gs8q1rr9jlp0",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "ChainStaff",
+    "url": "https://steamrip.com/chainstaff-free-download/",
+    "description": "Our planet is under attack from the Star Spores, and they’ve warped life on Earth into ferocious uber-bugs. Even worse, a nasty alien has made its new home directly attached to your head. But it’s not all bad news – your new best friend has provided both the strength to fight back against the mutated horde, and control over a weapon that can tip the balance of the battle in humanity’s favor: the ChainStaff . As you traverse the surreal landscape, you’ll encounter your fellow soldiers, stranded in harsh environments. Do you rescue your comrades, or listen to the alien voice in your head and harvest them for upgrades? If you can persevere and defeat the Star Spores, perhaps you can save everyone… including yourself. Game Features MASTER THE CHAINSTAFF – Hurl it as a spear and slice aliens in half. Throw it to the ground as a shield to stop incoming attacks. Grapple and swing on just about anything. The transforming ChainStaff does all this and more, and all with one button, it’s all up to you. YOU DIED – Pounded to mush, stabbed through the heart, sheared in two. Prepare to meet your doom in a myriad of disgusting ways. All deaths are avoidable, but some dangers may require special strategies. The game features around 6 to 8 hours of gameplay on the first playthrough. FEROCIOUS FOES – The creatures of Earth have been mutated by aliens: you’ll come across dozens of unusual creatures, and once you get past those, you’ll have to fight against screen-filling monstrosities. GROTESQUE UPGRADES – Stranded soldiers dot the landscape of ChainStaff. You have to choose whether to rescue them or devour their organs; each option has unique benefits and will lead to different endings. 10 WILD LEVELS – Mist trails around rocky crags. Wind blows over icy, moon-lit hills. Water streams down mossy cliffs. Fully hand-drawn art immerses you in a living world inspired by album covers of the 70s and 80s. KILLER SOUNDTRACK – Scorching riffs and peals of thunder. Pumping beats drive you ever forward. Rock out to the classic metal soundtrack by the award-winning composer Deon van Heerden of Broforce and Warhammer 40k: Shootas Blood & Teef soundtrack fame. There’s some lighter interludes with 70s synth, catchy melodies, and even some cowbell. Now it’s back to the heavy tracks, where it’s time to bang your head while smashing skulls.",
+    "cover_image": "https://i2.imageban.ru/out/2026/04/20/e020c859970f06fc0a608a4a0de014f5.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/chainstaff/screenshots/11/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/chainstaff/screenshots/9/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/chainstaff/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/chainstaff/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/chainstaff/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/chainstaff/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/chainstaff/screenshots/",
+      "http://s01.riotpixels.net/data/d9/30/d93092eb-3957-4fe2-9356-be266ef2ac55.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d9/6f/d96f0f0f-0439-42d7-b479-f6f4172a8633.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b3/ce/b3ced9c6-3ad4-49b5-919c-300a0b157b32.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8f/d9/8fd9e074-6068-4de2-8306-09fa5728da62.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/eb/8f/eb8f77db-e655-4713-ad81-8e6c6c131f13.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f9/e3/f9e37d07-1d42-46cc-9c4e-08ec719378cf.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10",
+      "Processor": "Quad Core CPU",
+      "Memory": "4 GB RAM",
+      "Graphics": "GT 1030",
+      "Storage": "2 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action",
+      "Developer": "Mommy’s Best Games",
+      "Platform": "PC",
+      "Game Size": "2.7 GB",
+      "Released By": "RUNE",
+      "Version": "Build 24785049"
+    },
+    "size": "2.7 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/oyjdf1qq4o7g",
+    "fitgirl_url": "https://fitgirl-repacks.site/chainstaff/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Action",
+      "Platform adventure",
+      "Retro look",
+      "Side",
+      "2D"
+    ],
+    "company": "Mommy’s Best Games",
+    "updates": [
+      {
+        "name": "ChainStaff.Update.v1.1.0.20-RUNE.rar",
+        "url": "https://filecrypt.cc/Container/1AA6D3FAE3.html"
+      },
+      {
+        "name": "ChainStaff.Update.v1.1.0.31-RUNE.rar",
+        "url": "https://filecrypt.cc/Container/6BA5E74B2E.html"
+      }
+    ],
+    "video": "https://video.fastly.steamstatic.com/store_trailers/2976260/28343418/f687ec90d84ed5c5299469236ef6888e3db63379/1770227073/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Layers of Fear",
+    "url": "https://steamrip.com/layers-of-fear-free-download/",
+    "description": "",
+    "cover_image": "http://i80.fastpic.ru/big/2016/0803/65/2f20cc5753c0657d3e8047d31e64be65.jpg",
+    "screenshots": [
+      "http://en.riotpixels.com/games/layers-of-fear-inheritance/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/layers-of-fear-inheritance/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/layers-of-fear-inheritance/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/layers-of-fear-inheritance/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/layers-of-fear-inheritance/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/layers-of-fear-inheritance/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/2c/8a/2c8a5a03-169b-41bd-bc61-c5d8017d8e0e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/49/64/49642d36-d3ba-493c-a7ea-0e33799150db.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f8/24/f8244ffd-a811-44d5-b3f1-695050af57cd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a0/e2/a0e22f1f-e5f4-448c-b491-7ae35d238001.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d9/b8/d9b83699-4d36-43af-9600-7b68285a9688.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/55/f7/55f7c2ce-1acc-4458-acdc-4dcb05fd6578.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Win 10 with support for DirectX 12 Agility SDK",
+      "Processor": "Intel Core i5 4690/ AMD Ryzen 3 1200",
+      "Memory": "8 GB RAM",
+      "Graphics": "Nvidia GTX 1060 3GB/ AMD RX 580 4GB",
+      "DirectX": "Version 12",
+      "Storage": "20 GB available space"
+    },
+    "game_info": {
+      "Genre": "Adventure",
+      "Developer": "Anshar Studios",
+      "Platform": "PC",
+      "Game Size": "17.2 GB",
+      "Released By": "Rune + CSF",
+      "Version": "Build 16329825"
+    },
+    "size": "17.2 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/v6mwxkdpjjqv",
+    "fitgirl_url": "https://fitgirl-repacks.site/layers-of-fear-v1-1-0-inheritance-dlc/",
+    "fitgirl_matched": true,
+    "genres": [],
+    "company": "Aspyr Media",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "FTL: Faster Than Light",
+    "url": "https://steamrip.com/ftl-faster-than-light-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/212680/ss_9dd5cc63efcc5964d45713b7304e71d41be6a3d5.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/212680/ss_708e385bd461625790763fb8ddad537d278ad15c.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Windows XP / Vista / 7",
+      "Processor": "2 GHz",
+      "Memory": "1 GB RAM",
+      "Graphics": "1280×720 minimum resolution, OpenGL 2.0 Support, and recommended dedicated graphics card with 128 MB of RAM",
+      "Hard Drive": "175 MB HD space"
+    },
+    "game_info": {
+      "Genre": "Indie, Simulation, Strategy",
+      "Developer": "Subset Games",
+      "Platform": "PC",
+      "Game Size": "418.2 MB",
+      "Released By": "CSF + RUNE",
+      "Version": "Build 21700320"
+    },
+    "size": "418.2 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/dbey12woocyl",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Samurai Jack: Battle Through Time",
+    "url": "https://steamrip.com/samurai-jack-battle-through-time-free-download/",
+    "description": "Voiced by the original voice-actors, Samurai Jack: Battle Through Time is an action platform game that spans across time and space, where your actions will determine a new legend! [b]Game Features[/b] An Untold Adventure That Ties Into the Epic Series Finale. Team up with trusted allies from the show to face off against familiar enemies. Explore Worlds from the Award Winning Series. Visit classic worlds and moments from your favorite episodes. Travel to a dark future to free mankind. Dive into the past to face off against diabolical monsters. Seek your fate as you travel across space and time. Create Your Own Legend. Equip and master over a dozen different weapons in combat. Increase your power even more by training and unlocking new skills to support your playstyle.",
+    "cover_image": "https://i112.fastpic.ru/big/2020/0822/0f/3f105adb5ae2f632835087cc0b93710f.jpg",
+    "screenshots": [
+      "http://en.riotpixels.com/games/samurai-jack-battle-through-time/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/samurai-jack-battle-through-time/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/samurai-jack-battle-through-time/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/samurai-jack-battle-through-time/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/samurai-jack-battle-through-time/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/samurai-jack-battle-through-time/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/54/6d/546d61bf-1083-4a9d-82e4-e63876813657.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/11/2c/112ca986-2858-475b-8120-46ffdc41181c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c4/e4/c4e43e04-a1a1-44a2-97b4-9787015c79fb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6f/e9/6fe9c193-5ba5-485e-bf98-357cbf21525f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a0/f7/a0f7c45e-be25-432f-9c98-099386bc1e1f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b1/65/b165efbf-2534-4cf1-8c31-5e967a93714f.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows 7 64bit",
+      "Processor": "Intel Core i5 3rd Generation",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 750 Ti or AMD Radeon HD 7750",
+      "DirectX": "Version 11",
+      "Storage": "10 GB available space",
+      "Sound Card": "Windows-compatible sound card",
+      "Additional Notes": "PREFERRED: Xbox Wireless Controller (Xbox One, Windows 10) OR DUALSHOCK 4 wireless controller (PS4)"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure",
+      "Developer": "Soleil Ltd.",
+      "Platform": "PC",
+      "Game Size": "3.8 GB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 5489031"
+    },
+    "size": "3.8 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/90oizmm75xvg",
+    "fitgirl_url": "https://fitgirl-repacks.site/samurai-jack-battle-through-time/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Action",
+      "Third-person",
+      "3D"
+    ],
+    "company": "Soleil, Turner Broadcasting System",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Dumb Ways to Build",
+    "url": "https://steamrip.com/dumb-ways-to-build-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4412320/50bbab2a43e2786f65ea7f69defe82f0dd01b718/ss_50bbab2a43e2786f65ea7f69defe82f0dd01b718.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4412320/3ac7689ec99a19ea2af6c7e77394d9661c6051ed/ss_3ac7689ec99a19ea2af6c7e77394d9661c6051ed.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Win 10 (64-bit)",
+      "Processor": "4-Core / 8-Thread (i3-10100 / Ryzen 3100)",
+      "Memory": "8 GB RAM",
+      "Graphics": "GTX 1060 (6GB) / RX 580 (8GB)",
+      "DirectX": "Version 11",
+      "Network": "Broadband Internet connection",
+      "Storage": "7 GB available space",
+      "Additional Notes": "VRAM: 4GB"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Casual",
+      "Developer": "Dumb Ways to Die",
+      "Platform": "PC",
+      "Game Size": "2.4 GB",
+      "Released By": "0xdeadc0de",
+      "Version": "Build 25236478"
+    },
+    "size": "2.4 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/0esxq0wmfahq",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Onimusha: Warlords",
+    "url": "https://steamrip.com/onimusha-warlords-free-download/",
+    "description": "Capcom’s riveting samurai adventure returns! This version includes the original game’s intense swordplay and dramatic revenge story, plus a host of enhancements. Improved controls allow players to move and fight with analog-stick precision. The crisp, high-definition visuals support 16:9 widescreen as well as the original 4:3 resolution display. A new soundtrack brings the feudal Japan setting to life with an air of authenticity and intrigue. Experience this enhanced version of the best-selling action-adventure classic!",
+    "cover_image": "https://i5.imageban.ru/out/2025/05/04/4e3dae6aa0e964c2e92628adee1f2fcf.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/onimusha-warlords/screenshots/13/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/onimusha-warlords/screenshots/12/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/onimusha-warlords/screenshots/10/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/onimusha-warlords/screenshots/9/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/onimusha-warlords/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/onimusha-warlords/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/62/1b/621baa84-62ff-4c90-8dba-101d5df6a4ae.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/42/57/4257adcb-e29e-49f8-ab51-2c416d03c0b6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ff/54/ff54d0e7-4be8-427d-9a9b-928b6d12f16e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a4/5d/a45d6fda-cef5-4856-b348-4403fb5c2371.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cd/e2/cde2374e-505e-44ea-9651-1b3b7da48e7b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/12/7a/127a194a-7370-4339-a623-a2d777c1601e.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Windows 7 64 bit",
+      "Processor": "Intel® Core™ i3 Dual Core Series or AMD equivalent or better",
+      "Memory": "4 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 760 or AMD Radeon R7 260x",
+      "DirectX": "Version 10",
+      "Storage": "14 GB available space",
+      "Sound Card": "DirectSound (DirectX® 10.0c or better)"
+    },
+    "game_info": {
+      "Genre": "Action",
+      "Developer": "CAPCOM CO., LTD",
+      "Platform": "PC",
+      "Game Size": "10.1 GB",
+      "Released By": "Rune, Ty AR-81",
+      "Version": "Build 17777991"
+    },
+    "size": "10.1 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/u2iaol6iiwty",
+    "fitgirl_url": "https://fitgirl-repacks.site/onimusha-warlords/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Action",
+      "Puzzle solving",
+      "Third-person",
+      "3D models on 2D backgrounds"
+    ],
+    "company": "Capcom Production Studio 2, Capcom",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "States of Power",
+    "url": "https://steamrip.com/states-of-power-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3126500/9519532a2f837d6a2f2f8fad4bb32e5fdaef94ff/ss_9519532a2f837d6a2f2f8fad4bb32e5fdaef94ff.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3126500/aec9c520013856f7faa973ff96c227a152ab849d/ss_aec9c520013856f7faa973ff96c227a152ab849d.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 (64-bit)",
+      "Processor": "Intel i3, AMD Ryzen 3",
+      "Memory": "4 GB RAM",
+      "Graphics": "Integrated Graphics Card",
+      "Network": "Broadband Internet connection",
+      "Storage": "2 GB available space"
+    },
+    "game_info": {
+      "Genre": "Simulation, Strategy",
+      "Developer": "Sarunas",
+      "Platform": "PC",
+      "Game Size": "248.9 MB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 25166599"
+    },
+    "size": "248.9 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/50smccaehv1a",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Stonewards",
+    "url": "https://steamrip.com/stonewards-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4502710/65256087a9f660ac7a029013ca249110d7f8ff12/ss_65256087a9f660ac7a029013ca249110d7f8ff12.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4502710/0619c734627c59bef2864105ccd7d855ad7e55f2/ss_0619c734627c59bef2864105ccd7d855ad7e55f2.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows (64-bit) 10",
+      "Processor": "Intel Core i5 @ 2.5 GHz or equivalent",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA GTX 1060 / AMD RX 480",
+      "DirectX": "Version 11",
+      "Storage": "5 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Indie, Early Access",
+      "Developer": "Banana Tiger Studio",
+      "Platform": "PC",
+      "Game Size": "823.1 MB",
+      "Released By": "OFME + CSF",
+      "Version": "Build 25256319"
+    },
+    "size": "823.1 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/9i1o64dsyxvs",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "The Hong Kong Massacre",
+    "url": "https://steamrip.com/the-hong-kong-massacre-free-download/",
+    "description": "Blast your way through the streets of Hong Kong in a fast-paced, top-down shooter. Inspired by classic action movies, The Hong Kong Massacre places you at the center of a hard-boiled revenge story, filled with brutal, cinematic shootouts and vivid underworld locations. Take on the role of a former police detective bent on exacting vengeance for his partner’s murder and use of a mixture of raw firepower, slow-motion and dive/dodge mechanics to tear your way through the criminal ranks. Dive through windows or dodge behind cover – every shot is lethal, so stay aware of your surroundings and exploit the environment however you can. When the heat is on, you can slow down time and plan for the next move. Avoiding bullets whilst taking out enemies is crucial for survival – but beware, your slow-motion ability is limited: plan fast, think ahead and bring down the bad guys unscathed. Each level features a range of challenges, allowing you to to unlock new weapons as you progress, trading bullets from restaurants to rooftops across a moody, crime-riddled city.",
+    "cover_image": "https://i109.fastpic.ru/big/2019/0123/9b/ddc8da84d510195225e9d6cbbda1559b.jpg",
+    "screenshots": [
+      "http://en.riotpixels.com/games/hong-kong-massacre/screenshots/12/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/hong-kong-massacre/screenshots/11/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/hong-kong-massacre/screenshots/9/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/hong-kong-massacre/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/hong-kong-massacre/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/hong-kong-massacre/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/39/72/3972bbbb-8da2-48ab-ba18-5b359a15d7e7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9f/93/9f930c5f-f6b3-41a2-9d9b-a5504d8023ee.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4a/7b/4a7b5c03-6028-4ec5-a1dd-9de5ed567890.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8e/69/8e69be72-ffe6-45d4-98c2-b32c835bd3ee.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a9/07/a907de50-8094-4849-aea8-6fc73be663c1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b9/db/b9dbfc56-52f8-4979-816c-9b67d3d6af20.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows 7/8.1/10 x64",
+      "Memory": "2 GB RAM",
+      "DirectX": "Version 11",
+      "Storage": "6 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Indie",
+      "Developer": "VRESKI",
+      "Platform": "PC",
+      "Game Size": "2.6 GB",
+      "Released By": "Goldberg + lanternjoe CSF",
+      "Version": "Build 19809217"
+    },
+    "size": "2.6 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/wdw2tl5xpw1p",
+    "fitgirl_url": "https://fitgirl-repacks.site/the-hong-kong-massacre/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Arcade",
+      "Shoot 'em up",
+      "Top-down",
+      "3D"
+    ],
+    "company": "Vreski",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Walk of Life",
+    "url": "https://steamrip.com/walk-of-life-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1910150/aaa95a2a74db04f51d317e3551ecf8b05bbac3a7/ss_aaa95a2a74db04f51d317e3551ecf8b05bbac3a7.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1910150/f210e091c4023dcd2c1734510f6d7588bb455c0f/ss_f210e091c4023dcd2c1734510f6d7588bb455c0f.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10",
+      "Processor": "Quad core 4Ghz+",
+      "Memory": "8 GB RAM",
+      "Graphics": "Intel UHD Graphics 630, Geforce GTX 750 Ti or Radeon RX 550",
+      "DirectX": "Version 11",
+      "Storage": "8 GB available space",
+      "Additional Notes": "SSD Drive"
+    },
+    "game_info": {
+      "Genre": "Casual, Indie, Simulation, Strategy",
+      "Developer": "Porcelain Fortress",
+      "Platform": "PC",
+      "Game Size": "547.2 MB",
+      "Released By": "TENOKE",
+      "Version": "Build 25209901"
+    },
+    "size": "547.2 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/68a3q5j0grhp",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "The Roottrees are Dead",
+    "url": "https://steamrip.com/the-roottrees-are-dead-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2754380/ss_6caf606c6def8bbb20d980a01523e454ff21f37b.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2754380/ss_5fc8190017185b6cea6d16adb3f2406a4e8d85ac.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 64-Bit",
+      "Processor": "2.0Ghz Dual Core",
+      "Memory": "8 GB RAM",
+      "Graphics": "Intel HD Graphics 510",
+      "Storage": "1 GB available space",
+      "Additional Notes": "Your graphics card needs at least 2GB of VRAM"
+    },
+    "game_info": {
+      "Genre": "Adventure",
+      "Developer": "Evil Trout Inc.",
+      "Platform": "PC",
+      "Game Size": "642.8 MB",
+      "Released By": "CSF + RUNE",
+      "Version": "Build 25235501"
+    },
+    "size": "642.8 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/ju21ef4nhiv5",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Will You Wheel?",
+    "url": "https://steamrip.com/will-you-wheel-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2443770/ss_aadd4a6dc39b21e37101426c2f1fd189668cd7f1.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2443770/ss_f87ef7c46e028f7d912654f8c84dd7f2896546be.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "windows 10",
+      "Processor": "i5 4th gen",
+      "Memory": "8 GB RAM",
+      "Graphics": "gtx 1050 ti",
+      "Storage": "2 GB available space"
+    },
+    "game_info": {
+      "Genre": "Adventure, Casual, Indie, Racing, Simulation, Early Access",
+      "Developer": "Noon Games",
+      "Platform": "PC",
+      "Game Size": "846.9 MB",
+      "Released By": "CSF + RUNE",
+      "Version": "Build 25284113"
+    },
+    "size": "846.9 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/y3vi9t73smol",
     "fitgirl_url": null,
     "fitgirl_matched": false,
     "genres": [],
