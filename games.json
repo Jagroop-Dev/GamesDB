@@ -230208,11 +230208,22 @@
   {
     "title": "Ragnar",
     "url": "https://steamrip.com/ragnar-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Embark on a journey across the nine realms that branch from Yggdrasill. From magnificent worlds to shadowy depths, each realm is filled with its own atmosphere, dangers, and unique traits. Battle giants, survive in icy labyrinths, cleanse enchanted forests. Every realm flows with its own rhythm. Each time you set out, overcome new paths. Discover mysterious dungeons. Use shortcuts. Customize your own journey. Your difficulty is your choice. Will you take the easier path, or chase greater rewards through rising challenges and dare to defy Loki? With permanent upgrades and a dynamic progression system, you will grow stronger with every attempt. As you forge deep bonds with familiar figures like Thor, Freyja, Heimdall, and Eitri, you will face dark and legendary foes. The interactions you share with each character will shape your story, placing you in the heart of a saga filled with the support of allies and the wrath of enemies. Grow stronger by acquiring weapons, abilities, and divine blessings. Combine powers like Tyr’s Spear of Justice and Freyja’s Phantom Ambush to forge your own combat style. Create unique combinations to face every encounter with greater power. Stand against the chaos Loki has unleashed during Ragnarok and become a shining light in the darkest days of Norse mythology by overthrowing his throne.",
+    "cover_image": "https://i2.imageban.ru/out/2026/09/16/62831f80930a3c9e074bc43beb3398e7.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3309140/2728b87e84151972488ca55798d2e8468a25fdc4/ss_2728b87e84151972488ca55798d2e8468a25fdc4.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3309140/edb2933bb4cd1d4337ace73733a6544b2fdd6593/ss_edb2933bb4cd1d4337ace73733a6544b2fdd6593.1920x1080.jpg"
+      "https://en.riotpixels.com/games/ragnar/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/ragnar/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/ragnar/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/ragnar/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/ragnar/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/ragnar/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/ragnar/screenshots/",
+      "http://s01.riotpixels.net/data/9d/9c/9d9cb7d0-d6ea-43e3-8b02-37b5b1821711.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6c/22/6c22c742-d619-4da3-90ce-e6ca669d20a3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/93/02/9302f6f7-09ec-436c-9063-4e9beb3ecf34.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3d/d0/3dd087c7-42aa-41e9-94c0-8f984c9c5b73.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5e/66/5e669669-64dc-4e7c-b7fc-bcc5221e9569.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/67/87/67871ee5-de0d-4767-b105-3761944822de.jpg.240p.jpg"
     ],
     "system_requirements": {
       "notes": "Requires a 64-bit processor and operating system",
@@ -230233,15 +230244,20 @@
     "size": "2.7 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/3vr2p8rch1to",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/ragnar/",
+    "fitgirl_matched": true,
+    "genres": [
+      "RPG",
+      "Action RPG",
+      "Isometric",
+      "3D"
+    ],
+    "company": "Fimbulwinter Games",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/3309140/493738375/c1e40572add16db7a48b89dd78954bc46e84a497/1764187345/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "Calm Down, Stalin",
@@ -230458,5 +230474,716 @@
     "source_cover": "steamrip",
     "source_screenshots": "steamrip",
     "source_description": "steamrip"
+  },
+  {
+    "title": "BLACKWOOD",
+    "url": "https://steamrip.com/blackwood-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3639070/5689c9c25d0e92e832cb8dc1a09109597f92d257/ss_5689c9c25d0e92e832cb8dc1a09109597f92d257.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3639070/3ab883dc35658b8b98252241586da2ffd45cc985/ss_3ab883dc35658b8b98252241586da2ffd45cc985.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 / Windows 11 64-bit",
+      "Processor": "AMD Ryzen 5 3600 / Intel Core i5-10400F",
+      "Memory": "16 GB RAM",
+      "Graphics": "NVIDIA GTX 1650 / AMD Radeon RX 570 / Intel Arc A380",
+      "DirectX": "Version 11",
+      "Storage": "30 GB available space",
+      "Additional Notes": "1080p Low settings, 30 FPS at native resolution. SSD required. FSR2 available as an optional performance mode."
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, RPG, Strategy",
+      "Developer": "AttritoM7 Productions",
+      "Platform": "PC",
+      "Game Size": "11.3 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25336981"
+    },
+    "size": "11.3 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/qzndmt1bcxdj",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Brutal Legend",
+    "url": "https://steamrip.com/brutal-legend-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/225260/ss_1c1c018a1d7b597bea836eec24dbfe4170ffb069.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/225260/ss_e3bebd4c526ac3a0edff40779e37bfbb5c96893a.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Windows XP SP3",
+      "Processor": "Intel Core 2 Duo at 2.2 GHz, or AMD Athlon 64 at 2.2 GHz",
+      "Memory": "1 GB RAM",
+      "Graphics": "512 MB GeForce 220, Radeon 4550, Intel HD 3000 Graphics",
+      "DirectX®": "9.0c",
+      "Hard Drive": "8 GB HD space",
+      "Sound": "DirectX Compatible Sound Card",
+      "Other Requirements": "Broadband Internet connection"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Strategy",
+      "Developer": "Double Fine Productions",
+      "Platform": "PC",
+      "Game Size": "7.7 GB",
+      "Released By": "Goldberg + Dude Dude CSF, cs.rin.ru",
+      "Version": "Build 5185731"
+    },
+    "size": "7.7 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/noo543kxn0tj",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Bridge Constructor Portal",
+    "url": "https://steamrip.com/bridge-constructor-portal-free-download/",
+    "description": "In a town where anything goes, you can’t rise to the top without taking a few others down. From dodgy deals to shifty tricks, do what you gotta do to go from small-time slumlord to filthy rich tycoon. In Constructor, you take on the role of a budding property tycoon who must do battle with your competitors to create a thriving and profitable city…in ANY way you see fit! Design and share city maps with online multiplayer battles against up to 3 of your mates. Build houses and factories, cope with the incessant demands of your tenants as well as keeping a whole bunch of UNDESIRABLE characters under control! This ‘colourful’ group of degenerates can also be used against the competition with humorous and catastrophic effect! If all else fails, call in the Mob…",
+    "cover_image": "http://i96.fastpic.ru/big/2017/0616/64/8d2fe0ca3922d02c98e0c62f69b7a464.jpg",
+    "screenshots": [
+      "http://en.riotpixels.com/games/constructor-hd/screenshots/11/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/constructor-hd/screenshots/10/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/constructor-hd/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/constructor-hd/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/constructor-hd/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/constructor-hd/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/56/8e/568ebd1b-20d8-49b8-afa8-71f89390f606.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/93/08/9308a61e-477c-4da1-bf11-2988cd65a5ea.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/01/38/01386132-d714-4cf3-9df5-b3e06ff48f24.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d0/36/d03620ef-7a7d-4a60-a704-c5a2005aa1b1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fb/46/fb46ae12-fe2a-4d78-9387-c595e3658da3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1b/8a/1b8aa95f-71ae-4c85-93ed-fade22a7ff38.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Windows 7, 8, 10",
+      "Processor": "2 GHz",
+      "Memory": "2 GB RAM",
+      "Graphics": "DirectX10 compatible",
+      "Storage": "200 MB available space"
+    },
+    "game_info": {
+      "Genre": "Simulation, Strategy",
+      "Developer": "ClockStone",
+      "Platform": "PC",
+      "Game Size": "139.4 MB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 21190795"
+    },
+    "size": "139.4 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/029fh8bvh7xa",
+    "fitgirl_url": "https://fitgirl-repacks.site/constructor-hd/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Managerial",
+      "Isometric",
+      "2D",
+      "Real-time"
+    ],
+    "company": "System 3 Software",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "CICADAMATA",
+    "url": "https://steamrip.com/cicadamata-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3817250/c3de8ee0834a75cd51ecbadd400fe34d9af680f7/ss_c3de8ee0834a75cd51ecbadd400fe34d9af680f7.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3817250/4291603e913b189c46af083e8dc3a33df95e991e/ss_4291603e913b189c46af083e8dc3a33df95e991e.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10",
+      "Processor": "Intel® Core™ i3",
+      "Memory": "2 GB RAM",
+      "Graphics": "NVIDIA GeForce® GTX 1050 2GB",
+      "DirectX": "Version 12",
+      "Storage": "1 GB available space",
+      "Sound Card": "Onboard sound card",
+      "Additional Notes": "+ GPU D3D12 / vulkan 1.0 support required + internet connection to access CCID features recommended +"
+    },
+    "game_info": {
+      "Genre": "Action, Indie",
+      "Developer": "✿ flowergarden",
+      "Platform": "PC",
+      "Game Size": "384 MB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 25235003"
+    },
+    "size": "384 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/0mgvi83kmwfo",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Dimraeth",
+    "url": "https://steamrip.com/dimraeth-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2402680/f8dc2b60d74ac04923a0a84696ebc0b0c3fe6627/ss_f8dc2b60d74ac04923a0a84696ebc0b0c3fe6627.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2402680/6833bc1c53f355756af218ea5c858b846d61acda/ss_6833bc1c53f355756af218ea5c858b846d61acda.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10",
+      "Processor": "Intel Core i3 (4th gen) or AMD equivalent",
+      "Memory": "4 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 750 / AMD Radeon R7 260X (or integrated Intel UHD 620)",
+      "DirectX": "Version 11",
+      "Network": "Broadband Internet connection",
+      "Storage": "5 GB available space",
+      "Sound Card": "Integrated",
+      "Additional Notes": "Runs on most modern laptops and desktops."
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, RPG, Early Access",
+      "Developer": "Mudtek",
+      "Platform": "PC",
+      "Game Size": "939 MB",
+      "Released By": "Unsteam + CSF",
+      "Version": "Build 25335390"
+    },
+    "size": "939 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/u8ar4cv44707",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "ENSLAVED™: Odyssey to the West™ Premium Edition",
+    "url": "https://steamrip.com/enslaved-odyssey-to-the-west-premium-edition-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/245280/ss_b2491624291cbd259d1120f864ec76d420ce4d2f.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/245280/ss_ad007847169ad51832f8a94bf37362843586dc5d.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Windows XP SP2, Vista or higher",
+      "Processor": "Intel Core 2 Duo @ 2.20GHz / AMD Athlon 64 X2 4600+",
+      "Memory": "2 GB RAM",
+      "Graphics": "Nvidia Geforce 9600/ ATI Radeon HD 4850",
+      "DirectX": "Version 9.0c",
+      "Storage": "12 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure",
+      "Developer": "Ninja Theory",
+      "Platform": "PC",
+      "Game Size": "10.2 GB",
+      "Released By": "CSF + RUNE",
+      "Version": "Build 159687"
+    },
+    "size": "10.2 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/ux5pw4kdt9io",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Dunebound Tactics",
+    "url": "https://steamrip.com/dunebound-tactics-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3034660/ss_ff3e869425b64bfdf3c3314ff4fc31d8901312a2.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3034660/ss_8ece8cf0ce6545d443a14f24dcf76ae42cddcf78.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10",
+      "Processor": "Core i5 or similar",
+      "Memory": "6 GB RAM",
+      "Graphics": "GTX 1650 or similar",
+      "Storage": "1 GB available space",
+      "Sound Card": "DirectX compatible"
+    },
+    "game_info": {
+      "Genre": "Indie, RPG, Strategy",
+      "Developer": "Terahard Ltd",
+      "Platform": "PC",
+      "Game Size": "886.6 MB",
+      "Released By": "Razor1911",
+      "Version": "Build 25322949"
+    },
+    "size": "886.6 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/ej07hk8na8ef",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Friendly Steps",
+    "url": "https://steamrip.com/friendly-steps-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4279630/dc574c4bcea345ffe0a2dfea962a7e8e1aa94250/ss_dc574c4bcea345ffe0a2dfea962a7e8e1aa94250.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4279630/43b679166d76255654a4164937741227833b392d/ss_43b679166d76255654a4164937741227833b392d.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 (64-bit)",
+      "Processor": "Intel Core i5-4460 or AMD FX-8320 / Ryzen 3 1200",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 750 Ti / GTX 950 or AMD Radeon R7 260X / RX 550",
+      "DirectX": "Version 11",
+      "Network": "Broadband Internet connection",
+      "Storage": "1.5 GB available space",
+      "Sound Card": "there is no audio gambling (yet)"
+    },
+    "game_info": {
+      "Genre": "Adventure, Casual, Massively Multiplayer, RPG, Simulation",
+      "Developer": "KORO.GAMES",
+      "Platform": "PC",
+      "Game Size": "556 MB",
+      "Released By": "OFME",
+      "Version": "Build 25209541"
+    },
+    "size": "556 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/gitwom6649t6",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Guns and Nuns: Storming Hell",
+    "url": "https://steamrip.com/guns-and-nuns-storming-hell-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3818000/f9f9dda0706bbf7e4d0ea96b35ac2d4034b4b2a8/ss_f9f9dda0706bbf7e4d0ea96b35ac2d4034b4b2a8.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3818000/20d3d37812e89c04c1b1567e7ee48d1bd0eaf767/ss_20d3d37812e89c04c1b1567e7ee48d1bd0eaf767.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "10",
+      "Processor": "AMD Ryzen 3 3200G 4-core",
+      "Memory": "2 GB RAM",
+      "Graphics": "512MB, OpenGL 3",
+      "DirectX": "Version 11",
+      "Storage": "1000 MB available space"
+    },
+    "game_info": {
+      "Genre": "Action",
+      "Developer": "RM120",
+      "Platform": "PC",
+      "Game Size": "207.6 MB",
+      "Released By": "RUNE + CSF (ty PlazaMarina on csrin)",
+      "Version": "Build 22668607"
+    },
+    "size": "207.6 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/qrtg7c3xxnte",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Hand Simulator: Survival",
+    "url": "https://steamrip.com/hand-simulator-survival-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/924140/ss_162a568a09302801bf516b04d654cbac4feb129d.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/924140/ss_9cfbd75a8e9f84f9a25bd13658a81a25a3002204.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "64-bit Windows 7, Windows 8.1, Windows 10",
+      "Processor": "Intel Core i3-4340 / AMD FX-6300",
+      "Memory": "2 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB",
+      "DirectX": "Version 11",
+      "Network": "Broadband Internet connection",
+      "Storage": "2 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Indie, Massively Multiplayer, RPG, Simulation",
+      "Developer": "HFM Games",
+      "Platform": "PC",
+      "Game Size": "1.5 GB",
+      "Released By": "CSF + RUNE",
+      "Version": "Build 4503372"
+    },
+    "size": "1.5 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/nteg172jvl56",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Perfect Heist 2",
+    "url": "https://steamrip.com/perfect-heist-2-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1521580/ss_5922495fa1c1b43ea26ddbf2ddd46ae1841776e9.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1521580/ss_658aba3dfc0ed26c5d43811ba7e10625a3d628fb.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows 7 SP1",
+      "Processor": "1.5 GHz Dual-Core",
+      "Memory": "4 GB RAM",
+      "Graphics": "GeForce 500 Series",
+      "Storage": "1 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Casual, Indie, Strategy",
+      "Developer": "yeswecamp",
+      "Platform": "PC",
+      "Game Size": "1022.3 MB",
+      "Released By": "CSF + OFME",
+      "Version": "Build 25256009"
+    },
+    "size": "1022.3 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/ixig21a5nern",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Scavland",
+    "url": "https://steamrip.com/scavland-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3373500/020aacd32a68a7c3a306dce696cbd4b70b30bee5/ss_020aacd32a68a7c3a306dce696cbd4b70b30bee5.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3373500/8f8be2f1c7f5c5085e2f9c729c00a7da0c0c0a62/ss_8f8be2f1c7f5c5085e2f9c729c00a7da0c0c0a62.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10",
+      "Processor": "Intel 2.77GHz Quad-core",
+      "Memory": "8 GB RAM",
+      "Graphics": "Dedicated graphics card with 2 GB of RAM minimum, OpenGL 2.1 and GLSL 1.2 support (generally 2012 or newer)",
+      "DirectX": "Version 11",
+      "Storage": "2 GB available space",
+      "Sound Card": "FMOD compatible sound card"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Indie, RPG, Early Access",
+      "Developer": "NoShadow",
+      "Platform": "PC",
+      "Game Size": "1007.4 MB",
+      "Released By": "CSF + RUNE",
+      "Version": "Build 25355838"
+    },
+    "size": "1007.4 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/k1z0ezk174mu",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Pony Island",
+    "url": "https://steamrip.com/pony-island-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/405640/ss_b38a055c62deb55c58e90d9ec7342180c0c32931.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/405640/ss_d15b9dedb18844484796fe7127aa220acfd861a6.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Windows XP",
+      "Memory": "2 GB RAM",
+      "DirectX": "Version 9.0",
+      "Storage": "400 MB available space"
+    },
+    "game_info": {
+      "Genre": "Indie",
+      "Developer": "Daniel Mullins Games",
+      "Platform": "PC",
+      "Game Size": "155.5 MB",
+      "Released By": "CSF + RUNE",
+      "Version": "Build 15100157"
+    },
+    "size": "155.5 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/y5nem6o6rvfg",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Styx: Master of Shadows",
+    "url": "https://steamrip.com/styx-master-of-shadows-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242640/ss_0911fa2d227586bc9de8d84fb54c15438ca93404.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242640/ss_65bb99f320d66f96c4a6fc609dd93a707eed384b.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "WINDOWS VISTA SP2/WINDOWS 7/WINDOWS 8",
+      "Processor": "AMD/INTEL DUAL-CORE 2.4 GHZ",
+      "Memory": "3072 MB RAM",
+      "Graphics": "1024 MB 100% DIRECTX 9 AND SHADERS 4.0 COMPATIBLE AMD RADEON HD 5850/NVIDIA GEFORCE GTX 560 OR HIGHER",
+      "Storage": "8 GB available space",
+      "Sound Card": "DIRECTX 9 COMPATIBLE",
+      "Additional Notes": "INTERNET CONNECTION REQUIRED FOR THE GAME ACTIVATION"
+    },
+    "game_info": {
+      "Genre": "Action",
+      "Developer": "Cyanide Studio",
+      "Platform": "PC",
+      "Game Size": "5.9 GB",
+      "Released By": "Prophet + lanternjoe CSF",
+      "Version": "Build 445470"
+    },
+    "size": "5.9 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/qwnykop8xmbj",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "The Lantern of the Laughless Saint",
+    "url": "https://steamrip.com/the-lantern-of-the-laughless-saint-free-download/",
+    "description": "“Once upon a time, there was a very sad princess. She felt so unloved and unhappy, that everything around her became grey and lifeless and the entire land was deprived of its color and joy. Our fable begins when a single, lonely lantern was lit in a faraway village…” Be the wind and guide a beautiful sky lantern that spreads the powerful message of everlasting love, by bringing life and color back to the world around you. Enjoy four beautiful Asian-inspired worlds, each with a different theme, nature and architecture. Spread vibrant, happy colors through grey and lifeless lands by flying over them as a red, light-emitting lantern. The influence of the lantern’s light not only changes the color of the world, but also produces various additional effects, such as turning other lamps on, bringing animals to life, and making windmills start spinning. You’ll ultimately succeed once the kingdom is full of color and happiness has returned to the land. [b]Game Features[/b] Bring the powerful message of everlasting love to four Asian-inspired worlds Create wonderful lantern festivals by spreading warmth and joy Restful music and peaceful sounds will accompany you on your journey towards happiness Immerse yourself in a relaxing experience, like a virtual coloring book with an aesthetic atmosphere Virtual reality support (Oculus Rift and HTC Vive)",
+    "cover_image": "http://i82.fastpic.ru/big/2016/1116/52/dbf1b88d928569ff53f845d17c940552.jpg",
+    "screenshots": [
+      "http://en.riotpixels.com/games/lantern/screenshots/36/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/lantern/screenshots/35/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/lantern/screenshots/33/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/lantern/screenshots/30/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/lantern/screenshots/29/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/lantern/screenshots/26/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/67/cd/67cda2a4-ba07-48b1-bdbc-e02aadcfeefb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/41/95/4195e390-7f52-4264-a1ab-e48323a24795.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7f/d9/7fd92a62-0831-4df2-91b3-87957c580e49.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ff/d4/ffd4f109-3de7-4fd9-8787-bbd3447d6776.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/27/66/27665318-101a-4f7a-bfc9-5b12e40ec0b5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/83/b4/83b45005-01a5-494d-a9dc-0e9c7a75f82b.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 or higher (64-bit OS Required)",
+      "Processor": "Intel Core i5-4460 (3.40 GHz) or better; Quad-core or better",
+      "Memory": "8 GB RAM",
+      "Graphics": "Nvidia GeForce GTX 970, AMD Radeon R9 290 equivalent or better",
+      "DirectX": "Version 12",
+      "Storage": "8 GB available space",
+      "Additional Notes": "Network connection required for multiplayer"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, RPG, Early Access",
+      "Developer": "NerveLabs",
+      "Platform": "PC",
+      "Game Size": "8.6 GB",
+      "Released By": "Rune + lanternjoe CSF",
+      "Version": "Build 25253273"
+    },
+    "size": "8.6 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/40t33ki6lcry",
+    "fitgirl_url": "https://fitgirl-repacks.site/lantern/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Exploration",
+      "Third-person",
+      "3D"
+    ],
+    "company": "Storm in a Teacup / 1C Publishing EU",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "WheelMates",
+    "url": "https://steamrip.com/wheelmates-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3905450/43391abb4d9188545f3abcf9ea460f037f922beb/ss_43391abb4d9188545f3abcf9ea460f037f922beb.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3905450/94c01d7b1d2e2702dc2db95a8e7986427f7a540a/ss_94c01d7b1d2e2702dc2db95a8e7986427f7a540a.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "64 bit Windows 10/11",
+      "Processor": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA GTX 1060 / AMD RX 580",
+      "DirectX": "Version 12",
+      "Network": "Broadband Internet connection",
+      "Storage": "15 GB available space"
+    },
+    "game_info": {
+      "Genre": "Adventure, Indie, Racing",
+      "Developer": "Firevolt",
+      "Platform": "PC",
+      "Game Size": "6.3 GB",
+      "Released By": "CSF + OFME",
+      "Version": "Build 25208735"
+    },
+    "size": "6.3 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/f17ifrgkn7az",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Ys VIII: Lacrimosa of DANA",
+    "url": "https://steamrip.com/ys-viii-lacrimosa-of-dana-free-download/",
+    "description": "Ys returns with a brand new adventure for the first time in 8 years! Adol awakens shipwrecked and stranded on a cursed island. There, he and the other shipwrecked passengers he rescues form a village to challenge fearsome beasts and mysterious ruins on the isolated island. Amidst this, Adol begins to dream of a mysterious blue-haired maiden living in an unknown world. Join Adol as he unravels the riddle of the cursed isle and the blue-haired maiden Dana in Ys VIII: Lacrimosa of DANA! An Epic Tale – Follow Adol on his latest adventure and uncover the mysteries of the cursed island. Party On! – Change your playable character on-the-fly as you battle ferocious foes in lightning-fast combat. Another Side – Unravel the mystery of the blue-haired maiden Dana through her unique gameplay sections. It Takes a Village! – Rescue your fellow shipwrecked passengers and bring them to your village where they will provide valuable services. Included DLCs Adol’s Adventure Essentials DLC Advanced Accessory Set Bottled Potion Set Castaway Start Dash Set Digital Mini Art Book Digital Soundtrack Sampler Economy Ingredient Set Elixir Set 1 Elixir Set 2 Elixir Set 3 Elixir Set 4 Elixir Set 5 Fish Bait Set 1 Fish Bait Set 2 Fish Bait Set 3 Free Set 1 Free Set 2 HQ Texture Pack Laxia’s “Eternian Scholar” Costume Premium Material Set Ripe Fruit Set Status Recovery Set Tempest Set 1 Tempest Set 2 Tempest Set 3 Tempest Set 4 Tempest Set 5 Useful Accessory Set",
+    "cover_image": "https://i111.fastpic.ru/big/2020/0120/66/5763cd2d01c15b2b920dde07de51e366.jpg",
+    "screenshots": [
+      "http://en.riotpixels.com/games/ys-8-lacrimosa-of-dana/screenshots/88/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/ys-8-lacrimosa-of-dana/screenshots/86/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/ys-8-lacrimosa-of-dana/screenshots/85/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/ys-8-lacrimosa-of-dana/screenshots/84/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/ys-8-lacrimosa-of-dana/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/ys-8-lacrimosa-of-dana/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://s01.riotpixels.net/data/38/9c/389cdec3-3c10-49da-90be-8750b4ec7df5.jpg.240p.jpg",
+      "https://s01.riotpixels.net/data/0c/01/0c01de30-cdb4-4109-9014-61eaa65f4692.jpg.240p.jpg",
+      "https://s01.riotpixels.net/data/6d/d7/6dd70cce-4a6a-4932-adef-f7122bccaedb.jpg.240p.jpg",
+      "https://s01.riotpixels.net/data/07/cf/07cfbc4a-582f-4af8-a728-003dd1ee6e49.jpg.240p.jpg",
+      "https://s01.riotpixels.net/data/21/18/21188e6c-1660-4aa7-9a0d-38526e794a10.jpg.240p.jpg",
+      "https://s01.riotpixels.net/data/68/ab/68ab6587-8b88-4e94-85db-0a26e8d0e427.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Windows 10/8.1/7 64-bit",
+      "Processor": "Core i3-2100 3.10 GHz",
+      "Memory": "4 GB RAM",
+      "Graphics": "Geforce GTX 650 Ti",
+      "DirectX": "Version 11",
+      "Storage": "30 GB available space",
+      "Sound Card": "Onboard"
+    },
+    "game_info": {
+      "Genre": "Action, RPG",
+      "Developer": "Nihon Falcom",
+      "Platform": "PC",
+      "Game Size": "22.9 GB",
+      "Released By": "Fixed exe, Ty Mataki952 + machine4578 DLCs + Owla CSF",
+      "Version": "Build 9885278"
+    },
+    "size": "22.9 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/f8qhm45novei",
+    "fitgirl_url": "https://fitgirl-repacks.site/ys-viii-lacrimosa-of-dana/",
+    "fitgirl_matched": true,
+    "genres": [
+      "RPG",
+      "Open world",
+      "Third-person",
+      "3D",
+      "Japanese"
+    ],
+    "company": "Nihon Falcom, NIS America",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   }
 ]
