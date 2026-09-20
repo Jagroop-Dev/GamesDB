@@ -228848,11 +228848,22 @@
   {
     "title": "Dig For Riches",
     "url": "https://steamrip.com/dig-for-riches-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "⛏ Dig, Carry, Trade The deeper you go underground, the more opportunities you discover. Dig For Riches is a comprehensive mining simulation focused on digging, transporting, trading, and progression. Dig, collect, carry, sell — invest wisely, go deeper, and grow your profits. Dig For Riches delivers a mining experience built around digging, transportation, upgrades, and planning. Make smart decisions, improve your equipment, and push deeper into the mine.",
+    "cover_image": "https://i6.imageban.ru/out/2026/09/19/d20bc459c1a0fd6ffc5f653a0d219875.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3934080/fad5af3054c2fa9bee4c3d5be4a5283b4004bdd8/ss_fad5af3054c2fa9bee4c3d5be4a5283b4004bdd8.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3934080/319ee86295d3028e284b0764e9faac96ca512260/ss_319ee86295d3028e284b0764e9faac96ca512260.1920x1080.jpg"
+      "https://en.riotpixels.com/games/dig-for-riches/screenshots/11/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/dig-for-riches/screenshots/10/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/dig-for-riches/screenshots/9/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/dig-for-riches/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/dig-for-riches/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/dig-for-riches/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/dig-for-riches/screenshots/",
+      "http://s01.riotpixels.net/data/6e/67/6e67875c-a3c8-40c0-8d05-90bc5bdaccaa.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c6/bd/c6bd0e1e-7f7c-48ce-a792-9433fa82e5cb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8d/64/8d648375-a75b-44e7-a070-2d2a6016cfd2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c8/37/c837a826-b573-4e00-852d-b61ebb63717b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ce/9d/ce9d8e57-3ac5-48e0-9637-4eb8160f9782.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b5/70/b5706c99-035a-413c-a452-e1e0ea61412a.jpg.240p.jpg"
     ],
     "system_requirements": {
       "notes": "Requires a 64-bit processor and operating system",
@@ -228874,15 +228885,19 @@
     "size": "1.7 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/loqfxjumm8jz",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/dig-for-riches/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Lifestyle",
+      "First-person",
+      "3D"
+    ],
+    "company": "OxygenStudio",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/3934080/313861041/93ec20add4843acde39928ed92a10d60aea28109/1766594939/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "Ben and Ed",
@@ -232590,6 +232605,251 @@
     "size": "12.3 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/ye84irws8u76",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Nightwater",
+    "url": "https://steamrip.com/nightwater-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3983860/6a12a9603232784e28f2c995fa4e0665d302a829/ss_6a12a9603232784e28f2c995fa4e0665d302a829.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3983860/06f58616d766502b10a816d1c2e74ea0783a7e9e/ss_06f58616d766502b10a816d1c2e74ea0783a7e9e.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 or later (64-Bit)",
+      "Processor": "i5-3570 3.4 GHz 4 Core",
+      "Memory": "8 GB RAM",
+      "Graphics": "Nvidia GTX 1650/GTX 1050-ti, or AMD RX 470/RX 570, or equivalent performance & VRAM",
+      "Storage": "10 GB available space"
+    },
+    "game_info": {
+      "Genre": "Adventure, Casual, Indie, Simulation, Strategy",
+      "Developer": "Studio Ashty",
+      "Platform": "PC",
+      "Game Size": "1.4 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 25396168"
+    },
+    "size": "1.4 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/1ro2611gxbhu",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Paver: Tidy Up Together",
+    "url": "https://steamrip.com/paver-tidy-up-together-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5120650/c810900d673a1c0e9b596fa7af5d47cd8e634144/ss_c810900d673a1c0e9b596fa7af5d47cd8e634144.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5120650/256747a3fb127fbea421386b13e92ebda10a0ddb/ss_256747a3fb127fbea421386b13e92ebda10a0ddb.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows 7 64-bit | Windows 8 64-bit | Windows 10 64-bit",
+      "Processor": "Intel Core i5-11400F | AMD Ryzen 5 5600x",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 1060 | AMD Radeon R9-290X",
+      "Network": "Broadband Internet connection",
+      "Storage": "750 MB available space"
+    },
+    "game_info": {
+      "Genre": "Casual, Indie, Simulation",
+      "Developer": "Games Together",
+      "Platform": "PC",
+      "Game Size": "791.5 MB",
+      "Released By": "TENOKE",
+      "Version": "Build 25385319"
+    },
+    "size": "791.5 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/ybidwv2cyfok",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "PATLABOR the Case Files",
+    "url": "https://steamrip.com/patlabor-the-case-files-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3275400/e6ace991e16e2a81d893b7165c83c235b4c78b5e/ss_e6ace991e16e2a81d893b7165c83c235b4c78b5e.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3275400/1f64ef3e3313fab68d5b2a7aeeccadfd3ebd07cd/ss_1f64ef3e3313fab68d5b2a7aeeccadfd3ebd07cd.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 64-bit (or newer)",
+      "Processor": "Intel Core i5-8400 / AMD Ryzen 5 3500",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 1060 6GB or AMD Radeon RX 580 8GB",
+      "DirectX": "Version 12",
+      "Storage": "15 GB available space",
+      "Additional Notes": "1080P, 30FPS, Graphics Settings: Textures [Medium], Foliage [Medium], Global Illumination SS GI (Medium), Reflections SS (Medium)"
+    },
+    "game_info": {
+      "Genre": "Action",
+      "Developer": "Chime",
+      "Platform": "PC",
+      "Game Size": "8.4 GB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 25253389"
+    },
+    "size": "8.4 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/g5nqoqubsjth",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Sunken Realms",
+    "url": "https://steamrip.com/sunken-realms-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1897860/04743334848c8ef794ee68d1f385b7658e73a4a5/ss_04743334848c8ef794ee68d1f385b7658e73a4a5.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1897860/a60c02aa177b9e049af710285d1ebc04a1dc54f7/ss_a60c02aa177b9e049af710285d1ebc04a1dc54f7.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Windows 7"
+    },
+    "game_info": {
+      "Genre": "Adventure",
+      "Developer": "Magic Puncher Games",
+      "Platform": "PC",
+      "Game Size": "9.8 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25394133"
+    },
+    "size": "9.8 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/05hihlq4s7kt",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "The Walking Dead: Streets of Survival",
+    "url": "https://steamrip.com/the-walking-dead-streets-of-survival-free-download/",
+    "description": "The Walking Dead: Streets of Survival challenges you to intense arcade brawling in the unforgiving world of AMC’s The Walking Dead. Play as iconic survivors Rick Grimes, Daryl Dixon, Michonne, and unlockable Negan while fighting through walker-infested tunnels, devastated settlements, and hostile strongholds packed with explosive encounters. Face Alexandria’s most ruthless foes, the Saviors led by Negan, along with overwhelming waves of Walkers as you unleash crushing combos, signature weapon attacks, and devastating finishers in a relentless battle for survival. Based on the events of the All Out War storyline, fight through a campaign that reimagines the Saviors conflict that features walkers, threats, and surprises pulled from across the world of AMC’s The Walking Dead. You’ll explore familiar environments from the show – including the Sanctuary, Hilltop, Alexandria – enhanced by dynamic set pieces, environmental hazards, and intense, story-driven moments. Step into the boots of legendary characters from The Walking Dead, each with a unique fighting style, stats, and signature abilities inspired by the series. Rick’s magnum, Michonne’s katana, and Daryl’s trusty crossbow are all ready for battle – with Negan’s Lucille waiting to be unlocked. Use brutal melee abilities, crowd-clearing ranged attacks, or a mix of the two in fast-paced skirmishes. Enjoy responsive, crisp, and satisfying fighting gameplay while exploring the apocalypse. Battle through creeping armies of the undead and dangerous members of The Saviors that force you to adapt, assess threats, and fight for every inch of ground. Take on powerful, fan-favorite walkers like Winslow, the Well Walker, and more. The Saviors provide their own challenges as you throw down with Negan and Simon in intense, multi-phase boss battles that test your skill, strategy, and survival instincts. Master each character’s moveset and tackle multiple difficulty levels in an experience built for repeat runs and escalating challenges. Or jump in with an optional Easy Mode for casual play.",
+    "cover_image": "https://i8.imageban.ru/out/2026/09/19/a2868ba26ffc94f383a30ae863e83818.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/walking-dead-streets-of-survival/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/walking-dead-streets-of-survival/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/walking-dead-streets-of-survival/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/walking-dead-streets-of-survival/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/walking-dead-streets-of-survival/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/walking-dead-streets-of-survival/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/walking-dead-streets-of-survival/screenshots/",
+      "http://s01.riotpixels.net/data/b4/ec/b4ecf279-5f8d-48bf-be8c-8870d7238cf9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/69/52/6952a520-d283-4c1d-926c-2600cf5cb0e9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fc/19/fc196031-ffe4-4062-8071-17a1e19ff57f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f8/ed/f8ed51f5-3ba9-4892-8c55-d0871f6cc485.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/88/75/8875fa86-768a-4cd1-a62c-feb86d5dd522.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/06/33/063396c1-9674-4375-9573-4756f9047c02.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 (64-bit)",
+      "Processor": "Intel Core i3-2100",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA GeForce GT 1000 Series",
+      "DirectX": "Version 11",
+      "Storage": "2 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action",
+      "Developer": "Odaclick Game Studio",
+      "Platform": "PC",
+      "Game Size": "2.2 GB",
+      "Released By": "RUNE",
+      "Version": "Build 24739991"
+    },
+    "size": "2.2 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/s5shboj68fdb",
+    "fitgirl_url": "https://fitgirl-repacks.site/the-walking-dead-streets-of-survival/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Arcade",
+      "Beat 'em up (Brawler)",
+      "Side",
+      "2D",
+      "Post-apocalypse",
+      "Zombies"
+    ],
+    "company": "Trailmark Games, Odaclick Game Studio",
+    "updates": [],
+    "video": "https://video.fastly.steamstatic.com/store_trailers/3777850/233404710/3a3b2a152753a175d4181853bf3c7ce7828d107c/1789486371/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "There Is mORE",
+    "url": "https://steamrip.com/there-is-more-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3931000/ba4af3767c93bb7906b00a751e75b58096710321/ss_ba4af3767c93bb7906b00a751e75b58096710321.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3931000/10b31f9f08b88c3faac9b1d9dd25bbf3401af1f3/ss_10b31f9f08b88c3faac9b1d9dd25bbf3401af1f3.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10 / Windows 11",
+      "Processor": "Dual Core 2.4 GHz",
+      "Memory": "4 GB RAM",
+      "Graphics": "2 GB VRAM / DirectX 11+ support",
+      "DirectX": "Version 11",
+      "Storage": "2 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Indie",
+      "Developer": "ByteBeyond",
+      "Platform": "PC",
+      "Game Size": "973.9 MB",
+      "Released By": "TENOKE",
+      "Version": "Build 25203837"
+    },
+    "size": "973.9 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/w0ktoxfmrpka",
     "fitgirl_url": null,
     "fitgirl_matched": false,
     "genres": [],
