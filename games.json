@@ -230200,11 +230200,22 @@
   {
     "title": "Creator Chronicles",
     "url": "https://steamrip.com/creator-chronicles-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Welcome! You’ve just met the developer who was pulled into their own game. Become a guild master, grow your village, hire guild members, and clear dungeons. With glass-hearted guild members who quit the game after dying in a dungeon, what kind of chronicle will you write? Write your own chronicle. Everything in the game depends on your choices as the guild master. You can focus on crafting, engage in battles, or nurture your village. Or you could simply spend the day watching your lively guild members chatter away. Your choices will become the history of this world. Build your own village. Demolish burned buildings, construct new ones, tend your farm, craft goods, and decorate your village. Guild members stay busy growing herbs, brewing potions, and fishing in the village. The items you create can be sold at the auction house for profit. And what will you do with the gold you earn? The growth of the village is in your hands. Invite guild members to your guild. Guild members with various personalities collect ores, brew potions, and cook according to their abilities. They also join the battles! If you’ve ever played an online game, you’ve probably met these unique and colorful guild members. Invite them to your guild. Dungeons & Raids with Guild Members To return the developer to the real world, you must grow the village. Try battles with various party compositions. During simultaneous battles, party members will level up and earn equipment and gold. Be careful! What’s scarier than bugs is the fragile mentality of a guild member who quits the game after a defeat! If you make your guild members and equipment strong enough in lower dungeons, it will greatly help protect their mentality from increasingly stronger monsters. If you lose a battle, analyze the battle log to find improvements and try again! Trade at the Auction House The Auction House is where you buy and sell the items you need. If you need something immediately, you can pay a high price to get it, or if you have time, you might grab an item someone urgently listed for less than half the price. Your choice will greatly affect how quickly you accumulate wealth. Wise trading is the shortcut to rapid growth. Sell items to visitors, from hundreds to thousands, and earn profits. Complete the Codex The Codex is divided into Alchemy, Cooking, Blacksmithing, and Enchanting, depending on the guild members’ professions. Farming, Mining, and Fishing are also included. The higher the level, the more valuable the crafted items become, and the faster you can acquire resources. Will you be able to return the developer to the real world? We look forward to your story.",
+    "cover_image": "https://i6.imageban.ru/out/2026/09/20/bacb4d2d859500fe3c8e8e81e55189ff.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3947460/ec342728b915ba199d14bd8dc4046070323c0ac5/ss_ec342728b915ba199d14bd8dc4046070323c0ac5.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3947460/ec61802587bc1b47fe5ce13a8f41e2efcac5c189/ss_ec61802587bc1b47fe5ce13a8f41e2efcac5c189.1920x1080.jpg"
+      "https://en.riotpixels.com/games/creator-chronicles/screenshots/13/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/creator-chronicles/screenshots/11/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/creator-chronicles/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/creator-chronicles/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/creator-chronicles/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/creator-chronicles/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/creator-chronicles/screenshots/",
+      "http://s01.riotpixels.net/data/33/b7/33b72d2b-dcf9-472b-aa00-55c22579e361.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/17/a0/17a094b6-f25f-4224-987e-530df5f8f2af.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1d/d0/1dd0f9de-4680-43ac-83f4-3d3feec11211.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4c/b6/4cb6278b-b527-456c-81d8-5b6dcf37aff8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1f/d8/1fd821d4-60e0-460b-9c51-83f3446d798a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a1/13/a113d1e1-90f8-493c-acb7-efe6412e7026.jpg.240p.jpg"
     ],
     "system_requirements": {
       "OS": "Window 10",
@@ -230225,15 +230236,21 @@
     "size": "1.3 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/qcv7wxbl2tw5",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/creator-chronicles/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Lifestyle",
+      "Managerial",
+      "RPG",
+      "Top-down",
+      "2D"
+    ],
+    "company": "Gamersky Games, Origin Studio",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/3947460/520681462/455bcbf465b99936a3e365e2e1df546b79c208bb/1776657520/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "Ragnar",
@@ -232859,5 +232876,929 @@
     "source_cover": "steamrip",
     "source_screenshots": "steamrip",
     "source_description": "steamrip"
+  },
+  {
+    "title": "Boomerang Fu",
+    "url": "https://steamrip.com/boomerang-fu-free-download/",
+    "description": "Reaving through hordes of nightmares isn’t the only thing your boomerang is good for: once thrown, you can slingshot directly to it, preserving momentum and throwing yourself through the air. Slow down time and use well-aimed and well-timed throws to get around, above, and behind your foes. Speed is everything, and only the nimblest boomerang-er will survive… Fight otherworldly forces and look cool doing it. Impress the boomerang with stylish tricks and it’ll grant you stranger powers — powers that’ll let you defeat the forces of the depths with greater ease. Kaspidae smiles upon you and your killer moves… They creep and crawl from crevices… swoop and dive from the treetops… and spray nasty bile at you from all angles. Keep your wits about you – nowhere is safe. Whatever you do, don’t stand still, or you’ll surely be consumed… Fight your way through the bowels of ruined civilization undone by these creatures of nightmare and stop them spreading to the rest of your world. Something lurks deep underneath these ruined halls, spewing corruption… can you defeat whatever it is? And even if you can… will that really be the end? Millipede friend.",
+    "cover_image": "https://i2.imageban.ru/out/2021/07/12/a9a08d6ca7aa306095628d2b4ce5acee.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/boomerang-x/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/boomerang-x/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/boomerang-x/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/boomerang-x/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/boomerang-x/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/boomerang-x/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/2d/f6/2df67139-c814-4b57-9bd3-fb5f45a22dbf.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/44/a2/44a2149d-ac67-41c9-887e-7cf317218030.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d7/f2/d7f29c50-0717-410f-83ef-4400becc6b12.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7b/ab/7bab9c5d-8d20-48c3-9bda-998b7a0ce306.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c4/3a/c43afd7a-b313-4bbd-969b-0d7ea6b09191.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cd/69/cd69c067-959e-4f7e-8354-679f8408abfa.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows 7+",
+      "Processor": "Intel Core i5-5257U, AMD Ryzen 3 1200 or equivalent",
+      "Memory": "4 GB RAM",
+      "Graphics": "GeForce GTX 1050, AMD RX 460 or equivalent",
+      "DirectX": "Version 11",
+      "Storage": "600 MB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Casual, Indie",
+      "Developer": "Cranky Watermelon",
+      "Platform": "PC",
+      "Game Size": "163.6 MB",
+      "Released By": "CSF + RUNE",
+      "Version": "Build 20430461"
+    },
+    "size": "163.6 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/227j1ch3siuv",
+    "fitgirl_url": "https://fitgirl-repacks.site/boomerang-x/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Action",
+      "Shooter",
+      "RPG",
+      "Third-person",
+      "3D"
+    ],
+    "company": "DANG!, Devolver Digital",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "DeathSprint 66",
+    "url": "https://steamrip.com/deathsprint-66-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1273560/ss_1fa2d7f03b464c9a6f4920fb658cde7e2346f937.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1273560/ss_bb83066867dfe2c1d8b963d5682d2137f8196341.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10",
+      "Processor": "Intel Core i5-8400 CPU @ 2.80GHz / AMD Ryzen 5 2600",
+      "Memory": "10 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 1070 / AMD Radeon RX 5700 / Intel Arc A580 Graphics"
+    },
+    "game_info": {
+      "Genre": "Action, Racing, Sports",
+      "Developer": "Sumo Digital",
+      "Platform": "PC",
+      "Game Size": "6.8 GB",
+      "Released By": "RUNE",
+      "Version": "Build 17155957"
+    },
+    "size": "6.8 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/exy68ceg92g2",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Deus Ex: Mankind Divided",
+    "url": "https://steamrip.com/deus-ex-mankind-divided-free-download/",
+    "description": "The year is 2029, and mechanically augmented humans have now been deemed outcasts, living a life of complete and total segregation from the rest of society. Now an experienced covert operative, Adam Jensen is forced to operate in a world that has grown to despise his kind. Armed with a new arsenal of state-of-the-art weapons and augmentations, he must choose the right approach, along with who to trust, in order to unravel a vast worldwide conspiracy. Included Content Deus Ex: Mankind Divided v1.19 build 801.0 Deus Ex: Mankind Divided – System Rift Deus Ex: Mankind Divided – Assault Pack Deus Ex: Mankind Divided – Tactical Pack Deus Ex: Mankind Divided – Augmented Covert Agent Consumables Pack Deus Ex: Mankind Divided – Classic Gear Deus Ex: Mankind Divided – Enforcer Gear Deus Ex: Mankind Divided – Intruder Gear Deus Ex: Mankind Divided – Jensen Story: Desperate Measures Deus Ex: Mankind Divided – A Criminal Past Deus Ex: Mankind Divided – Digital Comic Book Deus Ex: Mankind Divided – Digital Mini-Artbook Deus Ex: Mankind Divided – Digital Novella Deus Ex: Mankind Divided – Digital OST Sampler Note: Since Breach Mode is linked to Internet leaderboards, it’s disabled by SKIDROW and not available.",
+    "cover_image": "http://i84.fastpic.ru/big/2016/1125/62/88baae4eb48e3f9c203607613957a162.jpg",
+    "screenshots": [
+      "http://en.riotpixels.com/games/deus-ex-mankind-divided/screenshots/178/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/deus-ex-mankind-divided/screenshots/157/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/deus-ex-mankind-divided/screenshots/124/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/deus-ex-mankind-divided/screenshots/122/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/deus-ex-mankind-divided/screenshots/117/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/deus-ex-mankind-divided/screenshots/95/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/7c/d5/7cd56222-1829-4d2c-9a0e-ab5555dd735c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f5/b2/f5b225bb-3357-4569-9844-28ed0fd1348f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e0/5f/e05f3e49-5bcd-4817-9dc9-a22bf455a051.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ce/dd/ceddbfb7-483a-4ac3-9a1e-b0135674dc7f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2c/13/2c13bd20-0a4c-4477-b6aa-fec08303c80d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/69/06/6906c26f-56d1-4b2d-b72b-0c8ef598bc77.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Windows 7.1SP1 or above (64-bit Operating System Required)",
+      "Processor": "Intel Core i3-2100 or AMD equivalent",
+      "Memory": "8 GB RAM",
+      "Graphics": "AMD Radeon HD 7870 (2GB) or NVIDIA GeForce GTX 660 (2GB)",
+      "Storage": "45 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, RPG",
+      "Developer": "Eidos Montreal",
+      "Platform": "PC",
+      "Game Size": "35.6 GB",
+      "Released By": "Denuvoless, Ty devilwhite007 + lanternjoe CSF",
+      "Version": "Build 3355064"
+    },
+    "size": "35.6 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/ekg1summ5q17",
+    "fitgirl_url": "https://fitgirl-repacks.site/deus-ex-mankind-divided/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Action",
+      "Shooter",
+      "RPG",
+      "Stealth",
+      "First-person",
+      "Third-person",
+      "3D",
+      "Cyberpunk"
+    ],
+    "company": "Eidos-Montreal / Square Enix",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Castlevania Advance Collection",
+    "url": "https://steamrip.com/castlevania-advance-collection-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1552550/ss_e1b2a6445392bea937bbdc297a2400351aeadf20.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1552550/ss_effc6c878192a5b954af9abedee61a5d97f40973.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10 – 64bit",
+      "Processor": "Intel Core i3-4160",
+      "Memory": "4 GB RAM",
+      "DirectX": "Version 9.0",
+      "Storage": "500 MB available space",
+      "Sound Card": "DirectX 9 compatible"
+    },
+    "game_info": {
+      "Genre": "Action",
+      "Developer": "KONAMI",
+      "Platform": "PC",
+      "Game Size": "488.5 MB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 7039365"
+    },
+    "size": "488.5 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/vpyvx13mkri5",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Don’t Stop, Girlypop!",
+    "url": "https://steamrip.com/dont-stop-girlypop-free-download/",
+    "description": "Spread the love! Don’t Stop, Girlypop! is a Y2K arena movement shooter where standing still is not an option. Just Don’t Stop Moving! Game Features The faster you go, the more damage you deal and the more you heal! DSG combines the riotous fun of boomer shooter mechanics with advanced contemporary movement abilities. Wave hopping combines the feeling of a classic bunny hop with modern ground slam, dash and double jump mechanics to fling you into a fast, fluid and precise flow state. Unleash the horrors <3 Guns with alt-fires combine symbiotically with each other to create magical moments of complex interplay. Master a deep and dynamic combat system to generate high Love scores and become the Cupid of death! Destroy shareholder value! Mining corp Tigris Nix wants to drain your world of The Love, a natural force keeping your planet alive. Lay waste to its robot drones to heal the Oasis! Kill ’em with kindness! Every point of damage dealt against a robot is one piece of The Love released back into the environment and one step closer to the end of Tigris Nix. Dazzle your enemies by decorating your arms and guns with fabrics and ornaments. Add butterflies to your barrel, paint yourself in pink chrome, and – yes – dominate the battlefield in a quintuple-denim masterpiece.",
+    "cover_image": "https://i4.imageban.ru/out/2026/02/01/569e8715d3a8f63d826b875ee467e9d4.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/don-t-stop-girlypop/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/don-t-stop-girlypop/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/don-t-stop-girlypop/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/don-t-stop-girlypop/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/don-t-stop-girlypop/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/don-t-stop-girlypop/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/don-t-stop-girlypop/screenshots/",
+      "http://s01.riotpixels.net/data/3e/de/3edea3f4-05e7-4949-a9c7-5e35e283f0f8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/78/d8/78d8b52d-0959-4eaa-bd55-22a0b2f8fc73.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a6/4c/a64cddc0-2818-4040-a783-0246eebf2331.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c2/4a/c24a77b9-1c45-4850-a9c5-c4e0da26cf52.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c7/60/c76016b1-9c1c-4b51-a6f2-1e324a74e8c5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/85/e6/85e67b8d-ab72-4a83-8902-784650b3fdcf.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 11",
+      "Processor": "Intel(R) Core(TM) i5-10400F or Equivalent",
+      "Memory": "16 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 1060 6GB or Equivalent",
+      "Storage": "6 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure",
+      "Developer": "Funny Fintan Softworks",
+      "Platform": "PC",
+      "Game Size": "4.9 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 22673407"
+    },
+    "size": "4.9 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/kg7ynfquit3a",
+    "fitgirl_url": "https://fitgirl-repacks.site/dont-stop-girlypop/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Action",
+      "Shooter",
+      "First-person",
+      "3D"
+    ],
+    "company": "Kwalee, Funny Fintan Softworks",
+    "updates": [
+      {
+        "name": "Dont.Stop.Girlypop.Update.v1.0.12-TENOKE.rar",
+        "url": "https://filecrypt.cc/Container/B63D4C66A6.html"
+      }
+    ],
+    "video": "https://video.fastly.steamstatic.com/store_trailers/2610650/1378859946/7121aa257cec210293d2606c18f7c7bfd86c47d8/1769593360/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Everhood",
+    "url": "https://steamrip.com/everhood-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1229380/ss_f809bba93b1dc91ff39a091ed78d02102303623a.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1229380/ss_0fa3ebe1b71885badb67f8a561487a4854624f41.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows XP, Vista, 7, 8, or 10",
+      "Memory": "2 GB RAM",
+      "Graphics": "128MB",
+      "Storage": "400 MB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Indie, RPG",
+      "Developer": "Chris Nordgren",
+      "Platform": "PC",
+      "Game Size": "647.4 MB",
+      "Released By": "CSF + RUNE",
+      "Version": "Build 21324359"
+    },
+    "size": "647.4 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/yoiipwphdsjv",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Duck Season PC",
+    "url": "https://steamrip.com/duck-season-pc-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/746510/ss_7aef572d76bf5e15f1f13d7ca84b66e50ee6cda7.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/746510/ss_a1b6f719d0daeec27e281559906dc88b19d45efe.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Windows 7 64bit",
+      "Processor": "Dual Core 2.0ghz or equivalent",
+      "Memory": "4 GB RAM",
+      "Graphics": "GTX 260 or newer",
+      "Storage": "8 GB available space"
+    },
+    "game_info": {
+      "Genre": "Casual, Indie",
+      "Developer": "Stress Level Zero",
+      "Platform": "PC",
+      "Game Size": "2.3 GB",
+      "Released By": "Plaza + CSF",
+      "Version": "Build 3939483"
+    },
+    "size": "2.3 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/t9indl4ulk0u",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Firefight",
+    "url": "https://steamrip.com/firefight-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/500190/ss_a6645eb08535611c1648a09792a802e3c88775ff.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/500190/ss_0c0a4c08851775cd53e4f5d3d7580155386e4712.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Windows XP",
+      "Graphics": "DirectX"
+    },
+    "game_info": {
+      "Genre": "Strategy",
+      "Developer": "Sean O’Connor",
+      "Platform": "PC",
+      "Game Size": "553.8 MB",
+      "Released By": "CSF + RUNE",
+      "Version": "Build 25206798"
+    },
+    "size": "553.8 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/gltxw1ztjfmp",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "JudgeSim",
+    "url": "https://steamrip.com/judgesim-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2919660/ss_d4372598a94f564ee7ad7ec87e3d054b8de2861a.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2919660/ss_724a3fe13adddcd52fb11994d216a3186da4e543.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10",
+      "Processor": "Intel Core i3 3th Generation or Intel Core i3 7th Generation",
+      "Memory": "4096 MB RAM",
+      "Graphics": "Nvidia GTX 950 or Intel HD Graphics 620",
+      "DirectX": "Version 9.0",
+      "Storage": "1024 MB available space"
+    },
+    "game_info": {
+      "Genre": "Casual, Indie, Simulation, Strategy",
+      "Developer": "DelusionArt Studio",
+      "Platform": "PC",
+      "Game Size": "324.3 MB",
+      "Released By": "CSF + RUNE",
+      "Version": "Build 23604207"
+    },
+    "size": "324.3 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/8mgv9nr9wxyb",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Juno: New Origins",
+    "url": "https://steamrip.com/juno-new-origins-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/870200/ss_04e4f998fb0fb6c3bf251f74805bf1e5e5ba449e.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/870200/ss_508a28486cfa4d92bb18f3fd4069cc2ede8cf297.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows 7 SP1",
+      "Processor": "3.2 GHz Dual Core Processor",
+      "Memory": "4 GB RAM",
+      "Graphics": "SM4, 512MB VRAM",
+      "DirectX": "Version 11",
+      "Storage": "1 GB available space"
+    },
+    "game_info": {
+      "Genre": "Indie, Simulation",
+      "Developer": "Jundroo, LLC",
+      "Platform": "PC",
+      "Game Size": "304.1 MB",
+      "Released By": "CSF + RUNE",
+      "Version": "Build 25058702"
+    },
+    "size": "304.1 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/1vr36r4y9abf",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Lethal League Blaze",
+    "url": "https://steamrip.com/lethal-league-blaze-free-download-build-20415526-co-op/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/553310/ss_42af5d10217c52ea0a834cf9a0bad5f06a77ec67.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/553310/ss_038c50f426a52d48a2930a40d450686abdce1e9f.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows 7",
+      "Processor": "Intel Core i3 2.5GHz or AMD Phenom 2.5GHz",
+      "Memory": "4 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 460 or ATI Radeon HD 5850",
+      "DirectX": "Version 11",
+      "Network": "Broadband Internet connection",
+      "Storage": "4 GB available space",
+      "Additional Notes": "Intel onboard video cards are not recommended"
+    },
+    "game_info": {
+      "Genre": "Action, Indie, Sports",
+      "Developer": "Team Reptile",
+      "Platform": "PC",
+      "Game Size": "549 MB",
+      "Released By": "CSF + OFME",
+      "Version": "Build 20415526"
+    },
+    "size": "549 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/ihk94u3u6vfr",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Lil Gator Game",
+    "url": "https://steamrip.com/lil-gator-game-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1586800/ss_8511e680642260895622b386b02ce8979c04af2d.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1586800/ss_f08de3f83f02e4eb0bc0c6d716d3cbe90df85498.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows 7 or later",
+      "Processor": "3.0 GHz processor",
+      "Memory": "4 GB RAM",
+      "Graphics": "GeForce GT 740 (2048 MB) or equivalent | Radeon HD 5770 (1024 MB)",
+      "Storage": "500 MB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Casual, Indie",
+      "Developer": "MegaWobble",
+      "Platform": "PC",
+      "Game Size": "403.6 MB",
+      "Released By": "CSF + RUNE",
+      "Version": "Build 22215268"
+    },
+    "size": "403.6 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/zncvsm7zxd8b",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Mighty Morphin Power Rangers: Rita’s Rewind",
+    "url": "https://steamrip.com/mighty-morphin-power-rangers-ritas-rewind-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2816870/ss_8f12fa7f317502df35b43e9e005e87fb1315f662.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2816870/ss_daed43d74f37a07ade2079f249eaf4fbb5f5b37b.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 (64-bit)",
+      "Processor": "Intel i5-2500 – 3.3Ghz or equivalent CPU",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA GeForce GTS 250 or equivalent",
+      "DirectX": "Version 11",
+      "Storage": "800 MB available space"
+    },
+    "game_info": {
+      "Genre": "Action",
+      "Developer": "Digital Eclipse",
+      "Platform": "PC",
+      "Game Size": "625.7 MB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 17373349"
+    },
+    "size": "625.7 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/y86sahj3mgpu",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Mindustry",
+    "url": "https://steamrip.com/mindustry-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1127400/ss_4394351c612e1114b2b3d945e2b2d80d00bb2dcb.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1127400/ss_5746f12da344754ae860d24e800cdb7536d01ce4.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows 7/8/10",
+      "Memory": "1 GB RAM",
+      "Graphics": "Any card with OpenGL 2.0 support and the framebuffer_object extension",
+      "Storage": "200 MB available space"
+    },
+    "game_info": {
+      "Genre": "Strategy",
+      "Developer": "AnukenDev",
+      "Platform": "PC",
+      "Game Size": "138.5 MB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 25421068"
+    },
+    "size": "138.5 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/cr8vbm19m446",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Minecraft",
+    "url": "https://steamrip.com/minecraft-2d/",
+    "description": "Minecraft Dungeons. An all-new action-adventure game, inspired by classic dungeon crawlers and set in the Minecraft universe! Brave the dungeons alone or team up with friends! Up to four players can battle together online or in couch co-op. Use melee swings, hang back with ranged attacks, or tank your way through shielded by heavy armour! Personalize your character, and unlock unique items and weapon enchantments for devastating special attacks. Explore the action-packed, treasure-stuffed levels—all in an epic quest to save the villagers and take down the evil Arch-Illager! Included DLCs: Fauna Faire Adventure Pass Luminous Night Adventure Pass Cloudy Climb Adventure Pass Hero DLC Echoing Void Hidden Depths Flames of the Nether Howling Peaks Creeping Winter Jungle Awakens",
+    "cover_image": "https://i5.imageban.ru/out/2021/07/29/1f2b1adc99fc7913b336edfacecfb374.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/minecraft-dungeons/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/minecraft-dungeons/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/minecraft-dungeons/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/minecraft-dungeons/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/minecraft-dungeons/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/minecraft-dungeons/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/e2/1a/e21ac9a5-a9ba-4d4f-ae96-e2d5ad812e38.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9f/41/9f41dc18-3463-45f3-8212-5f141bc0943d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/83/e2/83e2bad1-dd65-4e58-893f-d8f01566c8ef.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bd/f4/bdf43ed2-19a6-467b-837d-f481e89fe006.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a1/02/a1026d1c-fa58-4f9e-b4a6-7ba5e3968ffd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/39/43/3943b56a-82b7-4753-92c2-dbb4f581f2ec.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows XP Service Pack 3",
+      "Processor": "Core 2 Duo 2GHz or equivalent",
+      "Memory": "3 GB RAM",
+      "Graphics": "ATI or NVIDIA card w/512 MB RAM",
+      "DirectX": "Version 9.0",
+      "Storage": "3 GB available space"
+    },
+    "game_info": {
+      "Genre": "Building, Simulation",
+      "Developer": "Mojang",
+      "Platform": "PC",
+      "Game Size": "125 MB",
+      "By": "SKLauncher/cs.rin.ru",
+      "Version": "v26.3/v1.17.1 | Full version"
+    },
+    "size": "125 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/532pf081iq09",
+    "fitgirl_url": "https://fitgirl-repacks.site/minecraft-dungeons/",
+    "fitgirl_matched": true,
+    "genres": [
+      "RPG",
+      "Action RPG",
+      "Isometric",
+      "3D"
+    ],
+    "company": "Mojang Studios, Xbox Game Studios",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Mega Man 11",
+    "url": "https://steamrip.com/mega-man-11-free-download/",
+    "description": "Mega Man is back! The newest entry in this iconic series blends classic, challenging 2D platforming action with a fresh look. The stunning new visual style refreshes the series’ iconic colorfulness, combining hand-drawn environments with detailed, 3D character models. To save the day, the Blue Bomber must battle Robot Masters and take their powerful weapons for himself, which now changes the hero’s appearance with new levels of detail. The innovative new Double Gear system lets you boost Mega Man’s speed and power for a new twist on the satisfying gameplay the series is known for. A variety of difficulty modes makes this the perfect opportunity to experience Mega Man for the first time! Mega Man 11 also features a variety of extra modes including time trials, missions, global leaderboards, a gallery of concept art, and more!",
+    "cover_image": "http://i98.fastpic.ru/big/2018/1106/b8/17cf75b4cead41f93fc9d12c03110ab8.jpg",
+    "screenshots": [
+      "http://en.riotpixels.com/games/mega-man-11/screenshots/10/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/mega-man-11/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/mega-man-11/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/mega-man-11/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/mega-man-11/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/mega-man-11/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/53/65/53654e45-9444-43f8-9429-e0b51b5bbffc.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7f/88/7f8892e9-ac26-4482-8935-8cfdea695376.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6f/23/6f23a977-8a6f-4e41-a5fd-7774149ad3ae.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f3/ec/f3ec5381-4500-47b1-8e32-f9ff2f482ecc.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ee/56/ee56812c-263a-4cc1-8196-2dbefd15cabb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/71/9d/719df899-6e42-4d4b-9dd3-a9927844f7a7.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 (64-bit)",
+      "Processor": "Intel Core i5-3470 or AMD equivalent or better",
+      "Memory": "4 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 650",
+      "DirectX": "Version 11",
+      "Network": "Broadband Internet connection",
+      "Sound Card": "DirectSound",
+      "Additional Notes": "・DirectX9.0c is also required ・Hardware specification target Resolution: 1080P/60FPS Display Mode: Windows Mode Anti-aliasing: OFF"
+    },
+    "game_info": {
+      "Genre": "Action",
+      "Developer": "CAPCOM CO., LTD.",
+      "Platform": "PC",
+      "Game Size": "2.1 GB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 19719606"
+    },
+    "size": "2.1 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/sg6zx2i9po31",
+    "fitgirl_url": "https://fitgirl-repacks.site/mega-man-11/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Arcade",
+      "Jump and run",
+      "Run and gun",
+      "Side",
+      "2D"
+    ],
+    "company": "Capcom",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Sherlock Holmes Chapter One",
+    "url": "https://steamrip.com/sherlock-holmes-chapter-one-free-download/",
+    "description": "As Sherlock, your legacy is written by the decisions you make in this open world detective adventure. Deception, violence, and deduction are just a few resources in your arsenal—your mysterious companion and sounding board, Jon, is another.",
+    "cover_image": "https://i4.imageban.ru/out/2021/11/16/2b08b22007aab887077fddef29d03227.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/sherlock-holmes-chapter-one/screenshots/21/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/sherlock-holmes-chapter-one/screenshots/18/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/sherlock-holmes-chapter-one/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/sherlock-holmes-chapter-one/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/sherlock-holmes-chapter-one/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/sherlock-holmes-chapter-one/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/ef/3b/ef3b32af-37be-4457-b97a-b10db0967733.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/99/9a/999acab1-90dd-4eab-a270-29499fbc87f3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/76/48/7648ea69-0b87-4de7-b23f-37ed457f0ba3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8b/32/8b322268-3bf2-4755-b4ef-dc1df84f1a93.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/05/fb/05fb0736-2f0d-4fea-8a6b-cce3a364d462.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/91/e2/91e22858-5185-4786-88e6-212ac4262217.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 64bit",
+      "Processor": "Intel Core i5-6600 or AMD Ryzen 5 2600",
+      "Memory": "12 GB RAM",
+      "Graphics": "Nvidia GeForce GTX 960, 4 GB or AMD Radeon R9 380, 4 GB",
+      "DirectX": "Version 11",
+      "Storage": "28 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure",
+      "Developer": "Frogwares",
+      "Platform": "PC",
+      "Game Size": "26.5 GB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 8425283"
+    },
+    "size": "26.5 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/80zmpjd3ab7m",
+    "fitgirl_url": "https://fitgirl-repacks.site/sherlock-holmes-chapter-one/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Adventure",
+      "Third-person",
+      "3D"
+    ],
+    "company": "Frogwares",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Warlord: Awaji",
+    "url": "https://steamrip.com/warlord-awaji-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3123060/9be54d13a4cad32364f396cb0568405799290afb/ss_9be54d13a4cad32364f396cb0568405799290afb.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3123060/c0c2cbbe34f8379d4a3f61e5b65b608caf1753ad/ss_c0c2cbbe34f8379d4a3f61e5b65b608caf1753ad.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 64-bit",
+      "Processor": "Intel i5 9th Gen",
+      "Memory": "16 GB RAM",
+      "Graphics": "NVIDIA Geforce GTX 2060",
+      "Storage": "6 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Indie, Strategy",
+      "Developer": "Darkmatter Games",
+      "Platform": "PC",
+      "Game Size": "2.1 GB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 25336396"
+    },
+    "size": "2.1 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/gbm7ua23o9hz",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Welcome to the Game",
+    "url": "https://steamrip.com/welcome-to-the-game-free-download/",
+    "description": "Navigate the internet’s dark net, searching for pieces of a puzzle that once combined will clear your outstanding debt. Scan strange websites for info, hack into PCs while defending your own, and buy/sell goods & services, all while avoiding threats in this strategic, suspenseful horror game. There’s no safe-zone Be vigilant, psychos of all shapes and sizes have gotten the green light to kill you. Use your awareness to choose when to stay put , when to hide , and when to RUN . Search for secrets Browse the dark net, with access to 52 websites, and uncover hidden pieces to a puzzle that will grant you life… assuming you can find them all. Build your connections Chat with users (NPCs) to buy / sell goods & services. Manage when to progress yourself and when to attack those (NPCs) in the race with you. Pay up to either slow or try to remove them permanently from the competition, but remember they can do the same to you. Counter-hack or counteract Successfully counter hacks to earn DOS Coin OR block intrusions with firewall upgrades, but miss out on earnings. Contend with multiple hacking minigames that will test your reaction speed, typing ability, and puzzle solving skills. Features: Scan websites and their source code for hidden keys Compete against 4 interactive NPCs Buy upgrades to increase security & speed up key discovery Checkpoint saving on Normal difficulty Large focus on strategic time management Slot machine program to gamble in-game currency After striking up a debt with folks who refuse to accept a failure to pay, Simon has landed himself into a tough spot. Due to his own poor decision making he’s forced to play “The Game” tonight, where his life’s fate will be decided. However plainly winning isn’t a sufficient payday for who he owes, so a bet has been made to up the prize and in return organizers of “The Game” can make things more dangerous for Simon.",
+    "cover_image": "https://i7.imageban.ru/out/2026/07/20/096a2c5c4f53fa2b2307e88bdb09ce45.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/welcome-to-the-game-3/screenshots/17/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/welcome-to-the-game-3/screenshots/16/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/welcome-to-the-game-3/screenshots/15/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/welcome-to-the-game-3/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/welcome-to-the-game-3/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/welcome-to-the-game-3/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/welcome-to-the-game-3/screenshots/",
+      "http://s01.riotpixels.net/data/49/a3/49a32d76-a884-4827-ad18-be194f7ceddb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a4/e3/a4e3aa0e-ae32-4e10-8b6d-7d861ed5f67a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c6/3e/c63e7bcb-3036-4b74-91f7-8782f0b6f36f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e3/20/e320a6a6-2ca0-41f4-bdb3-9b0fe9b18a24.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4c/dd/4cdd3abc-74f4-4978-84be-f915d311d990.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/84/ff/84ff4d7b-d6c6-47e4-b845-d10edd11d10a.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Windows 7",
+      "Processor": "2.4 GHZ",
+      "Memory": "2 GB RAM",
+      "Graphics": "1024MB",
+      "DirectX": "Version 11",
+      "Storage": "3 GB available space",
+      "Additional Notes": "Best ran at a 16×9 aspect ratio / 1080p"
+    },
+    "game_info": {
+      "Genre": "Indie, Simulation",
+      "Developer": "Reflect Studios",
+      "Platform": "PC",
+      "Game Size": "709 MB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 2247328"
+    },
+    "size": "709 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/4oktlrj8nls4",
+    "fitgirl_url": "https://fitgirl-repacks.site/welcome-to-the-game-3/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Adventure",
+      "First-person",
+      "3D",
+      "Detective fiction",
+      "Horror"
+    ],
+    "company": "Reflect Studios",
+    "updates": [
+      {
+        "name": "Welcome.to.the.Game.III.Update.v1.0.7.incl.DLC-TENOKE.rar",
+        "url": "https://filecrypt.cc/Container/8037F3BB2E.html"
+      }
+    ],
+    "video": "https://video.fastly.steamstatic.com/store_trailers/3869850/994354644/a55669539c1727d20b37f65635d2b45fbcda283c/1781539840/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Xenonauts",
+    "url": "https://steamrip.com/xenonauts-free-download/",
+    "description": "Xenonauts 2 is a strategy game that puts you in charge of a multinational military organization tasked with eliminating an extraterrestrial threat. Working from the shadows, you must seek out and engage the growing alien presence wherever it appears. Expand and manage a covert network of bases across the globe. Pursue research and development to bridge the technological gap with the alien invaders. Train, arm, and command your ground troops wherever the alien threat emerges. THE ENEMY IS EVERYWHERE – It is 2009 – the Cold War continues, and the Berlin Wall still stands. In the shadows, a secret organization works beyond arbitrary political boundaries to gather information about a greater threat to humanity. Mysterious sightings of unidentified flying objects and unknown beings have grown more common, coinciding with escalating international tensions and panic. Those who report such sightings frequently disappear without a trace, and it is clear that the aliens grow bolder with each passing day. Time is of the essence. A MYSTERIOUS THREAT – Knowledge is power – unfortunately, little is known about the alien menace when you take charge. You will need to engage in combat operations around the globe to learn what you’re up against. Eliminate extraterrestrial forces in deadly tactical battles to recover research samples, allowing your scientists to improve your equipment and slowly uncover the truth about the alien invasion. IN-DEPTH STRATEGIC LAYER – The war against the alien force takes on a global scale – as they attack indiscriminately, your troops must be prepared to operate across the globe using multiple bases, taking time between operations to rest, recuperate, rearm, research, and eventually reengage the enemy. No two campaigns are the same as complex simulations ensure even the smallest variances in decisions will have far-reaching impacts across the entire game. DEVASTATING TACTICAL COMBAT – Whether fighting in the air or on the ground, your tactical prowess is put to the test when engaging alien attackers. Battles are extremely dangerous affairs, asking you to manage positioning, ammunition, lines of sight, cover, and much more besides – many of your operatives will get wounded, and many of them will die, but those that survive grow more experienced and are more capable of taking on future dangers. (Xenonauts 2 is a standalone title that does not need any experience playing the original Xenonauts to follow the story or enjoy the gameplay experience. The punishing battles, in-depth strategic layer, and complex simulations will take fans of the series and newcomers alike through a dark and deadly story about the defense of Earth and all humankind.) Game Features A massive variety of enemy types will keep you on your toes as you fight against a multitude of species, each with their own strengths, weaknesses, and fighting styles. Securing alien bodies to perform autopsies on will give you insights into their potential weaknesses, allowing you to prepare accordingly. Aliens aren’t all you’ll be fighting – human agents known as Cleaners work in tandem with the extraterrestrial threat, bringing with them added varieties of troops, combat locations, and mission objectives. The Cleaners work to further alien goals and objectives, operating directly under their influence – any strike against the Cleaners is an indirect strike against their alien overlords. You will have the opportunity to gather intel by infiltrating their bases, securing data, and seeing how far the conspiracy goes. Every combat engagement is an opportunity to learn more about the enemy force and how it fights – if you’re willing to take the risk. Will you look to quickly eliminate active threats using explosives, grenades, and missiles, or will you take a more tempered approach to secure bodies and alien technology that can be taken back to HQ for autopsies and reverse-engineering? Will you focus on the development of airpower to bring down UFOs and investigate their crash sites for additional intel? Your adversary has the advantage in both technology and equipment – any choice you make will involve tradeoffs. A small radar station in Alaska detects an anomaly over the Bering Strait. Air Bases in Kamchatka and Yukon scramble jets to investigate, chasing multiple bogeys each, bringing them down over the water. Thousands of miles away, a radar station in Italy works in tandem with response teams stationed at a base in Algeria and an air base in France to take down alien operations on the Iberian Peninsula. Meanwhile, a new base is being built in Southeast Asia where the invaders have slipped through the cracks multiple times, inciting panic. Build, design, and manage multiple bases, each with its own squadrons of fighter jets and transports, radar arrays, research teams, operatives, and more. Consider the limitations of fuel ranges when you place them and use a grid-based construction system to optimally lay each of your bases out. Specialize your bases for detection, rapid response teams, research, manufacturing, and defenses as you see fit. Pursue multiple avenues of research to acquire a vast variety of aircraft, vehicles, weapons, armor, and other battlefield equipment to experiment with. Your approach on the battlefield will be determined by a combination of the terrain you’re engaging in and what equipment you’ve chosen to bring to the field. The presence of mechanized combat platforms and vehicles can tilt many situations in your favor as they break through cover and deliver particularly devastating ordnance, though their use can come at the cost of the ability to procure valuable resources from intact alien bodies and equipment. The research tree is vast, with over one hundred projects to unlock, allowing you to take on the alien threat with your own personal strategic and tactical touches. Infuse alien technology across all manner of equipment, and even develop autonomous battlefield combat platforms and sentry guns to assist with your forward operations as well as the defense of your bases. If you give your engineering teams enough time, money, and resources, you’ll find yourself well equipped for the threat – unfortunately, all three are perpetually scarce. Will you rush to produce automated combat platforms to minimize the threat to your operatives? Or produce additional dropships to respond to more threats at a time? Or will you seek improved armaments for your fighters to strengthen their ability to intercept and take down alien squadrons? Training centers you build at your bases allow soldiers to improve their combat capabilities during downtime, but actual combat experience is of course of unparalleled value. Each mission gives your operatives an opportunity to improve their abilities according to the actual actions they take in combat, and even earn medals for their deeds. Scramble jets to respond to UFO sightings, engaging them in real-time tactical battles that put you in command of your fighter wings. Tell your pilots how to maneuver and who to target, ensuring their victory while also keeping an eye on their fuel gauge and the proximity of your nearby hangars. No forced 1-1 duels here – if the aliens bring a technologically advanced and heavily armed space craft to the fight, gang up and send a whole squadron of your best planes to bring it down. The strategic layer and air battles are closely intertwined, and careful planning of your global network of bases is of the utmost importance. Put boots on the ground by sending in your operatives for a variety of mission types, pursuing a range of objectives, but beware – your adversaries will not passively wait for you to discover them. Aliens will actively maneuver and seek you out from across the map, moving intelligently to strike at you from beyond visual range, hiding behind cover and taking advantage of the high ground. Maximize your chance of success through effective reconnaissance and lay ambush to eliminate the enemy. The battlefield is a dangerous place, and with an alien threat that will not stand idly by as you try to hunt them down, losses are inevitable. This isn’t the story of an elite squad of heroes winning battle after battle without loss – war is hell, and many of your troops will give their lives to resist the alien invasion. Your veteran troops will be invaluable, but even your basic recruits are skilled soldiers ready for combat. It is up to you to enable them to become the veterans of tomorrow.",
+    "cover_image": "https://i7.imageban.ru/out/2026/04/05/b978e29b327d86cf0468e3391e50a16c.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/xenonauts-2/screenshots/73/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/xenonauts-2/screenshots/60/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/xenonauts-2/screenshots/59/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/xenonauts-2/screenshots/48/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/xenonauts-2/screenshots/47/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/xenonauts-2/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/xenonauts-2/screenshots/",
+      "http://s01.riotpixels.net/data/58/9d/589dd731-e7c0-47ce-b64d-4b94fc7bc450.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/04/2a/042aa8ba-5c69-4f5e-87c2-90212bfd98df.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/66/7c/667cc7ba-5fe4-4432-9ecb-261d510f6b64.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/db/58/db5861db-f56f-4bf8-a1cf-ad946611f0db.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1b/f6/1bf6fb35-7c2a-4c8d-8033-68909808b044.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0a/ec/0aeca3bd-2cb8-4942-b3e8-a41b28e5e889.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Windows 8 / 7 SP1 / Vista SP2",
+      "Processor": "Intel 2 GHz",
+      "Memory": "1 GB RAM",
+      "Graphics": "Integrated Graphics",
+      "Hard Drive": "3 GB HD space",
+      "Sound": "Integrated",
+      "Monitor": "1280×720 pixels minimum"
+    },
+    "game_info": {
+      "Genre": "Indie, Simulation, Strategy",
+      "Developer": "Goldhawk Interactive",
+      "Platform": "PC",
+      "Game Size": "2.5 GB",
+      "Released By": "CSF + GBE",
+      "Version": "Build 12760814"
+    },
+    "size": "2.5 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/61tiekwx9chr",
+    "fitgirl_url": "https://fitgirl-repacks.site/xenonauts-2/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Management",
+      "Strategy",
+      "Tactics",
+      "Isometric",
+      "3D",
+      "Turn-based"
+    ],
+    "company": "Hooded Horse, Goldhawk Interactive",
+    "updates": [
+      {
+        "name": "Xenonauts_2_Update_from_v7.18.3_to_v7.19.2-ElAmigos.rar",
+        "url": "https://filecrypt.cc/Container/49EA3796E4.html"
+      },
+      {
+        "name": "Xenonauts_2_Update_from_v7.19.2_to_v7.21.5-ElAmigos.rar",
+        "url": "https://filecrypt.cc/Container/D8271ED488.html"
+      },
+      {
+        "name": "Xenonauts.2.Update.v7.23.4-RUNE.rar",
+        "url": "https://filecrypt.cc/Container/B8369521E2.html"
+      },
+      {
+        "name": "Xenonauts.2.Update.v7.27.3-RUNE.rar",
+        "url": "https://filecrypt.cc/Container/2159F9A794.html"
+      },
+      {
+        "name": "Xenonauts_2_Update_from_v7.23.4_to_v7.27.3-ElAmigos.rar",
+        "url": "https://filecrypt.cc/Container/FE31B10A84.html"
+      }
+    ],
+    "video": "https://video.fastly.steamstatic.com/store_trailers/538030/2041344557/80ec1b22a04287196e649cddaadd94fe1c814d28/1771834411/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   }
 ]
