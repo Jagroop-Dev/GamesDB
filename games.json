@@ -230347,11 +230347,22 @@
   {
     "title": "Tenebris: Terra Incognita",
     "url": "https://steamrip.com/tenebris-terra-incognita-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Tenebris: Terra Incognita is a challenging turn-based RPG set in a gloomy science fiction setting. Take command of the best fighters of humanity and save the expedition of the Solaris starship, which crashed on an uncharted planet infested with terrible monsters! CHARACTERS We are big fans of series like Darkest Dungeon, X-COM and Disciples, and we want to give players a similar experience through deep hero customization and career progression. Having 5 basic classes with easily recognizable roles at the beginning of the playthrough, the player will be able to choose character development branches from 17 advanced classes as they gain experience. Each specialization has separate talent trees, allowing the player to create unique characters within the same class. The game has a full inventory system. Found or purchased items – weapons, armor, special equipment – can not only improve the basic characteristics of the characters, but also influence their talents or give new abilities. Experiment with the talent branches of the characters. Combine your abilities with equipment items. Create your own unique build, and conquer the world of Tenebris! MONSTERS The damaged hull of the ship turned out to be the least of the expedition’s problems: the people, not having time to recover from the heavy landing, were immediately attacked by huge bugs. The size, speed and aggressiveness of the enemy would not be such a problem if not for the amazing organization of the swarm. These bugs, through chemical signals, are able not only to coordinate, but also to strengthen and accelerate each other. The more there are, the more dangerous each individual enemy is. If you manage to defend the starship and gain a foothold in the insect-infested Misty Wasteland, your troops will be able to open other areas where the bug scouts do not dare to go. And if you learn from the swarm, you will understand: there, beyond the borders of the wasteland, you will need new abilities, different combat tactics and, most likely – bigger guns. STARSHIP “SOLARIS” The Solaris starship is your base and the only relatively safe place on the planet. Here you can purchase weapons and armor, awaken new recruits from cryo-sleep and send wounded heroes for treatment. The resources found in missions will allow you to improve the ship’s bays and expand the capabilities of your squad. In addition to the expedition commander and the head of the security service, together with whom you will solve the main task of escaping the planet, you will be assisted by the chief doctor, leading engineer and warehouse manager. Each crew member will have unique tasks for you, and solving them will allow you to obtain additional resources and technologies that can increase the chances of survival of the expedition. Be careful – the ship’s supplies are scarce, and you will have to fight for the planet’s resources. You have to carefully choose what to spend the little you can get in battles. Will you be able to conquer the dark planet and save the expedition? The crew has left all the decisions to you – proceed at your own risk!",
+    "cover_image": "https://i3.imageban.ru/out/2026/09/22/b784739b4d86690fe05ce2eded15f48f.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2280060/97406e24bffbb16854fb20dfe0716bc15aa42e0a/ss_97406e24bffbb16854fb20dfe0716bc15aa42e0a.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2280060/df65a55bdb62f75a8256aa4ab3648a9f4e6268ef/ss_df65a55bdb62f75a8256aa4ab3648a9f4e6268ef.1920x1080.jpg"
+      "https://en.riotpixels.com/games/tenebris-terra-incognita/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/tenebris-terra-incognita/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/tenebris-terra-incognita/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/tenebris-terra-incognita/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/tenebris-terra-incognita/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/tenebris-terra-incognita/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/tenebris-terra-incognita/screenshots/",
+      "http://s01.riotpixels.net/data/21/15/21157bcd-1b1f-4c46-8558-3e3a8ff059fb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/be/84/be849ea4-19f2-46d3-a7e5-152065b71494.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/54/30/5430056a-8f01-4b56-84b3-a6e4e68f649f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ad/3f/ad3fb4d6-e55a-4f78-ab13-8b89505adbcb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2a/02/2a02e668-4823-4889-ab65-af52e0629ca6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/81/74/81746fe9-c6f9-4585-bbd2-e59de9f2cccc.jpg.240p.jpg"
     ],
     "system_requirements": {
       "OS *": "Windows 7/8/10/11",
@@ -230372,15 +230383,21 @@
     "size": "3.1 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/bbxvfrzu1es8",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/tenebris-terra-incognita/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Strategy",
+      "Tactics",
+      "Side",
+      "2D",
+      "Turn-based"
+    ],
+    "company": "Phantasmica Studios",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/2280060/1369638099/913c2d094427eb7a8aa3e368ea0aa7665a9d02bc/1774877489/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "shapez",
@@ -233876,11 +233893,22 @@
   {
     "title": "Brave New Wonders",
     "url": "https://steamrip.com/brave-new-wonders-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Brave New Wonders is a factory automation and base-building simulation set in a post-apocalyptic far future. Build sprawling production lines, optimize every system, and command intelligent robots that follow the commands you write in plain language. Part factory builder, part city builder rising from the ruins, it puts a civilization’s revival in your hands. No conveyor belts and no coding: it’s just you and your army of automatons. Mine ore and crystal, smelt them into refined materials, and craft increasingly complex components along branching production lines, all powered by an expanding energy network. One factory is never enough: link factories, warehouses, and logistics routes, then optimize throughput and sharpen your resource management. Unlock blueprints to copy, paste, and mass-duplicate whole layouts in seconds, and cloned automatons keep their tasks, so expansion stays fast. Intelligent automatons move materials by following your commands. Start with simple presets, then program your robots in plain language, any language, with no coding required. The behaviour editor guides you as you write: tell an automaton to ‘move between A, B, and C in order,’ or set conditional logic like “When RED signal is detected at warehouse, pick up crystal compound from general factory and deposit it at warehouse.” Buildings and factories broadcast coloured signals and react to each other so that you can wire programmable systems across your whole base. If you can describe it, odds are your automatons can pull it off. Civilization fell thousands of years ago, and the new era remembers nothing. As a Pioneer, explore the atmospheric ruins of the old world, some still guarded by hostile machines. Battle is inevitable: strategically place your gun turrets, clear barriers with dynamite, and claim a weapon relic to fight back against threats. Gather relics that shape your world and uncover a story-rich mystery: what truly happened to humanity? Unlock the ancient Sky Pillar and build your first Wonder: a massive airship that doubles as an airborne fleet of factories. Travel between distinct islands and continents, each with its own biomes, resources, and breakthroughs, from the snowy reaches of Europe to an ancient humanoid robot that still remembers the old world. Your base flies with you, so exploration never stops. Command automatons that obey plain-language commands. No conveyor belts, no coding. Build, automate, and optimize vast factories across an open world. Gather resources, craft components, and manage sprawling production and logistics networks. Explore a post-apocalyptic, story-rich world and uncover the mystery of humanity’s fall.. Travel between islands and continents aboard your airship, an airborne fleet of factories. A single-player, atmospheric 3D factory automation simulation, shaped hand-in-hand with its community.",
+    "cover_image": "https://i8.imageban.ru/out/2026/09/23/9803bcd1cc73475e8f2890408e07d414.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2403830/0a364a9ff4cc954e24fb15491fb1541a8c03cca0/ss_0a364a9ff4cc954e24fb15491fb1541a8c03cca0.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2403830/57922731ecf599522a132f7c55514bd618a90b18/ss_57922731ecf599522a132f7c55514bd618a90b18.1920x1080.jpg"
+      "https://en.riotpixels.com/games/brave-new-wonders/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/brave-new-wonders/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/brave-new-wonders/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/brave-new-wonders/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/brave-new-wonders/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/brave-new-wonders/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/brave-new-wonders/screenshots/",
+      "http://s01.riotpixels.net/data/b7/93/b7932895-11e3-43df-8700-d86c0cf6ec08.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0a/73/0a73b02b-9d3d-4253-a2d1-e8a308afdb4f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2a/fb/2afbf8db-f1c3-4441-a602-7f8e0e0fc064.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a3/af/a3aff226-d0ae-418b-b5f0-481a15429348.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ca/b0/cab01915-f126-4d57-aa88-aef82fa0023b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0d/d5/0dd590ff-1421-47cf-b04d-02ca777ba2ef.jpg.240p.jpg"
     ],
     "system_requirements": {
       "OS": "Windows 10 64-bit",
@@ -233904,15 +233932,20 @@
     "size": "20.1 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/yhiq49hgpeh6",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/brave-new-wonders/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Managerial",
+      "Item crafting",
+      "Top-down",
+      "3D"
+    ],
+    "company": "LoongGate, City From Naught",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/2403830/443510566/da864813cc59fca6c573fe1127cc6699617c8db9/1789961039/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "Mega Man X Legacy Collection 2",
@@ -234294,6 +234327,583 @@
       "Turn-based"
     ],
     "company": "Sega",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Dawson Oaks Trailer Park",
+    "url": "https://steamrip.com/dawson-oaks-trailer-park-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3640200/7753b748a5555a9a4e6014aa486f30ddec21a85d/ss_7753b748a5555a9a4e6014aa486f30ddec21a85d.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3640200/f5b8deacb1f635650af965821653468300e14fb6/ss_f5b8deacb1f635650af965821653468300e14fb6.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10",
+      "Processor": "Intel i5-6400",
+      "Memory": "4 GB RAM",
+      "Graphics": "Nvidia Geforce GTX 960",
+      "DirectX": "Version 11",
+      "Network": "Broadband Internet connection",
+      "Storage": "5 GB available space"
+    },
+    "game_info": {
+      "Genre": "Casual, RPG, Simulation, Strategy",
+      "Developer": "Striped Panda Studios",
+      "Platform": "PC",
+      "Game Size": "920.9 MB",
+      "Released By": "0xdeadc0de",
+      "Version": "Build 25441948"
+    },
+    "size": "920.9 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/cqzf71shsvxe",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Graveyard Keeper 2",
+    "url": "https://steamrip.com/graveyard-keeper-2-free-download/",
+    "description": "Graveyard Keeper is the most inaccurate medieval cemetery management sim of all time. Build and manage your own graveyard, and expand into other ventures, while finding shortcuts to cut costs. Use all the resources you can find. After all, this is a game about the spirit of capitalism, and doing whatever it takes to build a thriving business. And it’s also a love story. Game Features Face ethical dilemmas. Do you really want to spend money on that proper burger meat for the witch-burning festival, when you have so many resources lying around? Gather valuable materials and craft new items. Expand your Graveyard into a thriving business. Help yourself — gather the valuable resources scattered across the surrounding areas, and explore what this land has to offer. Quests and corpses. These dead bodies don’t need all those organs, do they? Why not grind them up and sell them to the local butcher? Or you can go on proper quests, you roleplayer. Explore mysterious dungeons. No medieval game would be complete without those! Take a trip into the unknown, and find discover new alchemy ingredients — which may or may not poison a whole bunch of nearby villagers. Included DLCs and Bonuses: Breaking Dead Game of Crone Stranger Sins Better Save Soul Artbook OSTs",
+    "cover_image": "https://i2.imageban.ru/out/2021/10/28/be959ef60c7096adbfd73c2c89fa5815.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/graveyard-keeper/screenshots/20/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/graveyard-keeper/screenshots/15/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/graveyard-keeper/screenshots/13/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/graveyard-keeper/screenshots/12/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/graveyard-keeper/screenshots/11/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/graveyard-keeper/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/0c/d1/0cd17baf-aa4c-4d8a-8a57-0c54f2589393.png.240p.jpg",
+      "http://s01.riotpixels.net/data/e0/26/e026e7f2-c010-4944-8598-7a28ecba94a5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bc/e8/bce80c09-9967-4de3-84b0-e6092b42da03.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/09/87/0987b399-0e56-4d09-8fc0-e28880bc2be0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/dd/9d/dd9d58ce-513b-4b7d-bc2a-8d9b2ff54a9b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/84/60/84604525-d549-4200-9538-b4a405e451b8.png.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10 x64 or higher",
+      "Processor": "Intel Core i3 (13 gen) or similar",
+      "Memory": "6 GB RAM",
+      "Graphics": "GeForce GTX 1650 or similar",
+      "DirectX": "Version 12",
+      "Storage": "4 GB available space"
+    },
+    "game_info": {
+      "Genre": "Adventure, RPG, Simulation",
+      "Developer": "Lazy Bear Games",
+      "Platform": "PC",
+      "Game Size": "1.12 GB",
+      "Released By": "RUNE emu",
+      "Version": "Build 25457344 | Full Version"
+    },
+    "size": "1.12 GB",
+    "languages": "ENG",
+    "bzzhr_url": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/graveyard-keeper/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Lifestyle",
+      "Managerial",
+      "Medieval",
+      "Top-down",
+      "Real-time",
+      "2D"
+    ],
+    "company": "Lazy Bear Games, tinyBuild",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "False Hero",
+    "url": "https://steamrip.com/false-hero-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2538870/ef93fdde6a819f92eb2711e0fc1b7fac7b83c145/ss_ef93fdde6a819f92eb2711e0fc1b7fac7b83c145.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2538870/3cd6d566cd2531f840bd55715fce8f6aab67fee2/ss_3cd6d566cd2531f840bd55715fce8f6aab67fee2.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 64-bit",
+      "Processor": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 970",
+      "DirectX": "Version 10",
+      "Storage": "12 GB available space",
+      "Sound Card": "Windows Compatible Audio Device"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Indie, RPG",
+      "Developer": "Torchlight Games",
+      "Platform": "PC",
+      "Game Size": "7 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25418239"
+    },
+    "size": "7 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/jxslmm2wpfbm",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Happy Wheels",
+    "url": "https://steamrip.com/happy-wheels-free-download/",
+    "description": "“Happy” is a psychological horror adventure where you play the role of a detective who goes to an abandoned winter forest in search of a missing family. You arrive in a dense winter forest, covered with snow, inhabited by silence and mysteries. You have to uncover the secrets of this gloomy place, find the house where the family lived, and find out what happened to its inhabitants. Plunging into the depths of the forest, you will encounter numerous dangers, mysterious footprints and abandoned places. Game Features A Thrilling Horror Adventure: The game offers a gripping storyline full of mysteries and mysteries that the player must unravel in order to unravel the missing family. Unique Atmosphere: Gloomy winter forests covered with snow create a unique atmosphere of horror and mystery. Fascinating graphics and soundtrack help to immerse yourself in the game world and feel its atmosphere. Investigation and puzzles: You will have to investigate the disappearance of a family by exploring the area, collecting clues, solving puzzles and deciphering mysterious footprints. Success in unraveling the mystery depends on your resourcefulness and logical thinking.",
+    "cover_image": "https://i6.imageban.ru/out/2023/08/13/203dda700b1e0972b2bc149cfddfdd2e.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/happy/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/happy/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/happy/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/happy/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/happy/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/happy/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/fb/c5/fbc5e473-9e11-4515-a95b-3d68e3d5a8e9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e9/34/e934256c-26ca-406b-b62d-3df129a6cdb2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fb/85/fb85bfaa-2595-4f19-8ce8-863f6043b4b7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9b/c8/9bc8a659-d8ac-48bb-b134-6b2aea3e008f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/11/2a/112af9ec-9721-4ee1-8e20-97f8f2924989.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/01/3b/013b89b9-bd7f-4189-ab62-400accfca3c1.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10 64-bit or later",
+      "Processor": "Intel Core i3 / AMD equivalent, 2.0 GHz or better",
+      "Memory": "4096 MB RAM",
+      "Graphics": "Any GPU with WebGL / DirectX 11 support (Intel HD Graphics 4000 or better)",
+      "DirectX": "Version 11",
+      "Storage": "1024 MB available space",
+      "Sound Card": "Windows-compatible sound card"
+    },
+    "game_info": {
+      "Genre": "Action, Casual, Indie, Racing",
+      "Developer": "Jim Bonacci",
+      "Platform": "PC",
+      "Game Size": "234 MB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 25471162"
+    },
+    "size": "234 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/rvfn068i0wco",
+    "fitgirl_url": "https://fitgirl-repacks.site/happy/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Adventure",
+      "First-person",
+      "3D",
+      "Horror"
+    ],
+    "company": "Unreal Quality Games, Rosa Special Studio",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Lootborne",
+    "url": "https://steamrip.com/lootborne-free-download/",
+    "description": "Lootborne runs in a window small enough to sit next to whatever you are actually doing. With the optional “always on top” setting, your hero keeps fighting and looting on its own, for as long as stamina holds then rests and goes again. You look over when you decide it’s time to level up or update your gear.\n\nDrop loot and forge items 424 items across six rarities. Start with battered gear and claw your way toward magic rings, cursed blades, ancient tomes, and mythic artifacts that can redefine your run. Gear up not only for power, but for aesthetics too. And when a duplicate drops, throw it into the forge and gamble it upward.\n\nElements, Perks, and Potions Arcane, Flame, Frost, Holy, Shadow . Items carry elemental affinities that stack into synergies ; 26 Perks change how your character fights , and 25 Potions let you tilt a fight you are losing. Stats can be respecced: an early mistake is not a dead character. Brave New Wonders\n\nChallenge other players in async PvP Your build is not limited to PvE. Test it against other players’ builds in asynchronous battles: no lobby, no queue, no waiting. And it does not stop when you close the game, as challenges can resolve even while you’re not playing, with the results waiting when you come back. Climb the global ladder , challenge your Steam friends, and hunt four PvP bosses that drop gear you cannot get anywhere else.",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://steamrip.com/wp-content/uploads/2026/09/lootborne-steamrip.jpg",
+      "https://steamrip.com/wp-content/uploads/2026/09/lootborne-screenshots-steamrip.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10",
+      "Processor": "intel i3",
+      "Memory": "2 GB RAM",
+      "Graphics": "Intel HD Graphics 4000",
+      "DirectX": "Version 11",
+      "Storage": "500 MB available space"
+    },
+    "game_info": {
+      "Genre": "Casual, RPG",
+      "Developer": "Fate Rate",
+      "Platform": "PC",
+      "Game Size": "113 MB",
+      "Released By": "Mr_GOLDBERG emu",
+      "Version": "Build 25394140 | Full Version"
+    },
+    "size": "113 MB",
+    "languages": "ENG",
+    "bzzhr_url": null,
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Nighthawks",
+    "url": "https://steamrip.com/nighthawks-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1221950/ab6fa4ccc3e8027c9a3a90d0680d7ee072a62882/ss_ab6fa4ccc3e8027c9a3a90d0680d7ee072a62882.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1221950/f437d0701b0d5b9cee484e14ddaafda65368ee5d/ss_f437d0701b0d5b9cee484e14ddaafda65368ee5d.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10, 64-bit versions only.",
+      "Processor": "2Ghz or better",
+      "Memory": "8 GB RAM",
+      "Graphics": "DX10, DX11, and DX12-capable GPUs",
+      "Storage": "10 GB available space",
+      "Sound Card": "All DirectX-compatible sound cards",
+      "Additional Notes": "Hardware vendor officially supported drivers"
+    },
+    "game_info": {
+      "Genre": "Adventure, Indie, RPG",
+      "Developer": "The Curiosity Engine",
+      "Platform": "PC",
+      "Game Size": "5.3 GB",
+      "Released By": "Razor1911",
+      "Version": "Build 25404926"
+    },
+    "size": "5.3 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/o3cy019w334m",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Rivage",
+    "url": "https://steamrip.com/rivage-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4094660/7ae4534d3c6373ec5f9cd47b03cf2cd7be4d2547/ss_7ae4534d3c6373ec5f9cd47b03cf2cd7be4d2547.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4094660/770043b767043c055e922c672d93c948108e4035/ss_770043b767043c055e922c672d93c948108e4035.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10",
+      "Processor": "Intel Core i5-9400F / AMD Ryzen 5 3600",
+      "Memory": "16 GB RAM",
+      "Graphics": "NVIDIA GTX 1070 Ti / AMD RX Vega 56",
+      "DirectX": "Version 12",
+      "Storage": "12 GB available space"
+    },
+    "game_info": {
+      "Genre": "Adventure, Indie",
+      "Developer": "Exnilo Studio",
+      "Platform": "PC",
+      "Game Size": "3.1 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25160349"
+    },
+    "size": "3.1 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/iuppt0ahps3r",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Nocturne",
+    "url": "https://steamrip.com/nocturne-free-download/",
+    "description": "Reawaken your inner demon in a modernized version of the acclaimed ATLUS classic, Shin Megami Tensei III Nocturne HD Remaster.",
+    "cover_image": "https://i8.imageban.ru/out/2025/11/25/52a5d39f648158133c65a35fcb0b6c51.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/shin-megami-tensei-3-nocturne-hd-remaster/screenshots/128/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/shin-megami-tensei-3-nocturne-hd-remaster/screenshots/127/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/shin-megami-tensei-3-nocturne-hd-remaster/screenshots/122/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/shin-megami-tensei-3-nocturne-hd-remaster/screenshots/59/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/shin-megami-tensei-3-nocturne-hd-remaster/screenshots/28/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/shin-megami-tensei-3-nocturne-hd-remaster/screenshots/19/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/shin-megami-tensei-3-nocturne-hd-remaster/screenshots/",
+      "http://s01.riotpixels.net/data/e1/da/e1da2b20-85ab-4e30-aae9-10b2656c8fa1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/98/c7/98c79465-ab49-4789-a78a-17af203ad474.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/75/71/7571fc44-2f0a-459e-b8c4-a91d4341461b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cd/3c/cd3c0a4c-d302-4812-8bc9-ef8ce8144499.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/09/37/09374660-65e5-4f07-a4f9-13fa30c649f6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/48/b3/48b3b9f3-d666-4e9e-b766-cebffd889d64.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10, 11",
+      "Processor": "2.0 Ghz",
+      "Memory": "8 GB RAM",
+      "Graphics": "2GB VRAM",
+      "Storage": "14 GB available space"
+    },
+    "game_info": {
+      "Genre": "Adventure, Indie, RPG",
+      "Developer": "Pracy Studios",
+      "Platform": "PC",
+      "Game Size": "5.6 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 25460029"
+    },
+    "size": "5.6 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/ay4wqwaq1ifw",
+    "fitgirl_url": "https://fitgirl-repacks.site/hin-megami-tensei-3-nocturne-hd-remaster-pc/",
+    "fitgirl_matched": true,
+    "genres": [
+      "RPG",
+      "Third-person",
+      "3D",
+      "Post-apocalypse",
+      "Japanese",
+      "Turn-based"
+    ],
+    "company": "Atlus, Sega",
+    "updates": [
+      {
+        "name": "Shin.Megami.Tensei.III.Nocturne.HD.Remaster-DenuvOwO.HYPERVISOR.BYPASS.rar",
+        "url": "https://filecrypt.cc/Container/4D23E94F15.html"
+      }
+    ],
+    "video": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1413480/extras/fe736f2dcaed527d2616f45ec6e86fdd.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "SILENT HILL: Townfall",
+    "url": "https://steamrip.com/silent-hill-townfall-free-download/",
+    "description": "",
+    "cover_image": "https://i3.imageban.ru/out/2026/09/23/56a7136f1f38bb7f08c4aeb1d5c82956.jpg",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1636440/2cc8a7a9459fb8a8fe3dc62c6bec3b7471f7abdc/ss_2cc8a7a9459fb8a8fe3dc62c6bec3b7471f7abdc.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1636440/a41ef8372ff2c28bf7c45abf042da1be4119b831/ss_a41ef8372ff2c28bf7c45abf042da1be4119b831.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 11 x64",
+      "Processor": "AMD Ryzen 5 3600 / Intel i7-8700K",
+      "Memory": "16 GB RAM",
+      "Graphics": "NVIDIA GeForce RTX 2060 Super / AMD Radeon RX 6600",
+      "DirectX": "Version 12",
+      "Storage": "75 GB available space",
+      "Sound Card": "Windows Compatible Audio Device",
+      "Additional Notes": "Playing on minimum requirements should enable to play on Low settings at 1080p 30fps."
+    },
+    "game_info": {
+      "Genre": "Action, Adventure",
+      "Developer": "Screen Burn",
+      "Platform": "PC",
+      "Game Size": "55.7 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25168814"
+    },
+    "size": "55.7 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/raguocs7yxj8",
+    "fitgirl_url": "https://fitgirl-repacks.site/silent-hill-townfall/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "First-person",
+      "3D",
+      "Horror"
+    ],
+    "company": "Annapurna Interactive, Konami Digital Entertainment, Screen Burn Interactive",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Well Dweller",
+    "url": "https://steamrip.com/well-dweller-free-download/",
+    "description": "Welcome to “Well…”, a very difficult first-person precision platformer with engaging lore and storyline! In this game, you’ll find yourself in a mysterious magic well with a few strange rats. To climb your way out of this unfamiliar terrain, you must strafe platform to platform while relying on your intuition for navigation. Along the way, you’ll discover and collect hidden journals; these will enlighten you on the well’s history. Four levels must be beat in order to save this perplexing world. The levels progress in difficulty, making your journey continually more rewarding and rage-inducing. With its intuitive controls and fun gameplay, “Well…” is the perfect game for anyone who loves a good platformer with a twist. So why not join us on this adventure and see what lies waiting at the bottom of the well?",
+    "cover_image": "https://i2.imageban.ru/out/2023/04/05/4b9c41372dacff5e418b1c5e4157efa7.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/well-ii-2023/screenshots/11/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/well-ii-2023/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/well-ii-2023/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/well-ii-2023/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/well-ii-2023/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/well-ii-2023/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/4c/e0/4ce0d695-dba9-4d42-8a14-7b0612e1f5ec.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ec/eb/eceb056b-8ac1-46a6-84c6-3786b3313574.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1b/99/1b99cef8-4744-43e1-ac62-e357fa4f6650.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c7/69/c7699a41-d240-46b9-a1e8-fed78c8aad9c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b8/bb/b8bb7e79-712c-45ed-9393-59a7319213ca.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c0/80/c080ae38-df56-433a-af2c-e648cdac0f70.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10",
+      "Processor": "Intel Pentium E2180 (2 * 2000), AMD Athlon Dual Core 4450e (2 * 2300), or equivalent",
+      "Memory": "4 GB RAM",
+      "Graphics": "GeForce GT 220 (1024 MB), Radeon HD 4650 (1024 VRAM), or equivalent",
+      "Storage": "1 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Indie, RPG",
+      "Developer": "Kyle Thompson",
+      "Platform": "PC",
+      "Game Size": "756.9 MB",
+      "Released By": "RUNE",
+      "Version": "Build 25328504"
+    },
+    "size": "756.9 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/rqvqw7nr3px8",
+    "fitgirl_url": "https://fitgirl-repacks.site/well/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Arcade",
+      "Jump and run",
+      "First-person",
+      "3D"
+    ],
+    "company": "HeathenJeff",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "THE MULLER-POWELL PRINCIPLE: Director’s Cut",
+    "url": "https://steamrip.com/the-muller-powell-principle-directors-cut-free-download/",
+    "description": "It is a sci-fi story that takes place in the near future. You are Harry Herman, an employee of Delta Laboratories who researches interdimensional traveling. You had been participating in a project that was supposed to benefit all humanity, but something went wrong. Through the gameplay, you will solve various physics-based puzzles using an energy-manipulating weapon, travel across space and time to explore surrealistic universes and find out the dark truth about this project and your connection to it. Solve various puzzles and trick enemies using physics interactions and your special tool – the Portable Energy Manipulator. Many objects in the game can be picked up, brought somewhere, or manipulated in other ways. Whether it’s a computer terminal, a box you can carry, or a simple mug on a table. Explore various interactive environments to find clues and return to the riddle with a solution, which in some cases may be several. Nothing was made for you to solve, there’s no cube dispenser or an obvious exit door at the end. It’s all for you to figure out. The device you carry throughout the game can absorb different energy types from the environment and use them to perform various tasks. Absorbing energy from a particular source will give the gun its’ properties. The heat energy from fire and radiators will melt glass, security cameras can be blinded by a beam of light, and for powering generators, you can take hazardous radiation from toxic puddles scattered across Delta Labs facilities. And of course, you will make an encounter with the quantum entanglement energy – the mysterious power capable of opening rifts between worlds. Apart from solving environmental puzzles, your device can also be used against various creatures you’ll meet in parallel dimensions. Most of the time you can’t defeat your enemies; instead, you can use the Manipulator to outsmart or suspend them. Some enemies can be frozen in place using the force field energy, while others are sensitive to light and can be distracted by shooting a beam at it in the distance. You will require more advanced strategies and combining various energy types to pass them. You find yourself in one of Delta Labs’ off-world research facilities in an unknown dimension that looks more like a crashing-down laboratory. Your old friends Eugene and Alex try to connect with you shortly, and with their help, you start a journey through various dimensions. You will learn different physics interactions and meet unusual creatures on your way home. Along this, you have to unveil the mysteries of this project and your past. Experience a non-linear story where your choice always matters. Can you get to the bottom of this, or just try to escape? Who to listen? Who to trust? Which side will you take? And will you finally “break the Principle”? That depends entirely on you. Game Features Solve various physics-based puzzles Unique gameplay mechanics that involve an energy-manipulating weapon A mix of sci-fi with surreal and esoteric themes makes the game setting a unique design. Most of the time you’ll spend in bizarre alien dimensions Deeply thought-out story and lore. Each location and each character in the game has its own story revealed through various notes, environmental narratives, and characters’ conversations. The game features multiple endings that can be achieved through different choices",
+    "cover_image": "https://i6.imageban.ru/out/2023/11/30/9720fb00777073abe3d312414af7f965.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/muller-powell-principle/screenshots/12/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/muller-powell-principle/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/muller-powell-principle/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/muller-powell-principle/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/muller-powell-principle/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/muller-powell-principle/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/f3/28/f328258a-c8cb-46d1-ba1e-a6a8751ff84c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c2/9d/c29d89e8-6ac8-4a4e-93af-ff49ea09ac09.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/44/db/44db31fb-4552-40c2-9c29-e131d7f07078.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f3/22/f322b0ab-bd17-42cf-bbc9-09beec4aeec2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7c/54/7c54ceb6-23d5-4700-bb42-fd70e2288659.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/85/4e/854e3e10-a3ed-44a8-bd83-4cfa69db98e9.jpg.240p.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2155770/extras/gif_photongun.gif"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows 7/8/10 (64-bit)",
+      "Processor": "Quad-core Intel or AMD, 3 GHz or faster",
+      "Memory": "8 GB RAM",
+      "Graphics": "GeForce GTX 970 or AMD equivalent",
+      "Storage": "20 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Indie",
+      "Developer": "Three Dots Games",
+      "Platform": "PC",
+      "Game Size": "19.7 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25442644"
+    },
+    "size": "19.7 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/1akwsc4n89xk",
+    "fitgirl_url": "https://fitgirl-repacks.site/the-muller-powell-principle/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Action",
+      "Shooter",
+      "First-person",
+      "3D"
+    ],
+    "company": "Three Dots Games, Take Aim Games",
+    "updates": [
+      {
+        "name": "THE.MULLER-POWELL.PRINCIPLE.Update.v1.1.5.9-RUNE (2 parts)",
+        "url": "https://filecrypt.cc/Container/F09D125456.html"
+      }
+    ],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Ved: Recure",
+    "url": "https://steamrip.com/ved-recure-free-download/",
+    "description": "VED is a story-driven RPG featuring stunning hand-drawn art and animation combined with a unique teleporting system, turn-based combat mechanics and rogue-lite elements. Immerse yourself in a fantastical world with a rich storytelling experience, dozens of irreversible consequences and alternative endings, and gameplay that’s easy to learn but difficult to master! In VED, you take on the role of Cyrus, a young hero who comes to the city of Micropolis in search of a new life. There he suddenly discovers the ability to teleport between two interconnected worlds full of mysterious flying islands, strange creatures, and dangerous monsters. Unfold an interactive story where each decision matters and help Cyrus discover the truth about this magical place, so that you can decide the fate of two worlds. To succeed in your quest, you will have to master the powerful magic of the Veds. The game’s huge fantasy world, characters, and aesthetic design are inspired by various cultures and mythologies. Throughout Cyrus’s quest he will encounter many factions that have different views on the events taking place. By helping inhabitants from magical lands and the real world, Cyrus will learn more about himself, both universes, and most importantly, how to save them all… Or become their doom. Build new structures in the Troglodyte village to unlock new spells and create unique combinations of abilities. Select magical powers that work together to efficiently dispatch foes and defeat even your strongest enemies. Explore two different worlds, encounter bizarre creatures, and master the magic of the Veds! Game Features A non-linear story where every decision can lead to irreversible consequences and alternative endings. Several factions have different views on the events taking place. A dynamic system of relationships will allow you to influence the decisions of key characters. Innovative turn-based battle system. Use your positioning effectively to gain an advantage. Build a village for yourself and your allies to unlock new skills and abilities. A system of unique interactive events that impose curses or blessings on the hero, which may last until the end of the game. The game features an eclectic soundtrack that will accompany you on your adventure, spanning symphonic, folk, and hip-hop genres.",
+    "cover_image": "https://i5.imageban.ru/out/2024/11/17/707ce583e0f418ef6342f2d3cafcbf37.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/ved/screenshots/41/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/ved/screenshots/40/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/ved/screenshots/39/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/ved/screenshots/28/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/ved/screenshots/15/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/ved/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/ved/screenshots/",
+      "http://s01.riotpixels.net/data/42/9e/429ef293-3347-4c99-b34d-b542693f0c3a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/66/2e/662ef1a8-48dd-4259-9161-3b30e828efd3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/03/2c/032c13a4-69ec-497b-8143-5639715fd236.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/51/07/51077c36-1e07-40cf-bdc4-c47c71ffdcf9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d7/c7/d7c73e1e-c910-48b9-bb0a-bce1b310eec9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/19/47/1947cb7f-184c-437e-bf7c-f058626d55f0.jpg.240p.jpg",
+      "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1182420/extras/VED_Steam_Battle.gif"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10",
+      "Processor": "Intel i5+",
+      "Memory": "4 GB RAM",
+      "Graphics": "Nvidia GeForce GTX 1060",
+      "DirectX": "Version 11",
+      "Storage": "32 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, RPG",
+      "Developer": "SummerClip",
+      "Platform": "PC",
+      "Game Size": "11.7 GB",
+      "Released By": "RUNE emu",
+      "Version": "Build 25455509 | Full Version"
+    },
+    "size": "11.7 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/7uhgqx53rqhl",
+    "fitgirl_url": "https://fitgirl-repacks.site/ved/",
+    "fitgirl_matched": true,
+    "genres": [
+      "RPG",
+      "Side",
+      "2D",
+      "Platform adventure"
+    ],
+    "company": "Karaklan, Fulqrum Publishing",
     "updates": [],
     "video": null,
     "source_cover": "fitgirl",
