@@ -234909,5 +234909,80 @@
     "source_cover": "fitgirl",
     "source_screenshots": "fitgirl",
     "source_description": "fitgirl"
+  },
+  {
+    "title": "STUNTBOOST",
+    "url": "https://steamrip.com/stuntboost-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2999500/21477a5f047fbc914bd31d369e78b142d47fe62d/ss_21477a5f047fbc914bd31d369e78b142d47fe62d.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2999500/63f592cc55ba83ef5cc61afa031f37927f3a8e2f/ss_63f592cc55ba83ef5cc61afa031f37927f3a8e2f.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10",
+      "Processor": "Intel Core 2 Duo E6750, 2.66 GHz | AMD Phenom II X3 720, 2.8 GHz",
+      "Memory": "4 GB RAM",
+      "Graphics": "NVIDIA GeForce GTS 450, 1 GB | AMD Radeon HD 5750, 1 GB",
+      "Storage": "8 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Indie, Racing",
+      "Developer": "Byting Games",
+      "Platform": "PC",
+      "Game Size": "3.1 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 25479190"
+    },
+    "size": "3.1 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/yri893mp7cef",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Fallen Tear: The Ascension",
+    "url": "https://steamrip.com/fallen-tear-the-ascension-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1446900/ss_79366f1b1820679d1b3407be90478dcaf5b9c260.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1446900/ss_539f59b7d8e3cd3c971114814974d3b0cbab3b8f.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10 64-bit",
+      "Processor": "Intel Core i5-4460 or AMD Ryzen 3 1200",
+      "Memory": "16 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 950 or AMD Radeon R7 370",
+      "DirectX": "Version 11",
+      "Storage": "30 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Indie, RPG",
+      "Developer": "Winter Crew Studios",
+      "Platform": "PC",
+      "Game Size": "8.3 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25476640"
+    },
+    "size": "8.3 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/7tv5ilyt6ir9",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
   }
 ]
