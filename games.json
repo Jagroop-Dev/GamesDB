@@ -231269,11 +231269,22 @@
   {
     "title": "Another Eden Begins",
     "url": "https://steamrip.com/another-eden-begins-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Embark on an Adventure Beyond Time and Space Masato Kato, the creator of numerous RPG classics, presents an epic adventure spanning the past, present, and future! The main story is a richly woven tale with full voice acting, accompanied by a main theme song composed by Yasunori Mitsuda and music incorporating traditional folk instruments and an orchestra by Procyon Studios! Strategic command battles rely on building parties around characters’ roles and synergies to unleash additional skills! Use the power of Another Force to execute devastating attacks and edge closer to victory! After completing the main story, another adventure awaits with New Game+! All of the characters retain their strength for this new journey as actions and choices determine which of over 10 endings will unfold! Strategic Command Battles For command battles you initiate, creating a balanced party of attackers, supporters, and healers is key to victory! Unleash attacks to fill the Another Force gauge, and activate Another Force to stop enemies from taking action while your characters deliver devastating attacks! Embark on a New Adventure with New Game+ Clear the main story to unlock New Game+ and start a new adventure with your characters as they were! With the aid of a mysterious girl who prompts Aldo to undertake this new journey, discover over 10 different endings that unfold based on your actions and choices. A world of new experiences awaits! Encounters and Friendships with 18 Companions During his adventure across time, Aldo encounters 18 characters with differing backgrounds and talents. Learn more about them through unique encounter quests, character quests, and kinship quests, the last of which becomes available by forging deep connections with them! Story Aldo and his younger sister, Feinne, enjoy a peaceful life in the idyllic village of Baruoki, until one day, when Feinne is taken by the Beast King. Aldo pursues them into the Moonlight Forest, but following a fierce battle with a beast, he is sent through a tear in spacetime—and finds himself in a world 800 years in the future.",
+    "cover_image": "https://i4.imageban.ru/out/2026/09/24/2355079722ca78f69e0b4027f5f735e9.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4163960/291043e5df674d6f04d50a271ce088a9f384adc3/ss_291043e5df674d6f04d50a271ce088a9f384adc3.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4163960/15016fa606d8de22acf6921f7d9bbeca35c87259/ss_15016fa606d8de22acf6921f7d9bbeca35c87259.1920x1080.jpg"
+      "https://en.riotpixels.com/games/another-eden-begins/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/another-eden-begins/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/another-eden-begins/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/another-eden-begins/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/another-eden-begins/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/another-eden-begins/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/another-eden-begins/screenshots/",
+      "http://s01.riotpixels.net/data/c5/57/c5576f87-be32-4c80-85df-11b1de1dac8d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/46/9b/469bb2d6-f4bb-4d5e-81df-538505b4d725.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4b/d7/4bd7d900-fa34-4cea-90d3-651c7fd41b00.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1b/92/1b926636-209c-4648-ae9e-c9d0e0a14de1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7a/eb/7aeb774e-0b47-47cf-968c-6cf7b266b9db.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ef/a8/efa869fd-c173-4d75-b385-879c6b21850b.jpg.240p.jpg"
     ],
     "system_requirements": {
       "OS": "Windows® 11",
@@ -231295,15 +231306,21 @@
     "size": "10.1 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/dzf7om4raggi",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/another-eden-begins/",
+    "fitgirl_matched": true,
+    "genres": [
+      "RPG",
+      "Side",
+      "2D",
+      "Party-based",
+      "Turn-based"
+    ],
+    "company": "Wright Flyer Studios",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/4163960/1777773706/ef62a714e92c89c91061d54b7c3d4f829f94a912/1770626785/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "Battle Brothers",
@@ -234975,6 +234992,526 @@
     "size": "8.3 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/7tv5ilyt6ir9",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Bait Soul",
+    "url": "https://steamrip.com/bait-soul-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3484100/88bb702991457b86fcf13642e82ca7884a4f7df7/ss_88bb702991457b86fcf13642e82ca7884a4f7df7.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3484100/18efc68f487adcc2ee97f1755f303af10bed27a0/ss_18efc68f487adcc2ee97f1755f303af10bed27a0.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10 64-bit",
+      "Processor": "Intel Core i3-6100 / AMD FX-6300",
+      "Memory": "2 GB RAM",
+      "Graphics": "DirectX 11 compatible graphics card",
+      "DirectX": "Version 11",
+      "Storage": "2 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Casual, Indie",
+      "Developer": "Bold Fish",
+      "Platform": "PC",
+      "Game Size": "625.7 MB",
+      "Released By": "TENOKE",
+      "Version": "Build 25493888"
+    },
+    "size": "625.7 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/1ttex838099y",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Eastern Era",
+    "url": "https://steamrip.com/eastern-era-free-download/",
+    "description": "In this martial arts-themed management simulation game, assume the role of a sect leader. As a member of a declining sect, you must flee with your disciples and survive in a desolate world, striving to rejuvenate your sect. Navigate challenges posed by food shortages and harsh weather, hunt dangerous beasts, lift the spirits of your disciples, and manually construct all necessary facilities brick by brick. Recruit talents from the wilderness or cities to become your disciples, train their martial skills, and gradually restore your sect’s strength, rebuilding your unique sect headquarters. Forge alliances or sow discord among other sects, stirring up turbulent conflicts in this martial-dominated world. Seize power, defeat century-old formidable sects, conquer the JiangHu, and become the new legend. Game Features Detailed Interactive World – Explore vast forests, snowy plains, and deserts where every plant and tree can be collected and processed into resources for crafting and constructing everything necessary for survival. Your ultimate goal is to revive your sect. Travel through the Central Plains, explore other sects and ancient ruins, and seek clues to legendary martial arts manuals and mythical weapons. Train exceptional disciples and command them to defend, attack, and compete against other sects. They can bring back rare treasures for you. Or you can appoint them to manage your sect, or even swiftly seize other sects’ headquarters and participate in establishing new branch sects. Flesh and Reality – In the desolate yet vibrant primal landscapes, disciples will be challenged by needs such as hunger, sleep, and entertainment. They must also withstand the ever-changing weather and natural disasters, maintaining morale against the elements to avoid breakdowns. Disciples not yet trained in martial arts must tread carefully, as even a single beast can leave lifelong scars on their bodies. However, the body is the foundation of martial arts. As disciples master internal skills and techniques, their health and physical strength enhance their martial capabilities. Some extreme individuals even replace arms or organs with parts of mythical beasts to seek greater power. Martial Arts and Combining Techniques – The ultimate pursuit of martial arts mastery is the greatest desire for those in the martial world. Each disciple begins their journey by reinforcing their foundation and enduring the arduous process of opening their dantian, before training in coveted internal skills and techniques. However, mastering martial arts is just the first step; diligent practice forms only the foundation of progress. Advancing on the martial path requires providing disciples with rooms that complement their skills, along with the right elixirs and supportive items for rapid advancement. Combat is also a crucial aspect of enhancing strength. To truly stand unrivaled in the martial world, one must seek out powerful internal skills for disciples, pair them with appropriate techniques, and equip them with mythical weapons. Building Your Unique Sect – Collect resources and study construction, manufacturing, and art to choose a cultivation path that aligns with your sect’s development. Leverage architectural knowledge to build grand halls, lofts, and pavilions, integrating them with disciples’ daily life facilities to exhibit your appreciation for Eastern architecture. Ensure thoughtful design of storage spaces to prevent damage to materials under poor conditions and high temperatures. Provide suitable living quarters for disciples to boost their morale. Of course, don’t forget to construct defensive structures such as walls and arrow towers to eliminate greedy bandits and ill-intentioned martial world rogues. Competition or Cooperation – Develop independently in the martial world, or seek reliable allies. By engaging with other factions, you can influence events across the martial landscape, gaining advantages in both offense and defense. You can dispatch disciples to attack other sects’ bases and cities, conquering them openly through the prowess of your skilled disciples amidst the bloody turmoil for power. Alternatively, use strategic diplomacy to safeguard your interests, or manipulate other sects from the shadows, watching the chaos unfold with delight. Whether you choose to become the dominant force in the martial world, a shrewd diplomat, or a mastermind behind the scenes, the choice is yours.",
+    "cover_image": "https://i8.imageban.ru/out/2026/04/13/b80bb1f3dfb93956665544d50eff0fd3.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/eastern-era/screenshots/11/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/eastern-era/screenshots/10/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/eastern-era/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/eastern-era/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/eastern-era/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/eastern-era/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/eastern-era/screenshots/",
+      "http://s01.riotpixels.net/data/dc/5a/dc5a7073-0174-4d0e-86ae-d72ee0b3e2a8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/83/81/8381e593-5071-49ee-bc96-d6e03ecfdace.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7d/b1/7db177dd-7726-4743-be30-abb90f007d23.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/09/bf/09bff904-ba7b-4e4e-a0ed-b143a3911077.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b0/82/b082d087-8a40-475c-baa8-7172a126ba91.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9c/6b/9c6b5217-e01c-4f75-8f56-eda3620f4273.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows 7 64 bit",
+      "Processor": "AMD A10 7850K, Intel i3-2000",
+      "Memory": "8 GB RAM",
+      "Graphics": "Geforce RTX 2060 , Radeon RX 5600 XT"
+    },
+    "game_info": {
+      "Genre": "Adventure, Indie, RPG, Simulation, Strategy",
+      "Developer": "FunYoo Games",
+      "Platform": "PC",
+      "Game Size": "15.7 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25500661"
+    },
+    "size": "15.7 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/9it4t4ns0djs",
+    "fitgirl_url": "https://fitgirl-repacks.site/eastern-era/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Management",
+      "Strategy",
+      "Item crafting",
+      "Top",
+      "3D",
+      "Middle Ages"
+    ],
+    "company": "FunYoo Games",
+    "updates": [
+      {
+        "name": "Eastern.Era.Update.v1.0.48-RUNE (3 parts)",
+        "url": "https://filecrypt.cc/Container/89CD4B9135.html"
+      }
+    ],
+    "video": "https://video.fastly.steamstatic.com/store_trailers/3446240/2117489619/97d26421c598bd12c128dcfa8e3f1532ec2385f2/1774500322/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "CONTROL Resonant",
+    "url": "https://steamrip.com/control-resonant-free-download/",
+    "description": "After years in confinement at the hands of the Federal Bureau of Control (FBC), Dylan Faden emerges into a warped Manhattan at the peak of a paranatural crisis .\n\nCharged with combating a mysterious cosmic entity as it alters fundamental aspects of our reality, Dylan must harness his new-found powers to take the fight to the myriad threats overwhelming Manhattan.\n\nJoin Dylan in this sequel to the multi-award-winning CONTROL to explore the expansive zones of a city overrun by the corrupting influences of the chaotic Hiss, invasive micro-organism, the Mold, and other twisted paranatural threats. Kingdom Rush 6: Genesis TD\n\nOn the path to unlocking the full potential of his paranatural abilities Dylan will also seek out his sister, FBC Director Jesse Faden, as he bids to comprehend and contain the dangers that have spilled beyond the confines of the Oldest House to tear our world apart.\n\nSTEP INTO A WARPED REALITY Explore multiple areas of a ravaged Manhattan in an expansive, unfamiliar, and exciting world. Traverse perception-bending locations and grapple with gravity anomalies that distort the vertical and horizontal plane, adding additional dimensions to puzzles and new tactical decisions to combat.\n\nMeet faces old and new on a path fraught with risk but rich in opportunity as the cityscape is reshaped and reality is redefined by a godlike force.\n\nMASTER THE PARANATURAL Channel the raw experiences of Dylan’s past to help understand his present and dig deeper into the inner workings of the FBC and reveal the horrors threatening humankind .\n\nTap into power he must learn to master and take choices to shape how his abilities manifest and grow. Explore a deep progression system to define how Dylan adapts to emerging dangers. Forge connections crucial to Dylan’s fight to retain his humanity as he journeys from former test subject to paranatural superweapon.\n\nTHE FIGHT SHIFTS. YOUR WEAPON SHIFTS WITH IT. Meet constantly evolving threats head-on, utilising the environment, deploying elemental abilities and using the raw force of Dylan’s shapeshifting melee weapon , the Aberrant.\n\nWield the Aberrant in its many deadly forms. Deliver bone-crunching blows with a two-handed hammer and flow seamlessly into the swift precision of dual-wielded blades as this paranatural weapon morphs on demand to meet each new challenge.",
+    "cover_image": "https://i2.imageban.ru/out/2026/09/25/872112232487dc6971d34a4e8926858c.jpg",
+    "screenshots": [
+      "https://steamrip.com/wp-content/uploads/2026/09/control-resonant-screenshots-steamrip.jpg",
+      "https://steamrip.com/wp-content/uploads/2026/09/control-resonant-steamrip.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10 / 11 (64 bit)",
+      "Processor": "Intel i5-8500 / AMD Ryzen 5 3500",
+      "Memory": "16 GB RAM",
+      "Graphics": "Geforce GTX 1070 / Radeon RX 5600 XT / Intel Arc A580",
+      "Storage": "120 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, RPG",
+      "Developer": "Remedy Entertainment",
+      "Platform": "PC",
+      "Game Size": "86.3 GB",
+      "Released By": "RUNE emu",
+      "Version": "Build 25472515 | Full Version"
+    },
+    "size": "86.3 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/zhvjn7gvbymk",
+    "fitgirl_url": "https://fitgirl-repacks.site/control-resonant/",
+    "fitgirl_matched": true,
+    "genres": [
+      "RPG",
+      "Action RPG",
+      "Third-person",
+      "3D"
+    ],
+    "company": "Remedy Entertainment",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "ENTITY: THE BLACK DAY",
+    "url": "https://steamrip.com/entity-the-black-day-free-download/",
+    "description": "A third-person survival horror action game set in dark, atmospheric underground environments, blending psychological suspense with intense combat. The story follows Adam, a former special forces operative assigned a top-secret mission: investigate a supposedly abandoned underground bio-research facility and extract evidence proving the government’s involvement in funding a viral development program—one that spiraled out of control and killed thousands. What begins as a simple data retrieval job quickly turns into a dangerous search for answers. Most of the facility’s personnel are dead—casualties of brutal emergency protocols. Two scientists are missing, and Adam must track them through dark, hazardous corridors and storm-drain tunnels. As Adam follows their trail, unsettling signs and unexplained events make him question the true nature of his mission—and his own connection to the facility. Estimated playtime: approximately 4 hours for a standard playthrough. Gameplay: Combat: Attack enemies directly with firearms, melee strikes, and evasive maneuvers in fast-paced encounters. Executions: Crush and smash weakened enemies with brutal takedowns for maximum impact. Weapons: Unlock new weapons as you progress. Health: Restore your strength using limited medical injections found along the way. Boss Battles: Confront powerful bosses, each with distinct attack patterns and strategies. Resources & Crafting: Ammunition can become low at times, You can explore your surroundings to gather some extra ammo and materials that allow you to craft additional rounds and health injections whenever supplies begin to run out. Key Features: AI-Driven Protagonist & True Companion: Adam is brought to life with an advanced AI system, making him feel and act like a real companion throughout your journey. He reacts to situations, shares his thoughts, engages you directly as the player, and sometimes even breaks the fourth wall. Every conversation, reaction, and decision adds depth to the adventure—and you can customize how much Adam interacts with you, tailoring the experience to your preference. Original Story & Atmosphere: Unravel a unique, unpredictable narrative filled with psychological horror and mystery. Stunning Visuals: Explore atmospheric environments with high-quality graphics and immersive effects. Diverse & Challenging Levels: Encounter new hazards, puzzles, and enemies in every area for a consistently fresh experience. Blending Real and Virtual Worlds: The game creatively mixes real-world interaction with the virtual environment, requiring you to think beyond the screen to solve certain puzzles and challenges. Some enigmas can only be solved by combining clues from both realities, offering a truly unique gameplay twist. Not an Imitation: Enjoy innovative ideas and mechanics—ENTITY: THE BLACK DAY is not another clone.",
+    "cover_image": "https://i2.imageban.ru/out/2026/07/13/96d65066fe864ad24f5255be07d4b233.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/entity-the-black-day/screenshots/14/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/entity-the-black-day/screenshots/12/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/entity-the-black-day/screenshots/10/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/entity-the-black-day/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/entity-the-black-day/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/entity-the-black-day/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/entity-the-black-day/screenshots/",
+      "http://s01.riotpixels.net/data/5e/fc/5efc8401-8ec2-4586-8ff4-2108091933bd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cd/4e/cd4e5f19-08e9-436b-a304-6ef60db00282.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/44/b5/44b55f51-3c18-452e-a764-f3e15012df71.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/70/79/7079391f-7ec3-4b1a-81d2-c257c08e5e97.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/61/c8/61c81be0-a868-450e-af21-3c07a66ab2f7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a4/fb/a4fb4b08-42db-440d-9a09-a67c00f949a9.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows® 10 64-bit (v.1803 or higher)",
+      "Processor": "Requires a 64-bit processor and operating system",
+      "Memory": "16 GB RAM",
+      "Graphics": "GeForce® GTX 1070 | AMD Radeon™ RX 590",
+      "DirectX": "Version 12",
+      "Storage": "40 GB available space",
+      "Sound Card": "Surround sound headphones are recommended",
+      "Additional Notes": "SSD Recommended + FSR 3 must be enabled | Ultrawide not currently supported."
+    },
+    "game_info": {
+      "Genre": "Action, Adventure",
+      "Developer": "ASD Games Studio",
+      "Platform": "PC",
+      "Game Size": "37.5 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25456161"
+    },
+    "size": "37.5 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/i4ab9dick5o7",
+    "fitgirl_url": "https://fitgirl-repacks.site/entity-the-black-day/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Action",
+      "Shooter",
+      "Third-person",
+      "3D",
+      "Horror"
+    ],
+    "company": "ASD Games Studio",
+    "updates": [],
+    "video": "https://video.fastly.steamstatic.com/store_trailers/2517220/971182384/b16bc605386f1eb4ba76e04c361cedc0a27250aa/1765123501/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Heroes’ Vow: Three Kingdoms",
+    "url": "https://steamrip.com/heroes-vow-three-kingdoms-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3020510/2e0e303f784178695450e4770402e6feb594d3e1/ss_2e0e303f784178695450e4770402e6feb594d3e1.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3020510/0c05e6bbc2a9616193f643362544f55d45565b1d/ss_0c05e6bbc2a9616193f643362544f55d45565b1d.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows10",
+      "Processor": "Intel Core i5",
+      "Memory": "12 GB RAM",
+      "Graphics": "NVIDIA GTX960 4G",
+      "DirectX": "Version 11",
+      "Storage": "10 GB available space"
+    },
+    "game_info": {
+      "Genre": "Indie, RPG, Simulation, Strategy",
+      "Developer": "Free Wing",
+      "Platform": "PC",
+      "Game Size": "5.1 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 25506126"
+    },
+    "size": "5.1 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/48n61eegzrg2",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Kingdom Rush 6: Genesis TD",
+    "url": "https://steamrip.com/kingdom-rush-6-genesis-td-free-download/",
+    "description": "Kingdom Rush 6: Genesis brings a new chapter to the beloved tower defense saga, packed with the charm fans fell in love with. Jump into a portal in time to rewrite history and stop young Vez’nan before darkness takes hold\n\nReturn to the original Kingdom Rush lands, at a time when legends were just beginning. Recruit familiar faces, revisit iconic battlefields and build strategic defenses to outsmart enemy waves.\n\n18 Handcrafted Campaign Stages\n\nTravel across three landscapes of early Linirea: the Citadel, the Stormcloud Depths and the far lands of Arcania.\n\nEach stage is handcrafted piece by piece, from its unique mechanics and paths to the hidden Easter eggs waiting in every corner, so no two battles ever feel the same. Standing between you and Linirea’s future are 40+ enemies from 5 factions and 6 colossal bosses. Heroes’ Vow: Three Kingdoms\n\n5 Ways to Conquer Every Stage\n\nBeyond the main campaign , every stage unlocks 5 game modes that change the rules entirely.\n\nOur favorite? Classic Rush. Go back in time to 2011 and take on each stage with the original Kingdom Rush arsenal. Switch things up: survive one devastating wave in Iron Challenge, outpace enemies in Blitz , lead four heroes with no spells in Hero Party, or trust only your towers and spells in Spell Rush.\n\nLead Legends Old and New\n\nReunite with beloved characters and meet new allies. Choose your dream team from 12 heroes, 15 towers and 9 spells, mixing classic favorites with brand-new faces to find the synergies that suit your strategy. Then customize your army like never before, with individual upgrade trees for every hero and spell, plus global tower upgrades you can retune between stages .",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://steamrip.com/wp-content/uploads/2026/09/kingdom-rush-6-genesis-td-steamrip.jpg",
+      "https://steamrip.com/wp-content/uploads/2026/09/kingdom-rush-6-genesis-td-screenshots-steamrip.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10",
+      "Processor": "Quad Core CPU",
+      "Memory": "8 GB RAM",
+      "Graphics": "Intel UHD 600",
+      "Storage": "3 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Indie, Strategy",
+      "Developer": "Ironhide Game Studio",
+      "Platform": "PC",
+      "Game Size": "1.19 GB",
+      "Released By": "Mr_GOLDBERG emu | Ty q95604014 (csrin)",
+      "Version": "v1.00.038 | Full Version"
+    },
+    "size": "1.19 GB",
+    "languages": "ENG",
+    "bzzhr_url": null,
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Plan B: Terraform",
+    "url": "https://steamrip.com/plan-b-terraform-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1894430/dd8b3c7e71c05b027b4e63367b9592877e06da9f/ss_dd8b3c7e71c05b027b4e63367b9592877e06da9f.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1894430/d4c0bd8da85fe12385caddb171c10441988e85f3/ss_d4c0bd8da85fe12385caddb171c10441988e85f3.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 64 bits",
+      "Processor": "Intel Core i5-7xxx, AMD Ryzen 5 or better",
+      "Memory": "4 GB RAM",
+      "Graphics": "2GB video memory",
+      "DirectX": "Version 9.0",
+      "Storage": "500 MB available space",
+      "Additional Notes": "Mouse, Keyboard"
+    },
+    "game_info": {
+      "Genre": "Indie, Simulation, Strategy",
+      "Developer": "Gaddy Games",
+      "Platform": "PC",
+      "Game Size": "1.7 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 25501762"
+    },
+    "size": "1.7 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/9ab4y6317n77",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Mini Airways – ATC simulator",
+    "url": "https://steamrip.com/mini-airways-atc-simulator-free-download/",
+    "description": "Mini Airways is a real-time management game with an air traffic control theme. You will play as a busy air traffic controller in the game: directing planes to take off and land, clearing air traffic, upgrading airspace …… And most of all, don’t let them crash! Fast-paced, real-time ATC gameplay: Manage airspace, clear planes for takeoff and landing, and avoid near misses! In addition to the normal arrangement of takeoffs and landings, you also need to face the challenges of mountains, no-fly zones, and peak landing hours, so please concentrate! Every time you finish one day’s management, you will be able to pick an upgrade for your airspace and airport: auto holding, accelerating turns, increasing airspace, waypoints …… upgrade and customize airports to keep flights running more smoothly. Test your skills in iconic locations like London, Tokyo, San Francisco, Amsterdam, and 15 other new maps! Encounter unexpected events like the Hudson River Miracle, Air Force One, VIP flights, and handle them. Choose from Casual, Hardcore, or Sandbox modes based on your preference. Currently support altitude mods (check it out on our Discord community).",
+    "cover_image": "https://i3.imageban.ru/out/2024/08/10/e5bf8d181cadd1694b16ceff53cf7e9f.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/mini-airways/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/mini-airways/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/mini-airways/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/mini-airways/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/mini-airways/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/mini-airways/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/76/b9/76b9ad12-6984-4d5c-978b-505e5e1cfd51.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2b/db/2bdb6bf1-a99f-4e6a-982a-4cda17e4e445.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1e/8e/1e8e0458-f472-43be-b473-09fb6bed8fc4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/84/68/8468968b-1879-4766-ab52-55018b44ea1d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/db/96/db968ff3-7994-44a5-948c-0799195f2bf2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7a/8d/7a8d5c55-91f9-4c1d-bb38-c3d15cf2c8af.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Window 10 or newer",
+      "Processor": "2GHz or better",
+      "Memory": "1 GB RAM",
+      "Graphics": "1366×768 minimum resolution, post-2012 graphics hardware",
+      "DirectX": "Version 11",
+      "Network": "Broadband Internet connection",
+      "Storage": "2 GB available space"
+    },
+    "game_info": {
+      "Genre": "Casual, Indie, Simulation, Strategy",
+      "Developer": "CCC Games",
+      "Platform": "PC",
+      "Game Size": "1.2 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 25500659"
+    },
+    "size": "1.2 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/ptrmbsqnieo6",
+    "fitgirl_url": "https://fitgirl-repacks.site/mini-airways/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Managerial",
+      "Arcade",
+      "Top-down",
+      "2D",
+      "Real-time"
+    ],
+    "company": "CCC Games, Erabit",
+    "updates": [
+      {
+        "name": "Mini.Airways.Update.v0.11.4-TENOKE.rar",
+        "url": "https://filecrypt.cc/Container/0EAAAC8B4B.html"
+      },
+      {
+        "name": "Mini.Airways.Update.v1.0.1-TENOKE.rar",
+        "url": "https://filecrypt.cc/Container/727219001B.html"
+      },
+      {
+        "name": "Mini.Airways.Update.v1.2.23-TENOKE.rar",
+        "url": "https://filecrypt.cc/Container/E154E61654.html"
+      },
+      {
+        "name": "Mini.Airways.Update.v1.2.27-TENOKE.rar",
+        "url": "https://filecrypt.cc/Container/2F7042AA20.html"
+      }
+    ],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Lawn Mowing Simulator 2",
+    "url": "https://steamrip.com/lawn-mowing-simulator-2-free-download/",
+    "description": "Experience the beauty and detail of mowing the Great British countryside in Lawn Mowing Simulator, the only simulator that allows you to ride an authentic and expansive roster of real-world licensed lawn mowers from prestigious manufacturers; Toro, SCAG and STIGA as you manage your mowing business. PHYSICALLY AUTHENTIC LAWN MOWING EXPERIENCE Execute ground checks, set your blade height, and measure your engine load as you complete a variety of contracts across Career Mode, Free Mode or Challenge Mode. Take your mowing further with several attachments from stripe rollers, mulching kits, grass collectors, recyclers, flail decks and more. BEAUTIFUL RURAL BRITISH COUNTRYSIDE Lawn Mowing Simulator is set in a beautiful British countryside town. Busy residential streets, vast castle grounds, quaint cottage greens, and large equestrian fields are just some of the locations that await your mowing blades. REAL WORLD LICENSED MOWER MANUFACTURERS Toro, SCAG and STIGA front line Lawn Mowing Simulator with their real-world machines painstakingly re-created visually and physically. 12 Mowers are available in the base game, each with their own challenges, attachments and upgrades to pursue. ACCURATE AND ATTENTIVE BUSINESS MANAGEMENT Build your own lawncare business from the ground up. Purchase and upgrade your headquarters, hire employees, purchase advertising and balance the books as you grow and expand your business.",
+    "cover_image": "https://i5.imageban.ru/out/2021/08/12/cc685d6bf457c14de46b4e4ebb79a64e.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/lawn-mowing-simulator/screenshots/10/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/lawn-mowing-simulator/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/lawn-mowing-simulator/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/lawn-mowing-simulator/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/lawn-mowing-simulator/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/lawn-mowing-simulator/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/lawn-mowing-simulator/screenshots/",
+      "http://s01.riotpixels.net/data/13/e0/13e0a350-56e8-4dc0-a1cc-1b3d21a85c2a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/82/d8/82d8a540-e42a-477a-9ada-6231529f553b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ba/ae/baae1edb-ba0c-4015-9a8d-d4a6f0588767.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3c/76/3c76cf14-588d-4983-be8f-8cfb73feec29.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d1/b3/d1b34627-3c69-453c-b13f-cbced0532610.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9a/75/9a7592c8-67fe-4ab7-b65b-49e3e4dc15ed.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10/11 64bit",
+      "Processor": "Intel Core i5-6400, AMD Ryzen 5 1400, or better",
+      "Memory": "8 GB RAM",
+      "Graphics": "Nvidia GeForce GTX 1050Ti, AMD Radeon RX 470 graphics card or better (min 3GB VRAM, DX12 support)",
+      "DirectX": "Version 12",
+      "Network": "Broadband Internet connection",
+      "Storage": "45 GB available space",
+      "Sound Card": "Sound card",
+      "VR Support": "–",
+      "Additional Notes": "Actual performance may vary based on overall system configuration, but should run at 30 FPS+ @ Low 1080p"
+    },
+    "game_info": {
+      "Genre": "Casual, Simulation",
+      "Developer": "Skyhook Games",
+      "Platform": "PC",
+      "Game Size": "8 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25480459"
+    },
+    "size": "8 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/9roo1k0rv7hw",
+    "fitgirl_url": "https://fitgirl-repacks.site/lawn-mowing-simulator/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Driving",
+      "Lifestyle",
+      "3D"
+    ],
+    "company": "Skyhook Games, Curve Digital",
+    "updates": [],
+    "video": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1480560/extras/0505e00d1386854a6ae5ab3b6e719c37.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Qliphah in Providence’s Shadow",
+    "url": "https://steamrip.com/qliphah-in-providences-shadow-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3882410/02439aee5dd7e5c6dcaa416c24fbe200abd6c667/ss_02439aee5dd7e5c6dcaa416c24fbe200abd6c667.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3882410/54701ccdac7e41ed5c303856aef53ea2944895bb/ss_54701ccdac7e41ed5c303856aef53ea2944895bb.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 11",
+      "Processor": "Intel Core i5-2300 / AMD Ryzen 3 1200",
+      "Memory": "4 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 750 Ti/ AMD Radeon R7 360",
+      "DirectX": "Version 12",
+      "Storage": "8 GB available space"
+    },
+    "game_info": {
+      "Genre": "RPG",
+      "Developer": "Arc System Works",
+      "Platform": "PC",
+      "Game Size": "1.6 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25081152"
+    },
+    "size": "1.6 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/hhva8h1nw7jf",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "The Piper of Dawn",
+    "url": "https://steamrip.com/the-piper-of-dawn-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3804370/77dab8cf6e755e01b6191d8bd3eb5408fc478d95/ss_77dab8cf6e755e01b6191d8bd3eb5408fc478d95.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3804370/d7a851b245e3350d93ee1f9d399ec156b3d1a9ec/ss_d7a851b245e3350d93ee1f9d399ec156b3d1a9ec.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10",
+      "Processor": "Intel i5 Quad-Core",
+      "Graphics": "NVIDIA GeForce GTX 750 Ti",
+      "Storage": "4 GB available space"
+    },
+    "game_info": {
+      "Genre": "Indie, RPG, Simulation, Strategy",
+      "Developer": "Bone Nail",
+      "Platform": "PC",
+      "Game Size": "1 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 25499299"
+    },
+    "size": "1 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/f0qlfw3tsmjg",
     "fitgirl_url": null,
     "fitgirl_matched": false,
     "genres": [],
