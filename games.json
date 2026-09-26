@@ -232488,7 +232488,7 @@
     "title": "Woodo",
     "url": "https://steamrip.com/woodo-free-download/",
     "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "cover_image": "https://i4.imageban.ru/out/2026/09/25/fc16e9071d2b19c1ebb7c51fdcaf6750.jpg",
     "screenshots": [
       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2572040/01ad52ba101ce3f00fcc1936b0ac75f647de0801/ss_01ad52ba101ce3f00fcc1936b0ac75f647de0801.1920x1080.jpg",
       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2572040/a2164a5782210673d100647059837e47676e3bd8/ss_a2164a5782210673d100647059837e47676e3bd8.1920x1080.jpg"
@@ -232513,13 +232513,17 @@
     "size": "5 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/ge9os9jtvxfe",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/woodo/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Logic",
+      "Puzzle",
+      "3D"
+    ],
+    "company": "Tiny Monks Tales, Daedalic Entertainment",
     "updates": [],
     "video": null,
-    "source_cover": "steamrip",
+    "source_cover": "fitgirl",
     "source_screenshots": "steamrip",
     "source_description": "steamrip"
   },
@@ -234579,11 +234583,22 @@
   {
     "title": "Nighthawks",
     "url": "https://steamrip.com/nighthawks-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Six months ago, you died and were reborn. A vampire. A predator. Not a mere creature of the night, but one of its masters. At least, that’s how things were supposed to be… Unfortunately, it’s a new world out there. Vampires have finally been exposed, and although your existence is more or less tolerated, your ongoing thirst for blood is not. You arrived in the one city willing to promise vampires a fresh start, only to find suspicion and paranoia still lingering on its dark streets. But death could not hold you, and humanity’s fear will not hold you back. When the sun sets, outcasts rise . It’s time to seize the night by the throat… WELCOME TO NIGHTHAWKS Enter a deliciously twisted new take on vampire role-playing games as you take over a failing nightclub on the wrong side of the tracks, and turn it into your personal empire through seduction, intimidation, and careful use of secret supernatural Gifts. Befriend and recruit fellow outcasts, digging deep into their stories and harnessing their skills. Explore a fully voiced, lavishly written world of dark humour and bright neon as you climb from rags to riches on a mission to master your second life, and prove that even the darkest streets can lead to a brighter tomorrow. KEY FEATURES Over 800,000 words of stories and secrets, from the hilarious to the horrific, digging into every corner of a world where vampires no longer own the shadows and both the living and the dead have much to learn. Build up your nightclub empire to act as a light in the darkness that brings lonely souls together and turns fellow outcasts into found family… or take advantage of your position to feed your own thirst and ambitions. Ten companions to recruit to your side, including vampire magician Madame Lux, incorrigible con-artist Maze, disgraced private investigator Domino, and Agatha, the free-spirited, perpetual urchin Empress of the Rats. Powerful vampire magic to use and abuse, including Mesmerism for exerting control over the living, Natural Dominion for making animals do your bidding, and effortlessly shifting into smoke with Tenebrous Form. Murder, sex, betrayal… even friendship. Everything a modern monster could want. MEET THE TEAM Nighthawks is written and designed by Richard Cobbett (Sunless Sea/Sunless Skies) with art by Ben Chandler (Old Skies, Unavowed) , music by Thomas Regin (Unavowed) , and Dave Gilbert (Wadjet Eye Games) as Producer. It was made possible with the generous support of 3,934 Kickstarter backers, and many others who have contributed their faith and assistance. All rats were generously provided by their Empress and paid in delicious berries.",
+    "cover_image": "https://i3.imageban.ru/out/2026/09/25/9f0506e9b2f3d3577934aca0bc74f4af.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1221950/ab6fa4ccc3e8027c9a3a90d0680d7ee072a62882/ss_ab6fa4ccc3e8027c9a3a90d0680d7ee072a62882.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1221950/f437d0701b0d5b9cee484e14ddaafda65368ee5d/ss_f437d0701b0d5b9cee484e14ddaafda65368ee5d.1920x1080.jpg"
+      "https://en.riotpixels.com/games/nighthawks/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/nighthawks/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/nighthawks/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/nighthawks/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/nighthawks/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/nighthawks/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/nighthawks/screenshots/",
+      "http://s01.riotpixels.net/data/33/ce/33ce5fa3-193d-498b-8310-d2b8dccb8774.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ba/c3/bac3c4a6-3eb5-451f-9c5c-674daafb26b5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9e/fb/9efbacdf-8e2e-4fd8-85e1-035e355981fd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6b/3b/6b3ba0a3-2404-498a-8fa4-00c1eb127eca.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/39/ec/39ec1b0a-f17a-49cd-bba0-125c6fcd64fe.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/60/b0/60b0d4b5-2763-478c-aebc-238cb95b071c.jpg.240p.jpg"
     ],
     "system_requirements": {
       "notes": "Requires a 64-bit processor and operating system",
@@ -234606,15 +234621,19 @@
     "size": "5.3 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/o3cy019w334m",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/nighthawks/",
+    "fitgirl_matched": true,
+    "genres": [
+      "RPG",
+      "2D",
+      "Supernatural fiction"
+    ],
+    "company": "Wadjet Eye Games, Quarter To Thirteen",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/1221950/1344228077/be76978e6eb8cb44485d20cc8924bf62825cb4f7/1779792097/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "Rivage",
@@ -235521,5 +235540,135 @@
     "source_cover": "steamrip",
     "source_screenshots": "steamrip",
     "source_description": "steamrip"
+  },
+  {
+    "title": "CODEX MORTIS",
+    "url": "https://steamrip.com/codex-mortis-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4084120/b940b665601898860ddf807be1ac7345fd41ab3d/ss_b940b665601898860ddf807be1ac7345fd41ab3d.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4084120/661993b4368a404087e6b25d769a0def1900fd50/ss_661993b4368a404087e6b25d769a0def1900fd50.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 11",
+      "Processor": "Intel Core i3-2100 / AMD FX-4300",
+      "Memory": "4 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 650 / AMD Radeon HD 7750 / Intel HD Graphics 4000 / 1 GB VRAM",
+      "Storage": "140 MB available space",
+      "Sound Card": "Any"
+    },
+    "game_info": {
+      "Genre": "Action, Indie, RPG",
+      "Developer": "GROLAF",
+      "Platform": "PC",
+      "Game Size": "1.7 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 25513399"
+    },
+    "size": "1.7 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/9nyctiue3kea",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Garfield – Escape from Monday",
+    "url": "https://steamrip.com/garfield-escape-from-monday-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3932790/57ede91e1064efcca5fab77701dc260e864a8cb4/ss_57ede91e1064efcca5fab77701dc260e864a8cb4.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3932790/36f112c0edc8c6eb1f366f5486eb1e759813a419/ss_36f112c0edc8c6eb1f366f5486eb1e759813a419.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10 or later",
+      "Processor": "Intel Core i7 – 7700K",
+      "Memory": "8 GB RAM",
+      "Graphics": "Nvidia GTX 1060",
+      "DirectX": "Version 11"
+    },
+    "game_info": {
+      "Genre": "Adventure",
+      "Developer": "OSome Studio",
+      "Platform": "PC",
+      "Game Size": "7.7 GB",
+      "Released By": "RUNE",
+      "Version": "Build 24823981"
+    },
+    "size": "7.7 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/jji9axrqew6g",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Mineral Mining Simulator",
+    "url": "https://steamrip.com/mineral-mining-simulator-free-download/",
+    "description": "Welcome to the world of Coal Mining! Start with almost nothing and get to the top – develop your mine, sell coal, buy new machines and avoid dangers in this sandbox simulator. Coal Mining Simulator is a sandbox experience in which it’s up to you to create new tunnels and pathways. Make your mine truly yours, as you go deeper and deeper in order to mine more coal. Take control of numerous mining machines. Destroy, mine, drill, transport and blow things up – just remember to follow safety protocols and regularly maintain your equipment. Nothing works forever – if something gets broken, it’s up to you to repair it. There is no end goal in Coal Mining Simulator – you can take contracts and complete special assignments to get unique rewards or just follow your own path. The choice is yours! Mining is a dangerous job. Avoid earthquakes or gas explosions and be prepared for anything – whatever you buy, you can very easily lose if you are not careful!",
+    "cover_image": "https://i1.imageban.ru/out/2023/04/15/1258d8bf1041e3418002751bb8a00353.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/coal-mining-simulator/screenshots/11/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/coal-mining-simulator/screenshots/9/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/coal-mining-simulator/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/coal-mining-simulator/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/coal-mining-simulator/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/coal-mining-simulator/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/cf/e8/cfe86421-667d-4a92-888f-f03821a4cff0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e8/64/e864fbe9-a2cb-4682-826e-c4d2f5f2edd3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/71/26/71262591-ddb2-49dc-87af-a969a35c4ff4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a5/b9/a5b9e0c2-2cf4-4f84-ae4e-e070af5fa611.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bb/8e/bb8e62f8-bb64-4741-88aa-fdad7f081bba.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b2/e1/b2e11fcf-079a-40c8-9f7b-e0513f7b6ab4.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 64bit",
+      "Processor": "AMD Ryzen 5 1600 / Intel Core i5-8400",
+      "Memory": "8 GB RAM",
+      "Graphics": "GeForce GTX 970",
+      "DirectX": "Version 11",
+      "Storage": "10 GB available space",
+      "Sound Card": "DirectX compatible"
+    },
+    "game_info": {
+      "Genre": "Casual, Indie, Simulation",
+      "Developer": "Bewolba Studios",
+      "Platform": "PC",
+      "Game Size": "1.6 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 25519603"
+    },
+    "size": "1.6 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/q7l264a40xxl",
+    "fitgirl_url": "https://fitgirl-repacks.site/coal-mining-simulator/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Lifestyle",
+      "First-person",
+      "3D"
+    ],
+    "company": "Grande Games, GamePlanet",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   }
 ]
