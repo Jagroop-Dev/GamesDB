@@ -162858,11 +162858,22 @@
   {
     "title": "Seafarer: The Ship Sim",
     "url": "https://steamrip.com/seafarer-the-ship-sim-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Set sail and build your career at sea in Seafarer: The Ship Sim. Take the helm of various vessels solo or in multiplayer with a crew of up to 4 players, explore a vast open world inspired by Northern Europe, and take on maritime jobs ranging from cargo transport and rescue missions to firefighting, patrols, and unexpected events. In multiplayer, share duties on board, coordinate during missions, and tackle the challenges of life at sea as a crew. Start your career as an aspiring captain and earn your reputation across different harbors and factions. Complete missions, unlock new opportunities, expand your fleet, and shape your own path on the water. Whether you are transporting a variety of cargo between ports – from bulk goods and containers to LNG – answering distress calls with the Tide Guard, scouting the sea with your drone, or simply enjoying the rolling waves, every voyage brings something new to discover. A story-driven campaign follows Teddy, an experienced captain with a troubled past. As sabotage, piracy, and old secrets come to light, you become part of a maritime mystery about guilt, trust, and redemption. With accessible ship handling, varied onboard interactions, dynamic weather, ocean currents that shape navigation, and impressive waves powered by Unreal Engine 5 and NVIDIA WaveWorks 2.0, Seafarer: The Ship Sim brings the freedom, atmosphere, and adventure of life at sea to every voyage. Play solo or in multiplayer with a crew of up to 4 players Command a diverse fleet of ships – from small boats to cargo ships and tankers Build your career through missions, reputation, and fleet progression Customize your vessels with names, colors, flags and logos Experience a story-driven campaign about mystery, sabotage, and redemption Take on cargo, rescue, firefighting and patrol missions Use interactive tools such as cranes, water cannons, drones, and rescue equipment React to dynamic events, radio calls, daily challenges, ocean currents and changing weather Enjoy atmospheric ocean visuals powered by Unreal Engine 5 and NVIDIA WaveWorks 2.0",
+    "cover_image": "https://i3.imageban.ru/out/2026/09/29/3f2e7489192eca3dea567a13903a601b.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2582140/cd75c17af84b761b8835839bfc6fa9673dab4c8d/ss_cd75c17af84b761b8835839bfc6fa9673dab4c8d.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2582140/ea2f8c1fffa00a7aed3d8aac4108faff667fbc88/ss_ea2f8c1fffa00a7aed3d8aac4108faff667fbc88.1920x1080.jpg"
+      "https://en.riotpixels.com/games/seafarer-the-ship-sim/screenshots/15/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/seafarer-the-ship-sim/screenshots/14/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/seafarer-the-ship-sim/screenshots/10/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/seafarer-the-ship-sim/screenshots/9/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/seafarer-the-ship-sim/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/seafarer-the-ship-sim/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/seafarer-the-ship-sim/screenshots/",
+      "http://s01.riotpixels.net/data/d5/c9/d5c943a3-57ff-4b8b-b94e-8747ba0e2f03.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/30/75/3075145f-f21c-4cf1-a228-a769fe40d559.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d3/bb/d3bb59cb-a9ce-4d6e-b889-8320fc688927.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a7/bb/a7bb6276-5b30-4b21-86fe-f912284c35c8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7f/cc/7fcc5cae-f86b-4ee6-8255-173f39bdec88.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/de/1c/de1cd913-4fc5-486a-a5ed-598f0fab1a0d.jpg.240p.jpg"
     ],
     "system_requirements": {
       "OS": "Windows 10 64-Bit",
@@ -162883,15 +162894,22 @@
     "size": "13.1 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/fijpi58bgm0z",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/seafarer-the-ship-sim/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Driving",
+      "Lifestyle",
+      "First-person",
+      "Third-person",
+      "3D",
+      "Civilian ships"
+    ],
+    "company": "astragon Entertainment",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/2582140/884543294/c3616cd7665d249eb86b482d2b72bec7d98d8843/1790257174/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "Sea Power Naval Combat in the Missile Age",
