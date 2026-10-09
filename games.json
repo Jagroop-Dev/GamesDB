@@ -235033,11 +235033,22 @@
   {
     "title": "STUNTBOOST",
     "url": "https://steamrip.com/stuntboost-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Blast through cardboard tracks, master your momentum and shave off milliseconds to earn medals and challenge friends on a fingerboard with no speed limit. Race through skate-infused parcours as fast as possible! Replay and perfect your runs to earn medals, unlocking more rooms in your home featuring new levels and abilities. Climb online leaderboards for each level. Beat your friends’ scores to challenge them. Perform big leaps, grinds and flips to boost through childhood memories. Control gravity to dive mid-air or dash downhill. Explore and search for shortcuts while finding collectibles along the way. Skate as fast as you can manage – There is no speed limit!",
+    "cover_image": "https://i3.imageban.ru/out/2026/10/08/4ad85778a7f58561d8a20e5909eee2bb.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2999500/21477a5f047fbc914bd31d369e78b142d47fe62d/ss_21477a5f047fbc914bd31d369e78b142d47fe62d.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2999500/63f592cc55ba83ef5cc61afa031f37927f3a8e2f/ss_63f592cc55ba83ef5cc61afa031f37927f3a8e2f.1920x1080.jpg"
+      "https://en.riotpixels.com/games/stuntboost/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/stuntboost/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/stuntboost/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/stuntboost/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/stuntboost/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/stuntboost/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/stuntboost/screenshots/",
+      "http://s01.riotpixels.net/data/37/1e/371e1fb1-c6cf-4b6d-b920-5ba3136811cc.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9e/14/9e141250-9ace-47d2-b7b7-9f8188227933.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b3/56/b356018d-9718-4096-9c23-3fd549219c6e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/32/93/329356f4-b2f0-4675-9ffc-be3c9a3b1c86.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5b/3e/5b3e6c57-969a-47c6-8969-9a6d6feff339.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1e/db/1edbc313-d429-40c9-8d6a-37c8f90d328d.jpg.240p.jpg"
     ],
     "system_requirements": {
       "OS": "Windows 10",
@@ -235057,15 +235068,20 @@
     "size": "3.1 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/yri893mp7cef",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/stuntboost/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Arcade",
+      "Sports",
+      "First-person",
+      "3D"
+    ],
+    "company": "Byting Games",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/2999500/1146081772/4cbe60d15f611e45185e8307bdf57712a3bcee7d/1790066101/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "Fallen Tear: The Ascension",
@@ -239299,6 +239315,587 @@
       "Mecha"
     ],
     "company": "Piranha Games",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Clive Barker’s Hellraiser: Revival",
+    "url": "https://steamrip.com/clive-barkers-hellraiser-revival-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1551980/9b74be37e56cceaae86904138eefe0b80cff3531/ss_9b74be37e56cceaae86904138eefe0b80cff3531.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1551980/2aa71fefa0c6e99f07dc2d3fba09607fb26e82ca/ss_2aa71fefa0c6e99f07dc2d3fba09607fb26e82ca.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 64-bit + (22H2 update or later)",
+      "Processor": "AMD Ryzen 5 1500X, Intel Core i5-8400",
+      "Memory": "8 GB RAM",
+      "Graphics": "AMD Radeon RX Vega 64 8GB, NVIDIA GeForce GTX 1660",
+      "Storage": "80 GB available space",
+      "Additional Notes": "SSD is recommended"
+    },
+    "game_info": {
+      "Genre": "Action",
+      "Developer": "Saber Interactive",
+      "Platform": "PC",
+      "Game Size": "65.8 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25778117"
+    },
+    "size": "65.8 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/okymw9kkjvsw",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Atomfall",
+    "url": "https://steamrip.com/atomfall-free-download/",
+    "description": "A survival-action game inspired by real-life events, Atomfall is set five years after the Windscale nuclear disaster in Northern England. Explore the fictional quarantine zone, scavenge, craft, barter, fight and talk your way through a British countryside setting filled with bizarre characters, mysticism, cults, and rogue government agencies. From Rebellion, the studio behind Sniper Elite and Zombie Army, Atomfall will challenge you to solve the dark mystery of what really happened. Game Features Player Driven Mystery : Unravel a tapestry of interwoven narratives through exploration, conversation, investigation, and combat, where every choice you make has consequences. Search, Scavenge, Survive : You’ll need to scavenge for supplies, craft weapons and items, and fight desperately to make it out alive! Desperate Combat : With weapons and ammunition scarce, each frenetic engagement will see you blend marksmanship with vicious hand-to-hand combat. Manage your heart rate to hold a steady aim and ensure you have the energy you need to reach for your cricket bat and land the killer blow. Green and Unpleasant Land : The picturesque British countryside, with rolling green hills, lush valleys, and rural villages belie the dangers that await you. Navigate cult-controlled ruins, natural caves, nuclear bunkers and more as you explore this dense, foreboding world. Reimagining Windscale : A fictional reimagining of a real-world event, Atomfall draws from science fiction, folk horror, and Cold War influences to create a world that is eerily familiar yet completely alien. Included DLCs: Story Expansion Pack: Wicked Isle Story Expansion Pack: The Red Strain Basic Supply Bundle Enhanced Supply Bundle Deluxe Upgrade",
+    "cover_image": "https://i7.imageban.ru/out/2026/10/08/1c9f41fdf5655f50a1a27869e9efe2e2.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/atomfall/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/atomfall/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/atomfall/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/atomfall/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/atomfall/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/atomfall/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/atomfall/screenshots/",
+      "http://s01.riotpixels.net/data/6f/4b/6f4b6eb6-6695-467f-8915-b3dae53dff24.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/02/8d/028d7848-da8c-4fe1-b23a-185c15b38b8a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/40/7d/407d71ac-97c1-46ee-a632-7b46457d8bc6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e3/c9/e3c928c2-3b63-4c16-b1ed-68fc6d7222e6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b3/d6/b3d6bd53-0996-46ba-8d2a-c07ec4bc9a15.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/14/c8/14c8f1b0-919f-4206-a225-fe2dd4a92aee.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10 or later",
+      "Processor": "Intel CPU Core i5-9400f or equivalent",
+      "Memory": "16 GB RAM",
+      "Graphics": "Nvidia 2060 6GB or equivalent",
+      "DirectX": "Version 12",
+      "Storage": "60 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure",
+      "Developer": "Rebellion",
+      "Platform": "PC",
+      "Game Size": "57.5 GB",
+      "Released By": "voices38",
+      "Version": "v1.2.2 | Full Version"
+    },
+    "size": "57.5 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/j9igl1leu2ro",
+    "fitgirl_url": "https://fitgirl-repacks.site/atomfall/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Action",
+      "Item crafting",
+      "Survival",
+      "First-person",
+      "3D",
+      "Post-apocalypse"
+    ],
+    "company": "Rebellion",
+    "updates": [],
+    "video": "https://video.fastly.steamstatic.com/store_trailers/801800/854834/cda9afb606a12327670e8300b480ecf483e523bf/1750585384/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Echo Weaver",
+    "url": "https://steamrip.com/echo-weaver-free-download/",
+    "description": "",
+    "cover_image": "http://i91.fastpic.ru/big/2017/0920/b6/3fa189b29d2f545a620e5da7e3e6b8b6.jpg",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2184080/6f44fbcc06c5427499ba324ec935612e29f7e5f1/ss_6f44fbcc06c5427499ba324ec935612e29f7e5f1.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2184080/3b341b189d0d54d20afdce3c58ab406ade44c697/ss_3b341b189d0d54d20afdce3c58ab406ade44c697.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10+",
+      "Processor": "Core i3-9300T, AMD FX 8350",
+      "Memory": "4 GB RAM",
+      "Graphics": "NVIDIA GTX 660, AMD R7 260X",
+      "Storage": "4 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Indie",
+      "Developer": "Moonlight Kids",
+      "Platform": "PC",
+      "Game Size": "910.9 MB",
+      "Released By": "RUNE",
+      "Version": "Build 25809290"
+    },
+    "size": "910.9 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/ge4qlixguhiz",
+    "fitgirl_url": "https://fitgirl-repacks.site/echo/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Action",
+      "Shooter",
+      "Stealth",
+      "Third-person",
+      "3D"
+    ],
+    "company": "Ultra Ultra",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "DinoBones: Tidy Up the Museum",
+    "url": "https://steamrip.com/dinobones-tidy-up-the-museum-free-download/",
+    "description": "Museum messed up! Something happened here. Crates are tipped over, and skulls, ribs, and vertebrae lie scattered across the halls. You’re the only one around to put nine skeletons back together. Well, you and a cat. TURN CHAOS INTO ORDER Collect – Pick up bones from the floor, the stairs, and wherever the crates spilled them Identify – Every bone starts as “Unknown”. Figure out which skeleton it belongs to Assemble – Find the right slot and click it into place, one bone at a time MAKE A MESS, LEARN THE BONES Open crates, tip them over, or just throw them, and start rebuilding. Each dinosaur’s bones have their own look, color, texture, wear, and the more you place them, the faster you recognize them. No skill trees, no upgrades. Just you getting better. WAKE UP THE MUSEUM As skeletons come together, you’ll trigger special events around the museum. Each one leaves something behind: little rewards, toys, and surprises that make the place feel like yours.",
+    "cover_image": "https://i7.imageban.ru/out/2026/10/06/f252a063c0c36dd9f5cc121c2e69abf3.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/dinobones-tidy-up-the-museum/screenshots/9/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/dinobones-tidy-up-the-museum/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/dinobones-tidy-up-the-museum/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/dinobones-tidy-up-the-museum/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/dinobones-tidy-up-the-museum/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/dinobones-tidy-up-the-museum/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/dinobones-tidy-up-the-museum/screenshots/",
+      "http://s01.riotpixels.net/data/09/f5/09f5158f-f2b9-4ad0-ba46-5bbf57480f49.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/06/1d/061d3bb9-f0eb-434d-ac94-042f16e9b02e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b1/3b/b13b5067-4ec7-44d1-ac93-11d60baeae88.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/14/60/1460686d-42a1-444a-a59c-8e18ff8e495e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/86/03/8603b1b8-4702-4157-85d0-caf946a8f028.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8e/b8/8eb8b8ee-53c5-4c04-86cd-657be71642a0.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS": "64-bit Windows 10",
+      "Processor": "Intel Core i7-4790K / AMD Ryzen 5 1500X",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 980 Ti 6 GB / AMD Radeon RX 6500 XT",
+      "DirectX": "Version 11",
+      "Storage": "4 GB available space"
+    },
+    "game_info": {
+      "Genre": "Casual, Indie, Simulation",
+      "Developer": "Indie Souls Studio",
+      "Platform": "PC",
+      "Game Size": "1.3 GB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 25714567"
+    },
+    "size": "1.3 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/5n4ai2ro9y9x",
+    "fitgirl_url": "https://fitgirl-repacks.site/dinobones-tidy-up-the-museum/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Lifestyle",
+      "Physics-based",
+      "First-person",
+      "3D"
+    ],
+    "company": "Indie Souls Studio",
+    "updates": [],
+    "video": "https://video.fastly.steamstatic.com/store_trailers/5064340/260610679/b155164ac6fdf25b86e706cf978a080a4864b267/1789748785/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Forever Ago",
+    "url": "https://steamrip.com/forever-ago-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1215940/215e8d117a2fafa80d78a3d3c3996223e68f47df/ss_215e8d117a2fafa80d78a3d3c3996223e68f47df.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1215940/f252144f5d2c4d22e08fa7e889961246e8ddbd92/ss_f252144f5d2c4d22e08fa7e889961246e8ddbd92.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10",
+      "Processor": "Intel Core i5-2300 or AMD Phenom II X4 965",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 650 Ti, 2 GB or AMD Radeon HD 6950, 2 GB or Intel Arc A310, 4 GB",
+      "DirectX": "Version 12",
+      "Storage": "8 GB available space"
+    },
+    "game_info": {
+      "Genre": "Adventure, Indie",
+      "Developer": "Third Shift",
+      "Platform": "PC",
+      "Game Size": "4.5 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25574368"
+    },
+    "size": "4.5 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/6s3t1kyc101k",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "F1 2018",
+    "url": "https://steamrip.com/f1-2018-free-download/",
+    "description": "F1® 2018 is the official videogame of the 2018 FIA FORMULA ONE WORLD CHAMPIONSHIP™. Become immersed in the world of Formula 1® more than ever before. Build your reputation both on and off the track, with time-pressured media interviews that influence your F1 career path. Do you exhibit sportsmanship or showmanship? Will you develop your team to the top or send your agent to target a rival team and driver? F1 2018 puts you in control of your destiny. More classic F1 cars than ever before The most accurate F1 car simulation model yet Stunning graphics and new circuits for 2018: Paul Ricard and Hockenheim",
+    "cover_image": "http://i101.fastpic.ru/big/2018/0916/92/259237b3e80948dab5857a5e86450192.jpg",
+    "screenshots": [
+      "http://en.riotpixels.com/games/f1-2018/screenshots/17/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/f1-2018/screenshots/16/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/f1-2018/screenshots/14/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/f1-2018/screenshots/11/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/f1-2018/screenshots/9/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/f1-2018/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/41/a4/41a4df02-71c2-4987-94e7-0876031cdcef.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/58/57/5857dc39-1fc9-4d54-8c82-84cdc916d100.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/87/a7/87a78f10-f32f-4c74-94d0-06a372f1cc17.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8f/08/8f089cac-c4ef-445a-9dd9-588252ba5f96.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/92/26/92262743-e6bd-4b48-9068-a20ce613a6c5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2c/15/2c15720e-b593-4897-8289-48f0eb6526fc.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "64bit Versions of Windows 7, Windows 8, Windows 10",
+      "Processor": "Intel Core i3 2130 or AMD FX 4300",
+      "Memory": "8 GB RAM",
+      "Graphics": "Nvidia GT 640 or AMD HD 7750",
+      "DirectX": "Version 11",
+      "Network": "Broadband Internet connection",
+      "Storage": "50 GB available space",
+      "Sound Card": "DirectX Compatible Soundcard",
+      "Additional Notes": "Requires a 64-bit processor and operating system"
+    },
+    "game_info": {
+      "Genre": "Racing, Simulation, Sports",
+      "Developer": "Codemasters",
+      "Platform": "PC",
+      "Game Size": "30.7 GB",
+      "Released By": "DRM Free Exe + GSE + Gogovan CSF, cs.rin.ru",
+      "Version": "Build 3562727"
+    },
+    "size": "30.7 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/dtcagz49e4im",
+    "fitgirl_url": "https://fitgirl-repacks.site/f1-2018/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Racing",
+      "Simulation",
+      "3D",
+      "Open-wheel cars"
+    ],
+    "company": "Codemasters",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Gah!",
+    "url": "https://steamrip.com/gah-free-download/",
+    "description": "Welcome, mortal! I am Gah , custodian of Purgatory. I have been tasked with preparing a series of challenges for you. The stakes are high – the future of all humanity hangs in the balance. You will fight your way through hordes of enemies from different times and worlds. You will wield melee weapons, ranged weapons, magical arms, and even firearms. In each challenge you will improve your skills. If you fail, you will try again. I have prepared a small village where you can upgrade your abilities and increase your chances of survival. After every victory you will receive a reward. Let us waste no more time – the fate of humanity rests in your hands!",
+    "cover_image": "https://i8.imageban.ru/out/2026/01/21/243dce45e4e4421b929a6c9e8484a538.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/gah/screenshots/12/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/gah/screenshots/11/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/gah/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/gah/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/gah/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/gah/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/gah/screenshots/",
+      "http://s01.riotpixels.net/data/93/b9/93b9c24b-e255-49f4-922a-c5a0a7c71b0d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5e/3e/5e3e4235-da37-4cf2-9496-4471517f0494.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c8/fa/c8fa1003-72ba-4d63-b0d5-fec34050a878.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d3/ad/d3adb5b8-b40c-490b-bd18-5fdb05b34f49.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/16/72/167290f6-f619-4b58-9ed2-98ad617ab9e2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/09/b0/09b08fff-27d9-4f16-ad76-809d45ff5967.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS": "10",
+      "Processor": "Intel Core i5 6600",
+      "Memory": "8 GB RAM",
+      "Graphics": "AMD Radeon RX560 4GB",
+      "Storage": "4 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, RPG",
+      "Developer": "Jasio Games",
+      "Platform": "PC",
+      "Game Size": "4.3 GB",
+      "Released By": "DINOByTES",
+      "Version": "Build 22573272"
+    },
+    "size": "4.3 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/qki79q630uul",
+    "fitgirl_url": "https://fitgirl-repacks.site/gah/",
+    "fitgirl_matched": true,
+    "genres": [
+      "RPG",
+      "Action RPG",
+      "3D",
+      "Isometric",
+      "Dungeon crawl"
+    ],
+    "company": "Jasio Games",
+    "updates": [],
+    "video": "https://video.fastly.steamstatic.com/store_trailers/2471090/898691511/ae214d280c8a3d75a0beab410c44ccb2ab2df064/1768211294/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Poopy’s Playland",
+    "url": "https://steamrip.com/poopys-playland-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3926930/47ab3779246bd40e9efd34389e052dbc2d56f4db/ss_47ab3779246bd40e9efd34389e052dbc2d56f4db.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3926930/4437fc084e3b48720099171a0d69fa7c776ecc0b/ss_4437fc084e3b48720099171a0d69fa7c776ecc0b.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10",
+      "Processor": "AMD Ryzen 5",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA Geforce GTX 1050",
+      "DirectX": "Version 11",
+      "Storage": "2 GB available space"
+    },
+    "game_info": {
+      "Genre": "Adventure",
+      "Developer": "EmilJoes Games",
+      "Platform": "PC",
+      "Game Size": "1.5 GB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 25782213"
+    },
+    "size": "1.5 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/vztxmlnoxcwv",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Order of the Sinking Star",
+    "url": "https://steamrip.com/order-of-the-sinking-star-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/499170/9c05892a9e28c24f301227351bfc3dc52c5be513/ss_9c05892a9e28c24f301227351bfc3dc52c5be513.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/499170/460ba775d8bcba14964a6e2075db9db4ac422b73/ss_460ba775d8bcba14964a6e2075db9db4ac422b73.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 or later 64-bit (latest update)",
+      "Processor": "Intel Core i5-6600K or AMD Ryzen R5 1600 processor",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 580 or Intel Arc A380",
+      "DirectX": "Version 12",
+      "Storage": "14 GB available space"
+    },
+    "game_info": {
+      "Genre": "Adventure, Indie, Strategy",
+      "Developer": "Thekla, Inc.",
+      "Platform": "PC",
+      "Game Size": "10.3 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25805446"
+    },
+    "size": "10.3 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/ccgko4445nkr",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "SAVE AMANI",
+    "url": "https://steamrip.com/save-amani-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3153280/c69257fab6b63cb2b7473363640d008bfbb5b8e7/ss_c69257fab6b63cb2b7473363640d008bfbb5b8e7.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3153280/86d7b97bf89326c10cf904076cd9fe21c7d99a96/ss_86d7b97bf89326c10cf904076cd9fe21c7d99a96.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10 | 11",
+      "Processor": "Intel Core i5-2300 | AMD FX-4350",
+      "Memory": "8 GB RAM",
+      "Graphics": "Nvidia GeForce GTX 760 or AMD R7 260x",
+      "DirectX": "Version 11",
+      "Network": "Broadband Internet connection",
+      "Storage": "6 GB available space",
+      "Additional Notes": "需要 64 位处理器和操作系统"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Casual, Indie, Racing, RPG, Simulation, Strategy",
+      "Developer": "SPIRIT3D",
+      "Platform": "PC",
+      "Game Size": "5 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 25750451"
+    },
+    "size": "5 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/t7gn4b62lqr6",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Silver Pines",
+    "url": "https://steamrip.com/silver-pines-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2333000/57ae4a463c25fe5a06ad03dcdefc48b9b4d3ebb9/ss_57ae4a463c25fe5a06ad03dcdefc48b9b4d3ebb9.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2333000/2e1a1a86a223ee5e2e8eb64e61cffabbc669d866/ss_2e1a1a86a223ee5e2e8eb64e61cffabbc669d866.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10",
+      "Processor": "Intel Core i5-4460 or AMD Ryzen 3 1200",
+      "Memory": "8 GB RAM",
+      "Graphics": "NIVIDIA GeForce GTX 660 Ti, AMD Radeon R9 270X",
+      "DirectX": "Version 12",
+      "Storage": "5 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Indie, RPG",
+      "Developer": "Wych Elm",
+      "Platform": "PC",
+      "Game Size": "5.2 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25806663"
+    },
+    "size": "5.2 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/g741t4u0ebl4",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Stickility",
+    "url": "https://steamrip.com/stickility-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3419140/ss_d081c6765859381dc2a16656abf7dda1be67e14d.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3419140/432f3cb55f152600844452d01dc546dc5e21b357/ss_432f3cb55f152600844452d01dc546dc5e21b357.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10/11",
+      "Processor": "Intel Core i3-7100",
+      "Memory": "4 GB RAM",
+      "Graphics": "GTX 960 / RX 560",
+      "DirectX": "Version 11",
+      "Storage": "2 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Indie",
+      "Developer": "Reglan",
+      "Platform": "PC",
+      "Game Size": "775.4 MB",
+      "Released By": "TENOKE",
+      "Version": "Build 25761452"
+    },
+    "size": "775.4 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/r41qtheyungy",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "This Bed We Made",
+    "url": "https://steamrip.com/this-bed-we-made-free-download/",
+    "description": "",
+    "cover_image": "https://i5.imageban.ru/out/2023/11/02/e9be4b07b7d8e8ab6539dae0afa2561b.jpg",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1243850/ss_99dc7ea55bb5dddc44a314e30e88d5260f7f437b.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1243850/ss_bcc033954e6f4eb94206b8360193150189c6536a.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Windows 7 and up",
+      "Processor": "Core i3 7300",
+      "Memory": "8 GB RAM",
+      "Graphics": "760 GTX",
+      "DirectX": "Version 9.0",
+      "Storage": "10 GB available space"
+    },
+    "game_info": {
+      "Genre": "Adventure, Indie",
+      "Developer": "Lowbirth Games",
+      "Platform": "PC",
+      "Game Size": "5 GB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 18118665"
+    },
+    "size": "5 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/keb2vjddj6k2",
+    "fitgirl_url": "https://fitgirl-repacks.site/this-bed-we-made/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Adventure",
+      "Third-person",
+      "3D",
+      "Detective fiction"
+    ],
+    "company": "Lowbirth Games",
     "updates": [],
     "video": null,
     "source_cover": "fitgirl",
