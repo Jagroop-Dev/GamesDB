@@ -235338,11 +235338,22 @@
   {
     "title": "Heroes’ Vow: Three Kingdoms",
     "url": "https://steamrip.com/heroes-vow-three-kingdoms-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Write your own legend in the Three Kingdoms! ‘Hero’s Ambition: Three Kingdoms’ is a single-player RPG where you take on the role of a hero in the tumultuous late Han and Three Kingdoms era to forge your own path. Play as a loyal general aiding a wise lord to unite the realm, carve out your own domain as a ruler, or roam as a free officer raising private troops to tip the scales of history. Forge sworn brotherhoods, fall in love, marry, and raise heirs. Grow your family, manage properties, or retreat into sacred mountains and great rivers to cultivate martial arts and eloquence alongside your kin. Drill elite legions, experience and rewrite history from diverse perspectives, weave grand diplomatic alliances, or sweep across the land with iron and blood until all under heaven bow before you. Explore a meticulously crafted three-tier world spanning the strategic world map, bustling city interfaces, and intimate local scenes. From grand territorial conquests and military maneuvers to vibrant urban architecture and detailed life scenes and dramatic events, immerse yourself in an extraordinarily rich and dynamic Three Kingdoms world. The game features over 20 starting scenarios, spanning pivotal historical milestones from ‘The Yellow Turban Rebellion’ at the era’s beginning to ‘The Battle of Xiling’ at its twilight. It builds an expansive world featuring over 1,300 historical officers, brought to life with more than 2,000 full-body animated portraits. You can create your own officers before starting the game, while randomly generated officers will also continuously emerge across the Three Kingdoms as gameplay unfolds.",
+    "cover_image": "https://i7.imageban.ru/out/2026/10/11/0e04f4b366638362c55af8a54759c77b.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3020510/2e0e303f784178695450e4770402e6feb594d3e1/ss_2e0e303f784178695450e4770402e6feb594d3e1.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3020510/0c05e6bbc2a9616193f643362544f55d45565b1d/ss_0c05e6bbc2a9616193f643362544f55d45565b1d.1920x1080.jpg"
+      "https://en.riotpixels.com/games/heroes-vow-three-kingdoms/screenshots/12/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/heroes-vow-three-kingdoms/screenshots/11/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/heroes-vow-three-kingdoms/screenshots/9/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/heroes-vow-three-kingdoms/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/heroes-vow-three-kingdoms/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/heroes-vow-three-kingdoms/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/heroes-vow-three-kingdoms/screenshots/",
+      "http://s01.riotpixels.net/data/3e/56/3e561f6f-7b7b-4eaf-9831-d65e8fb87907.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ff/c5/ffc58a12-9491-4320-ab98-32890c44a923.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7f/54/7f54ea5e-2fbb-4e17-819b-9ce41331b4bd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ea/af/eaafdb3a-067a-478e-9a73-4316162e88e7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/25/d8/25d8d348-1cb2-462a-80bc-d67f7e1695bf.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/21/0e/210e8225-8904-4b02-84aa-983ffb26ecb7.jpg.240p.jpg"
     ],
     "system_requirements": {
       "notes": "Requires a 64-bit processor and operating system",
@@ -235364,15 +235375,20 @@
     "size": "5.1 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/48n61eegzrg2",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/heroes-vow-three-kingdoms/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Strategy",
+      "RPG",
+      "3D",
+      "Turn-based"
+    ],
+    "company": "NPC Entertainment, Free Wing",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/3020510/1043759040/5ffec0ac46778e70007aa2bab472c9bd84836300/1790145512/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "Kingdom Rush 6: Genesis TD",
@@ -239566,11 +239582,22 @@
   {
     "title": "Forever Ago",
     "url": "https://steamrip.com/forever-ago-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Following a tragic stroke of fate, Alfred embarks on a journey north in search of redemption. In this single-player road trip adventure, you’ll travel to beautiful places, capture memories with your camera, meet interesting characters, and even make some new friends. Discover Stories Experience a nuanced and heartfelt story about broken dreams, loss, and regret—but also courage, hope, and true friendship. Learn about the stories, beliefs and struggles of characters you meet along the way, brought to life by renowned voice actors. Embark on an Unforgettable Road Trip Explore beautiful environments, ranging from serene forest trails to dusty barrens sweltering in the desert sun. Examine and interact with objects to learn about your surroundings and the people living there. Capture Memories Take pictures with Alfred’s good ol’ instant camera to document your journey and solve small environmental puzzles. Relive True Love Play through a lifetime of love as Alfred with your sweetheart Audrey, experiencing a true love that transcends time. Featuring an original soundtrack by Clark Aboud (Slay the Spire, Kind Words).",
+    "cover_image": "https://i5.imageban.ru/out/2026/10/10/95e34087155b6690d2e24984712fc5af.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1215940/215e8d117a2fafa80d78a3d3c3996223e68f47df/ss_215e8d117a2fafa80d78a3d3c3996223e68f47df.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1215940/f252144f5d2c4d22e08fa7e889961246e8ddbd92/ss_f252144f5d2c4d22e08fa7e889961246e8ddbd92.1920x1080.jpg"
+      "https://en.riotpixels.com/games/forever-ago/screenshots/20/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/forever-ago/screenshots/14/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/forever-ago/screenshots/12/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/forever-ago/screenshots/10/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/forever-ago/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/forever-ago/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/forever-ago/screenshots/",
+      "http://s01.riotpixels.net/data/c3/13/c3132e5f-38b0-4379-94c6-14d117e98840.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/be/8b/be8bea13-29ce-4a5c-83a5-4ee641b6b672.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/95/de/95de2980-d714-44b6-afae-e6ab6b074ef8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1b/9c/1b9cba91-97b0-40ba-9a46-e12ce0fa2c15.png.240p.jpg",
+      "http://s01.riotpixels.net/data/30/54/3054c419-b80c-4e5b-94f3-c9d6095f147d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/04/6a/046a1c2a-8023-4d49-b6ee-7d3efab98a72.jpg.240p.jpg"
     ],
     "system_requirements": {
       "notes": "Requires a 64-bit processor and operating system",
@@ -239592,15 +239619,19 @@
     "size": "4.5 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/6s3t1kyc101k",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/forever-ago/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Adventure",
+      "Third-person",
+      "3D"
+    ],
+    "company": "Third Shift",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/1215940/1253555179/9412f97c956ad024894605eee834c95170e906cd/1790880802/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "F1 2018",
@@ -239835,7 +239866,7 @@
     "title": "Silver Pines",
     "url": "https://steamrip.com/silver-pines-free-download/",
     "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "cover_image": "https://i2.imageban.ru/out/2026/10/10/23eefaadf36521aa2c61158ca99b7eed.jpg",
     "screenshots": [
       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2333000/57ae4a463c25fe5a06ad03dcdefc48b9b4d3ebb9/ss_57ae4a463c25fe5a06ad03dcdefc48b9b4d3ebb9.1920x1080.jpg",
       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2333000/2e1a1a86a223ee5e2e8eb64e61cffabbc669d866/ss_2e1a1a86a223ee5e2e8eb64e61cffabbc669d866.1920x1080.jpg"
@@ -239860,13 +239891,18 @@
     "size": "5.2 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/g741t4u0ebl4",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/silver-pines/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Adventure",
+      "Side",
+      "2D",
+      "Horror"
+    ],
+    "company": "Wych Elm, Team17 Digital",
     "updates": [],
     "video": null,
-    "source_cover": "steamrip",
+    "source_cover": "fitgirl",
     "source_screenshots": "steamrip",
     "source_description": "steamrip"
   },
@@ -240335,5 +240371,660 @@
     "source_cover": "steamrip",
     "source_screenshots": "steamrip",
     "source_description": "steamrip"
+  },
+  {
+    "title": "Deus Ex: Game of the Year Edition",
+    "url": "https://steamrip.com/deus-ex-game-of-the-year-edition-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6910/0000001635.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6910/0000001636.1920x1080.jpg"
+    ],
+    "system_requirements": {},
+    "game_info": {
+      "Genre": "Action",
+      "Developer": "Ion Storm",
+      "Platform": "PC",
+      "Game Size": "3.2 GB",
+      "Released By": "machine4578 crack, Ty AR-81",
+      "Version": "Build 251801"
+    },
+    "size": "3.2 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/gxv5y1em9801",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Blaster!",
+    "url": "https://steamrip.com/blaster-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4959180/838c4f1abb854999e2e5af9336e5d3243b9db2d8/ss_838c4f1abb854999e2e5af9336e5d3243b9db2d8.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4959180/0c86a27bae193b7d27c131ceb33c9344f84ccec5/ss_0c86a27bae193b7d27c131ceb33c9344f84ccec5.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Windows 7 / 8 / 10 / 11",
+      "Processor": "Intel / AMD CPU with 2.0 GHz",
+      "Memory": "4 GB RAM",
+      "Graphics": "3D graphics card with 64 MB RAM",
+      "Storage": "3 GB available space",
+      "Sound Card": "Recommended",
+      "Additional Notes": "Keyboard, Mouse"
+    },
+    "game_info": {
+      "Genre": "Action, Indie, Simulation",
+      "Developer": "Metropolis",
+      "Platform": "PC",
+      "Game Size": "2.8 GB",
+      "Released By": "FCKDRM",
+      "Version": "Build 25805984"
+    },
+    "size": "2.8 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/nqh9g0t9u92y",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Denizen",
+    "url": "https://steamrip.com/denizen-free-download-2/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2010030/fa91193a48d9bdf2817457ca66ce3e638c22a471/ss_fa91193a48d9bdf2817457ca66ce3e638c22a471.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2010030/3c9ce3f204b600ac43d24fb5d93fac3216d2b561/ss_3c9ce3f204b600ac43d24fb5d93fac3216d2b561.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10",
+      "Processor": "i5 4690 / Ryzen 5 2500X",
+      "Memory": "12 GB RAM",
+      "Graphics": "GTX 1050 / R9 270X",
+      "DirectX": "Version 11",
+      "Storage": "15 GB available space"
+    },
+    "game_info": {
+      "Genre": "Adventure, Indie, RPG, Simulation",
+      "Developer": "Departure Interactive",
+      "Platform": "PC",
+      "Game Size": "4.4 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25842913"
+    },
+    "size": "4.4 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/8ka3whlfepit",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Journey To The Savage Planet",
+    "url": "https://steamrip.com/journey-to-the-savage-planet-free-download/",
+    "description": "Explore the ancient, mysterious world of Journey as you soar above ruins and glide across sands to discover its secrets. Play alone or in the company of a fellow traveler and explore its vast world together. Featuring stunning visuals and a Grammy-nominated musical score, Journey delivers a breathtaking experience like no other.",
+    "cover_image": "https://i106.fastpic.ru/big/2019/0608/53/09760cef00da1235251d69160e482a53.png",
+    "screenshots": [
+      "http://en.riotpixels.com/games/journey/screenshots/130/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/journey/screenshots/129/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/journey/screenshots/128/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/journey/screenshots/121/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/journey/screenshots/119/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/journey/screenshots/108/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/8f/f4/8ff4f78b-7cae-4758-8c9b-1fd74c8f108f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/23/1a/231a76e3-215a-43c6-a5c5-5f40126e00ec.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fc/53/fc537df0-7ebe-436b-8cbb-c3f7ae10909a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e2/94/e294204b-9aef-4c31-84d6-a76bc3790e74.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d7/20/d720304e-c09b-4465-9293-84ce743ea211.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/dd/86/dd864b68-51e3-4cbd-8e60-d08270073acb.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Win 7, 8, 10",
+      "Processor": "Intel Core i5-750, 2.67 GHz",
+      "Memory": "4 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 660 | AMD Radeon HD 7950"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure",
+      "Developer": "Typhoon",
+      "Platform": "PC",
+      "Game Size": "5.4 GB",
+      "Released By": "OFME + CSF",
+      "Version": "Build 6229624"
+    },
+    "size": "5.4 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/hluka5kotcyd",
+    "fitgirl_url": "https://fitgirl-repacks.site/journey/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Arcade",
+      "Platform adventure",
+      "Third-person",
+      "3D"
+    ],
+    "company": "thatgamecompany, Annapurna Interactive",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Marvel vs. Capcom: Infinite",
+    "url": "https://steamrip.com/marvel-vs-capcom-infinite-free-download/",
+    "description": "The epic clash between two storied universes returns with Marvel vs. Capcom: Infinite, the next era of the highly revered action-fighting game series. Marvel and Capcom universes collide like never before as iconic characters team up for action-packed player-versus-player combat. Imagined and created through a shared vision between the two companies, Marvel vs. Capcom: Infinite will feature a variety of exciting and accessible single player modes and rich multi-player content for new players and longtime fans alike. In addition to single player Arcade, Training and Mission modes, a visually stunning and immersive cinematic Story Mode will put players at the center of both universes as they battle for survival against a sinister new threat, Ultron Sigma. Marvel vs. Capcom: Infinite is being built to highlight a combination of iconic locations and fan favorite characters from both universes, including Captain Marvel and Iron Man from the Marvel side, and Ryu and Mega Man X from Capcom. Game Features Reborn Rivalries: Universes collide once again in this all-new crossover clash for the ages, where players select their favorite Marvel and Capcom characters and engage in accessible and free-form 2v2 team battles, which allow for new gameplay dynamics never-before-seen in the franchise. Infinite Power: Choose one of the six powerful Infinity Stones from the Marvel Universe to influence the outcome of battle. Each Infinity Stone will customize characters with unique abilities and powerful game-changing effects that can quickly turn the tide of battle. Iconic Heroes: More characters join the announce roster (Captain Marvel, Iron Man, Captain America, Ryu, Mega Man X and Morrigan) in the battle for survival, including Hulk, Thor, Hawkeye, Rocket Raccoon, Chun-Li, Strider Hiryu, Chris Redfield and Ultron, bringing the current roster up to 14 characters with more to be revealed in the future. Cinematic Story: The Marvel and Capcom universes collide as heroes and villains battle together to save their merged worlds from a sinister new threat, Ultron Sigma. A combination of the robotic foes known as Ultron from the Marvel Universe and Sigma from the Capcom Universe, this psychotic villain is obsessed with infecting all organic life with a cybernetic virus. History’s greatest gathering of warriors must now unite to fight back against Ultron Sigma and save their newly formed world. Accessible Single Player Content: In addition to the cinematic story experience, players can hone their skills in a variety of accessible single player modes, including Training, Mission, and Arcade modes. Included DLCs Arthur Fallen Angel Armor Costume Black Panther Black Widow Captain America Gladiator Costume Captain Marvel Warbird Costume Character Pass Chris Classic Costume ChunLi Casual Costume Command Mission X Costume Dante Nephilim Costume Doctor Strange Illuminati Costume DormammuMolten Costume Evil Ryu Costume Firebrand Ultimate Costume Frank West Proto Man Costume Gamora Classic Costume Ghost Rider Outlaw Costume Gladiator Hulk Costume Haggar Metro City Mayor Costume Jedah Makai Messiah Costume Joe Fixit Costume Monster Hunter Morrigan Night Warrior Costume Nemesis Tyrant Costume Nova Prime Costume Ryu Wanderer Costume Sigma Space Suit Costume Special X Costume Special Zero Costume Spencer Gottfried Costume Strider Hien Costume Superior Iron Man Costume Superior Spider-Man Costume Thanos Annihilation Costume Ultimate Hawkeye Costume Ultimate Thor Costume Ultron Conquest Costume Venom Warrior Thor Costume Winter Soldier",
+    "cover_image": "http://i91.fastpic.ru/big/2017/1001/4e/5607f0829f65512c473499892742674e.jpg",
+    "screenshots": [
+      "http://en.riotpixels.com/games/marvel-vs-capcom-infinite/screenshots/62/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/marvel-vs-capcom-infinite/screenshots/61/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/marvel-vs-capcom-infinite/screenshots/46/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/marvel-vs-capcom-infinite/screenshots/24/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/marvel-vs-capcom-infinite/screenshots/14/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/marvel-vs-capcom-infinite/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/fd/10/fd109e9f-af84-4ced-9519-56cd4fe3ffc6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/90/83/9083819d-9188-46bc-97cd-1894b77a0fc8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ed/b0/edb01479-8138-40a3-a300-d36599d8789e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f5/42/f5428f7c-424e-4896-bb23-808830f1ee15.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/09/6e/096edb1b-8944-46f4-a535-b62c07134870.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/41/3e/413eea1f-f609-43d6-b945-4c65fb105fbf.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Windows 7 64-bit",
+      "Processor": "Intel Core i3-4160 @ 3.60GHz",
+      "Memory": "6 GB RAM",
+      "Graphics": "NVIDIA® GeForce® GTX 480, GTX 570, GTX 670, or better",
+      "DirectX": "Version 11",
+      "Network": "Broadband Internet connection",
+      "Storage": "59 GB available space",
+      "Sound Card": "DirectSound Supported (DirectX® 9.0c or more)"
+    },
+    "game_info": {
+      "Genre": "Action",
+      "Developer": "Capcom",
+      "Platform": "PC",
+      "Game Size": "58.2 GB",
+      "Released By": "Goldberg CCL + CSF",
+      "Version": "Build 18789511"
+    },
+    "size": "58.2 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/aq9pb7ltmeks",
+    "fitgirl_url": "https://fitgirl-repacks.site/marvel-vs-capcom-infinite/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Arcade",
+      "Fighting",
+      "Side",
+      "3D"
+    ],
+    "company": "Capcom",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "MOMO Crash",
+    "url": "https://steamrip.com/momo-crash-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3077570/487487f7f53778cfb031b3ee9c0430f8d56d41ae/ss_487487f7f53778cfb031b3ee9c0430f8d56d41ae.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3077570/d8558a1d2ab48677997f0707e0d6d69e1fed24e0/ss_d8558a1d2ab48677997f0707e0d6d69e1fed24e0.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10+",
+      "Storage": "1 GB available space"
+    },
+    "game_info": {
+      "Genre": "Casual, Indie",
+      "Developer": "SKOOTA GAMES",
+      "Platform": "PC",
+      "Game Size": "1016 MB",
+      "Released By": "TENOKE",
+      "Version": "Build 22615899"
+    },
+    "size": "1016 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/82m4hvtrtsyh",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Motorcycle Night Ride",
+    "url": "https://steamrip.com/motorcycle-night-ride-free-download/",
+    "description": "Kickass Torrents Magnet — .torrent Tapochek.net Free-torrents rutor.info — Magnet",
+    "cover_image": "http://i67.fastpic.ru/big/2015/0402/9a/223500ea7e692aeca01b8227bf20089a.jpg",
+    "screenshots": [
+      "http://en.riotpixels.com/games/ride/screenshots/35/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/ride/screenshots/25/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/ride/screenshots/14/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/ride/screenshots/12/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/ride/screenshots/9/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/ride/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/e9/4a/e94a50ff-d4b8-48b6-812b-3bf9905dfbf7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/66/cf/66cf2cdb-e977-474e-a3ef-6b595c738808.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3d/6e/3d6e847f-d758-47cb-9b04-aa4c9ae909d0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ee/69/ee699a54-2dd3-48ef-80f9-69f209dc1670.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/79/f0/79f0f68a-8603-4360-9f58-9bf092a4e12e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/dd/05/dd054740-825a-492e-baf9-f8a37dac8b63.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows 8 , 8.1 , 10 / 64-bit , 11",
+      "Processor": "Intel i3-5400F",
+      "Memory": "4 GB RAM",
+      "Graphics": "Intel UHD Graphics 920",
+      "Storage": "2 GB available space"
+    },
+    "game_info": {
+      "Genre": "Indie, Racing, Simulation",
+      "Developer": "Suber Game Studio",
+      "Platform": "PC",
+      "Game Size": "920 MB",
+      "Released By": "TENOKE",
+      "Version": "Build 25834755"
+    },
+    "size": "920 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/3svvqsry6gj4",
+    "fitgirl_url": "https://fitgirl-repacks.site/ride-4-dlc-update-2/",
+    "fitgirl_matched": true,
+    "genres": [],
+    "company": "Bandai Namco Games",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "PAPERHEAD",
+    "url": "https://steamrip.com/paperhead-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2680280/9b66435bfec75f5243a6529366f7daf1d700c8aa/ss_9b66435bfec75f5243a6529366f7daf1d700c8aa.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2680280/acc2e8d1355b239bcc34fd633fe36c47ca37f91f/ss_acc2e8d1355b239bcc34fd633fe36c47ca37f91f.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Windows 7 64-bit or later",
+      "Processor": "Requires a 64-bit processor and operating system",
+      "Memory": "2 GB RAM",
+      "Graphics": "GeForce 9800GT Or Equivalent",
+      "DirectX": "Version 9.0",
+      "Storage": "2 GB available space",
+      "Sound Card": "Any"
+    },
+    "game_info": {
+      "Genre": "Action, Indie",
+      "Developer": "Paperhead te4m",
+      "Platform": "PC",
+      "Game Size": "7.1 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25829881"
+    },
+    "size": "7.1 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/8x7qeh6vsl2o",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Permafrost",
+    "url": "https://steamrip.com/permafrost-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2254990/b926493536b5e7020ad5073e714599b165f7f597/ss_b926493536b5e7020ad5073e714599b165f7f597.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2254990/b87e3b22b543999763d442a5ec28ec39b0640d72/ss_b87e3b22b543999763d442a5ec28ec39b0640d72.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 (x64)",
+      "Processor": "Intel Core i5 8600K or AMD Ryzen 5 3500",
+      "Memory": "16 GB RAM",
+      "Graphics": "Nvidia GTX 1060 6GB or AMD Radeon RX 590 8GB",
+      "DirectX": "Version 11",
+      "Storage": "30 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, RPG, Simulation, Early Access",
+      "Developer": "SpaceRocket Games",
+      "Platform": "PC",
+      "Game Size": "16.9 GB",
+      "Released By": "afraidium + Pakrat CSF, cs.rin.ru",
+      "Version": "Build 25854170"
+    },
+    "size": "16.9 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/7ad0tp9r2op9",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "PROHIBEAST",
+    "url": "https://steamrip.com/prohibeast-free-download/",
+    "description": "In Prohibeast, a real-time tactical infiltration game, dive into a corruption-ridden 1930s Chicago plagued by smuggling and black-market meat. As meat consumption is outlawed, Al Capone expands his criminal empire through a ruthless black market. Faced with widespread corruption, Eliot Ness and his team of Untouchables are ready to strike from the shadows to bring down the mob from within. Infiltration and Strategy: Make Your Mark with Your Own Style Each mission will put your sense of strategy and stealth to the test. – Plan your operations – Choose your approach: stealthy infiltration, silent takedowns, or clever diversions. – Exploit the environment – Hideouts, alternate routes, distractions… Each mission offers multiple solutions. – Outsmart the enemies’ heightened senses – Sharp eyesight, acute hearing, and keen smell… Discover a whole new way to play: infiltration is no longer just about hiding! Take Control of the Untouchables As the leader of the Untouchables, take control of Eliot Ness and his team, a group of specialists with complementary skills where each member plays a key role in your infiltration operations: – Eliot Ness – A fearless and versatile leader, able to adapt to any situation and lead even the riskiest missions to success. – Malone B. Clonan – A loyal right-hand man and hardened veteran who favors a more direct, forceful approach. – Frank E. Eager – A methodical and discreet sniper, eliminating targets with deadly precision. Other specialists will also join your team to help refine your strategies. Learn to harness each member’s strengths and weaknesses to build unique strategies and strike the mob where they least expect it. Infiltrate Iconic Locations Each mission plunges you into the heart of Chicago, in places where crime and corruption thrive. Observe, plan, and adapt your approach to achieve your objectives without leaving a trace. From the Loop, Chicago’s iconic district and hub of corrupt power, to the mayor’s mansion where criminal alliances are forged, and the foggy Lake Michigan docks, a major hub for smuggling, each location is filled with dangers and opportunities, demanding tailored strategies to survive. But more criminal strongholds await, where the slightest mistake could be fatal. Only the most strategic minds will manage to infiltrate without a trace. Can you operate from the shadows and bring down Al Capone’s criminal empire?",
+    "cover_image": "https://i4.imageban.ru/out/2026/06/05/99fed21fd7bfaf4f5a984c8ad712f8f3.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/prohibeast/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/prohibeast/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/prohibeast/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/prohibeast/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/prohibeast/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/prohibeast/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/prohibeast/screenshots/",
+      "http://s01.riotpixels.net/data/db/1a/db1abdfb-0889-4049-91dc-c520db82543d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/67/93/6793e2e6-656e-459d-80cb-5b01f68e54f3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8d/e1/8de18144-2d11-423a-9be5-eba5cc551e5c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c0/af/c0af621a-c7f0-4db5-895e-a5b4a63df4f2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a1/a4/a1a43529-bab3-46b2-ada9-ef30f2c9b094.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/10/bc/10bc373d-35ce-479d-a5ae-6348006cc8e2.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10 (64 bits)",
+      "Processor": "Intel Core i5 or equivalent",
+      "Memory": "16 GB RAM",
+      "Graphics": "GeForce GTX 950 | RX 5600 XT",
+      "DirectX": "Version 11",
+      "Storage": "30 GB available space",
+      "Additional Notes": "30 fps in 1080p, SFAA, no SSGI, low shadows, low textures map size"
+    },
+    "game_info": {
+      "Genre": "Strategy",
+      "Developer": "SUPER AC",
+      "Platform": "PC",
+      "Game Size": "15.4 GB",
+      "Released By": "RUNE",
+      "Version": "Build 24932779"
+    },
+    "size": "15.4 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/6yzyqcybqxwr",
+    "fitgirl_url": "https://fitgirl-repacks.site/prohibeast/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Strategy",
+      "Tactics",
+      "Stealth",
+      "Top-down",
+      "3D",
+      "Real-time"
+    ],
+    "company": "Super AC",
+    "updates": [
+      {
+        "name": "PROHIBEAST.Update.v1.0.4-RUNE.rar",
+        "url": "https://filecrypt.cc/Container/CD5E17D8DE.html"
+      }
+    ],
+    "video": "https://video.fastly.steamstatic.com/store_trailers/3503790/311574929/168ea60b551662aecf861e087f415364e9ea12de/1756895271/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "the cabin game",
+    "url": "https://steamrip.com/the-cabin-game-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4406280/7f0302923a8073e79a1de61dbf19c8bcea4bc8a0/ss_7f0302923a8073e79a1de61dbf19c8bcea4bc8a0.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4406280/7717c26835132f38da0d5bef63ba092e6fb04c7d/ss_7717c26835132f38da0d5bef63ba092e6fb04c7d.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10/11 64-bit",
+      "Processor": "Intel i5 or new-gen i3",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA GTX 970",
+      "DirectX": "Version 11",
+      "Storage": "16 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Indie, Early Access",
+      "Developer": "Twisted Corridor👻",
+      "Platform": "PC",
+      "Game Size": "10.9 GB",
+      "Released By": "Unsteam + CSF",
+      "Version": "Build 25553694"
+    },
+    "size": "10.9 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/i982ccaqx2ru",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "The Legend of Heroes: Trails of Cold Steel III",
+    "url": "https://steamrip.com/the-legend-of-heroes-trails-of-cold-steel-iii-free-download/",
+    "description": "Welcome to the New Class VII – Explore the newly annexed lands of the Empire with a brand new squad, and catch up with familiar faces from the past.",
+    "cover_image": "https://i111.fastpic.ru/big/2020/0328/44/7aaf983a03947006471487be001ca844.jpg",
+    "screenshots": [
+      "http://en.riotpixels.com/games/legend-of-heroes-trails-of-cold-steel-3/screenshots/30/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/legend-of-heroes-trails-of-cold-steel-3/screenshots/25/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/legend-of-heroes-trails-of-cold-steel-3/screenshots/24/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/legend-of-heroes-trails-of-cold-steel-3/screenshots/17/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/legend-of-heroes-trails-of-cold-steel-3/screenshots/12/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/legend-of-heroes-trails-of-cold-steel-3/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/cc/ef/ccefd03b-e8b3-4f00-9aa4-b9491f7ce978.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ee/50/ee50b4ad-23ab-4e49-8feb-a917b89804b3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/24/28/2428305e-c290-4c82-93df-217d730f140e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/af/db/afdb33f5-d25d-4bff-bc36-4bd4d9c7757e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/56/52/56525e5b-a7e2-49e9-ad5c-9427b8a5708c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ba/96/ba96979f-f0d8-4f05-84f0-4aedb5f6fcf0.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows 10/8.1/7 64-bit",
+      "Processor": "Core i3-2100 3.10 GHz",
+      "Memory": "8 GB RAM",
+      "Graphics": "Geforce GTX 650 Ti",
+      "DirectX": "Version 11",
+      "Storage": "25 GB available space",
+      "Sound Card": "Onboard"
+    },
+    "game_info": {
+      "Genre": "RPG",
+      "Developer": "Nihon Falcom",
+      "Platform": "PC",
+      "Game Size": "18.5 GB",
+      "Released By": "Goldberg + Owla CSF",
+      "Version": "Build 16668702"
+    },
+    "size": "18.5 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/pl2qrko1d9wk",
+    "fitgirl_url": "https://fitgirl-repacks.site/the-legend-of-heroes-trails-of-cold-steel-3/",
+    "fitgirl_matched": true,
+    "genres": [
+      "RPG",
+      "Third-person",
+      "3D",
+      "Japanese",
+      "Turn-based"
+    ],
+    "company": "Nihon Falcom, NIS America",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "The Thaumaturge",
+    "url": "https://steamrip.com/the-thaumaturge-free-download/",
+    "description": "The Thaumaturge is an isometric, story-rich RPG with a unique take on turn-based combat, character development features, and investigation mechanics, facing you with morally ambiguous choices – set in a world teeming with mysterious powers and strange ethereal beings called salutors. The year is 1905. Warsaw lives under the yoke of imperial Russian tsardom. Its inhabitants constitute a diverse group of different ancestries, views, and beliefs with often conflicting interests: Russian soldiers, Jewish merchants, Polish townspeople, and more. Despite the circumstances, the city is a buzzing metropolis, where one can attend a breathtaking party with the high society, and later get robbed in one of the dark alleys of the Praga district. A city of great hopes and dreams on one hand and dark desires on the other. A thaumaturge bears both a gift and a burden at the same time. This parallel holds true for Wiktor Szulski, the game’s titular protagonist, who is drawn back to the tumultuous streets of 20th-century Warsaw by family matters. The gift of thaumaturgy is intertwined with family legacy, passed down through one’s ancestors. This mystical inheritance significantly shapes Wiktor’s life journey tied around a pursuit of unearthly entities and their hosts. As only a thaumaturge can tame these ethereal entities – known to a select few as salutors – utilizing their mystical abilities to discover secrets hidden within the human soul and speak to the Darkness, no one understands quite like Wiktor how everyone suffers their own demons. Game Features Shape your story – as a full-fledged RPG, it allows you to alternate your choices and make you deal with the aftermath. Develop your character – creating your own version of the thaumaturge will allow you to approach situations in different ways. Experience unique turn-based combat and defeat your foes using human attacks and skills as well as psychic strikes delivered by salutors. Influence and manipulate the temperaments of other characters to bend their will to your liking. Tame the power of salutors – use the unique set of their skills to gain an advantage while exploring the world and when bringing your adversaries to their knees. See the world that’s inevitably gone – explore the uncommon, heavily researched historic period of the early XX century Warsaw, where crime and luxury are often two sides of the same coin. Meet historical figures and learn about their involvement in the story. Created in Unreal Engine 5 to deliver a detailed & beautifully crafted world.",
+    "cover_image": "https://i1.imageban.ru/out/2024/03/05/6763c0835d5b96bc64a5ef18d254a102.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/thaumaturge/screenshots/18/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/thaumaturge/screenshots/16/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/thaumaturge/screenshots/14/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/thaumaturge/screenshots/13/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/thaumaturge/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/thaumaturge/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/thaumaturge/screenshots/",
+      "http://s01.riotpixels.net/data/2c/52/2c52c59a-9558-4eb9-baa8-0874739c760a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fb/47/fb47a9de-984f-49eb-84c2-56dfd2f443de.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0c/9d/0c9d7dc4-1757-406d-b244-823a592b82d1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/02/99/0299ea0f-f33d-4e54-b9f5-8c2ff056b0f8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8a/16/8a16ad26-4f29-4990-9317-33298a03ef02.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c4/32/c432bbb1-e801-48f2-9be4-90de9bf06042.jpg.240p.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1684350/extras/Buka_2.gif"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 (64-bit)",
+      "Processor": "AMD Ryzen 5 3600 (6 core with 3,5 Ghz) or Intel i5-10400F (6 core with 2,9 Ghz)",
+      "Memory": "16 GB RAM",
+      "Graphics": "Radeon RX580 (8GB) or Nvidia GTX 1050 Ti (4GB) or Intel Arc A750 8GB",
+      "DirectX": "Version 12",
+      "Storage": "25 GB available space",
+      "Additional Notes": "SSD (Recommended), HDD (Supported). Framerate might drop in graphics-intensive scenes. Ultrawide screen supported."
+    },
+    "game_info": {
+      "Genre": "Adventure, RPG",
+      "Developer": "Fool’s Theory",
+      "Platform": "PC",
+      "Game Size": "23.5 GB",
+      "Released By": "RUNE",
+      "Version": "Build 24013413"
+    },
+    "size": "23.5 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/qout10qlb530",
+    "fitgirl_url": "https://fitgirl-repacks.site/the-thaumaturge/",
+    "fitgirl_matched": true,
+    "genres": [
+      "RPG",
+      "Isometric",
+      "3D",
+      "Turn-based"
+    ],
+    "company": "Fool’s Theory, 11 bit studios",
+    "updates": [
+      {
+        "name": "The.Thaumaturge.Update.v1.0.3-RUNE.rar",
+        "url": "https://datanodes.to/0y6cxjg7oknh/The.Thaumaturge.Update.v1.0.3-RUNE.rar"
+      },
+      {
+        "name": "The.Thaumaturge.Update.v1.1.1-RUNE (5 parts)",
+        "url": "https://filecrypt.cc/Container/DB8EE5ED8F.html"
+      },
+      {
+        "name": "The.Thaumaturge.Update.v1.1.2-RUNE.rar",
+        "url": "https://filecrypt.cc/Container/90766E2FC2.html"
+      }
+    ],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "They Are Coming",
+    "url": "https://steamrip.com/they-are-coming-free-download/",
+    "description": "Ardennes, 1944. What the Americans call The Battle of the Bulge slowly peters out, as Nazi tanks run out of gas and are mercilessly pounded into the ground by Allied air force. Defeat prompts the Reich to unleash its Wunderwaffe in a desperate bid to turn the tide of the battle: Hungry, hungry zombies. Or, well, a zombie. It’s up to you to gnaw and bite your way to victory, through allies, Nazis, and everyone else you meet. Once you’re done with that, spread the joy of undeath and liking for the delicate taste of brain beyond Ardennes (or World War II for that matter). Who knows what delicious humans you’ll find in the modern times? Or even the future? Game Features Chaotic Munch’em Up: Zombies exist for one thing, and one thing only: Gnawing on humans. Or rather, their brains. Take one zombie, then “recruit” an entire horde to them to take on the world. Hard Like a Skull: Some humans won’t become the main course quietly! Dodge machine guns, mortars, tank shells, and everything else humanity puts in the way of a hard-munchin’ zombie to keep ’em away from delicious gray matter. Old-School Expansion: Every stage is filled with humans to meet and bite on. Every stage also has plenty of secrets and challenges to uncover, together with the friends you eat on the way. Can you find them all? Gotta Eat’em All: Everything you do adds up to the final score and evolution of the horde. How good are *you* at devouring your way to the end of humanity?",
+    "cover_image": "https://i1.imageban.ru/out/2022/05/24/b2a7051b1cce0306ca0442d9332a389f.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/they-are-coming/screenshots/10/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/they-are-coming/screenshots/9/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/they-are-coming/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/they-are-coming/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/they-are-coming/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/they-are-coming/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/88/88/88888c5c-6038-47d6-b8a4-9f0107ac0a6e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/48/4b/484b5f6f-98da-491f-bb3e-916b530c4e66.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c9/c3/c9c39081-5d54-44b1-be5f-6a1a7d8985f5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f2/9e/f29e6965-932f-4f2a-b5f8-3c0c9868671f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8a/4f/8a4fb55b-f395-42c1-85ea-9c00433a7d85.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/55/70/5570f5b1-8b7a-4bd0-9d79-5bc830afcc1d.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Windows 7",
+      "Processor": "3.0 GHz Dual-Core",
+      "Memory": "2 GB RAM",
+      "DirectX": "Version 10",
+      "Storage": "200 MB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Indie, Early Access",
+      "Developer": "OnHit Developments",
+      "Platform": "PC",
+      "Game Size": "75.2 MB",
+      "Released By": "CSF, No DRM",
+      "Version": "Build 22430306"
+    },
+    "size": "75.2 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/lkutdi8gcjim",
+    "fitgirl_url": "https://fitgirl-repacks.site/they-are-coming/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Strategy",
+      "World War II",
+      "Zombies",
+      "Post-apocalyptic",
+      "Isometric",
+      "3D"
+    ],
+    "company": "The 6-month initiative, Freedom Games",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   }
 ]
