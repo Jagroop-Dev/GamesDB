@@ -239870,11 +239870,22 @@
   {
     "title": "Order of the Sinking Star",
     "url": "https://steamrip.com/order-of-the-sinking-star-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "From legendary director Jonathan Blow ( Braid , The Witness ) comes Order of the Sinking Star , a massive puzzle adventure featuring more than one thousand hand-crafted puzzles designed to put your intellect to the test. You are transported to a realm of curious magic, dangerous contraptions, and vicious monsters. Explore four distinct worlds, each with its own mechanics, characters, and stories, and then watch as they all collide. As the worlds merge, and characters meet one another, puzzle systems intertwine, creating surprising new gameplay possibilities. Explore at your own pace, revisit worlds and return to challenges as you see fit. Discover unique playable characters, master evolving gameplay mechanics, and decipher the deep mysteries of a sprawling, interconnected game world. Blending exploration, storytelling, and ever-progressing mechanics, Order of the Sinking Star invites you into a mysterious, living puzzle unlike anything you’ve played. Embark on an innovative puzzle adventure with dozens of game mechanics and hundreds of hours of unique gameplay. Each puzzle builds on the last, introducing new game mechanics that reward curiosity and persistence. Explore four mysterious worlds, each with its own characters, rules, dangers, and secrets waiting to be uncovered. Come and go as you like, you are free to take on the puzzles you discover at your own pace. A queen, a thief, a warrior, a wizard, and a talking boat are just some of the heroes of this tale. Each character wields complementary abilities and has captivating stories to tell. As playable characters begin to meet and worlds collide, the mystery untangles. Through gameplay and notes you collect you learn more about this enigmatic realm. Piece by piece and clue by clue, you’ll uncover the secrets of the Order of the Sinking Star.",
+    "cover_image": "https://i2.imageban.ru/out/2026/10/15/87fa4a405553be9391cf7259fe167bd3.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/499170/9c05892a9e28c24f301227351bfc3dc52c5be513/ss_9c05892a9e28c24f301227351bfc3dc52c5be513.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/499170/460ba775d8bcba14964a6e2075db9db4ac422b73/ss_460ba775d8bcba14964a6e2075db9db4ac422b73.1920x1080.jpg"
+      "https://en.riotpixels.com/games/order-of-the-sinking-star/screenshots/17/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/order-of-the-sinking-star/screenshots/16/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/order-of-the-sinking-star/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/order-of-the-sinking-star/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/order-of-the-sinking-star/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/order-of-the-sinking-star/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/order-of-the-sinking-star/screenshots/",
+      "http://s01.riotpixels.net/data/8b/e9/8be9328e-9631-40fe-a2d0-7da30d3053c6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5c/31/5c3137c3-d000-46c4-b1d8-28229172bcf5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/45/17/4517badb-64f1-4f44-98a7-b38b336e0dfd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/97/3d/973d95a0-81b9-4385-9ea7-7b2845a71ab3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/29/da/29daf39e-fc1b-469d-a592-daaf618d2107.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bc/23/bc23835d-bfe7-4b48-802d-9d663e55f629.jpg.240p.jpg"
     ],
     "system_requirements": {
       "notes": "Requires a 64-bit processor and operating system",
@@ -239896,15 +239907,20 @@
     "size": "10.3 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/ccgko4445nkr",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/order-of-the-sinking-star/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Logic",
+      "Puzzle",
+      "Top-down",
+      "3D"
+    ],
+    "company": "Arc Games, Thekla",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/499170/1442637540/dce8973addf1b5d892a776e2505a288bc121c933/1791401731/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "SAVE AMANI",
@@ -242358,6 +242374,698 @@
     "size": "3.4 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/ngrtu6p8ax8s",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Bluey’s Happy Snaps",
+    "url": "https://steamrip.com/blueys-happy-snaps-free-download/",
+    "description": "“Happy” is a psychological horror adventure where you play the role of a detective who goes to an abandoned winter forest in search of a missing family. You arrive in a dense winter forest, covered with snow, inhabited by silence and mysteries. You have to uncover the secrets of this gloomy place, find the house where the family lived, and find out what happened to its inhabitants. Plunging into the depths of the forest, you will encounter numerous dangers, mysterious footprints and abandoned places. Game Features A Thrilling Horror Adventure: The game offers a gripping storyline full of mysteries and mysteries that the player must unravel in order to unravel the missing family. Unique Atmosphere: Gloomy winter forests covered with snow create a unique atmosphere of horror and mystery. Fascinating graphics and soundtrack help to immerse yourself in the game world and feel its atmosphere. Investigation and puzzles: You will have to investigate the disappearance of a family by exploring the area, collecting clues, solving puzzles and deciphering mysterious footprints. Success in unraveling the mystery depends on your resourcefulness and logical thinking.",
+    "cover_image": "https://i6.imageban.ru/out/2023/08/13/203dda700b1e0972b2bc149cfddfdd2e.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/happy/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/happy/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/happy/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/happy/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/happy/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/happy/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/fb/c5/fbc5e473-9e11-4515-a95b-3d68e3d5a8e9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e9/34/e934256c-26ca-406b-b62d-3df129a6cdb2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fb/85/fb85bfaa-2595-4f19-8ce8-863f6043b4b7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9b/c8/9bc8a659-d8ac-48bb-b134-6b2aea3e008f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/11/2a/112af9ec-9721-4ee1-8e20-97f8f2924989.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/01/3b/013b89b9-bd7f-4189-ab62-400accfca3c1.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 11 (or valid compatibility layer)",
+      "Processor": "AMD Ryzen 5 1600X / Intel Core i5-9400F",
+      "Memory": "8 GB RAM",
+      "Graphics": "AMD Radeon RX 6400 / Nvidia GeForce GTX 1650",
+      "Network": "Broadband Internet connection"
+    },
+    "game_info": {
+      "Genre": "Adventure, Casual",
+      "Developer": "Gameloft",
+      "Platform": "PC",
+      "Game Size": "2.8 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25432912"
+    },
+    "size": "2.8 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/oxx52g4obimy",
+    "fitgirl_url": "https://fitgirl-repacks.site/happy/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Adventure",
+      "First-person",
+      "3D",
+      "Horror"
+    ],
+    "company": "Unreal Quality Games, Rosa Special Studio",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Castlevania: Belmont’s Curse",
+    "url": "https://steamrip.com/castlevania-belmonts-curse-free-download/",
+    "description": "1499. Paris is engulfed in flames as monstrous creatures suddenly emerge from the shadows. Trevor Belmont, the hero who defeated Dracula, ventures into the burning streets with his daughter, Rose Belmont. Armed with the legendary holy whip, the Vampire Killer, they hunt down the beasts bleeding from the looming castle. Rose is soon swept up in the dark conspiracy that lurks beneath. Will she succeed in saving Paris from devastation?\n\nSatisfying Whip Action Castlevania’s iconic whip action is more satisfying than ever. Crack your whip to move around freely like a trapeze artist. Master the whip mechanics and be creative to pounce on your prey like a wolf in fast-paced combat Hubert\n\nDiverse Bosses and the Arcana System\n\nFace-off against legendary bosses including Death, Medusa and Carmilla in addition to enigmatic new bosses such as Joan of Arc. Once defeated, bosses are sealed into Rose’s tarot cards, turning them into Arcana – use their skills to cast spells and obtain unique special actions.\n\nCustomize Your Battle Style with Weapons and Relics\n\nCustomize Rose’s battle style by using a variety of equipment, including weapons spanning seven distinct categories and Relics that trigger powerful effects through both offense and defense. Combine equipment you discover through exploration to create your own playstyle!\n\nIconic Castlevania Atmosphere, Reimagined in New Stages\n\nFrom iconic Gothic aesthetics to vivid, refined visuals, the game presents a fresh take on the world of Castlevania . Explore maps filled with both new features and familiar elements inspired by classic Castlevania titles.",
+    "cover_image": "https://i4.imageban.ru/out/2026/10/16/1842fa00a50ebc03677a8e61d4d6319a.jpg",
+    "screenshots": [
+      "https://steamrip.com/wp-content/uploads/2026/10/castlevania-belmonts-curse-steamrip.jpg",
+      "https://steamrip.com/wp-content/uploads/2026/10/castlevania-belmonts-curse-screenshots-steamrip.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows11",
+      "Processor": "Intel Core i5 8400",
+      "Memory": "16 GB RAM",
+      "Graphics": "nVidia Geforce GTX1650",
+      "DirectX": "Version 11",
+      "Storage": "10 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, RPG",
+      "Developer": "KONAMI, Evil Empire",
+      "Platform": "PC",
+      "Game Size": "6.3 GB",
+      "Released By": "RUNE emu",
+      "Version": "Build 25766122 | Full Version"
+    },
+    "size": "6.3 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/0pgcid57x9zv",
+    "fitgirl_url": "https://fitgirl-repacks.site/castlevania-belmonts-curse/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Arcade",
+      "Jump and run",
+      "Side",
+      "2D",
+      "3D"
+    ],
+    "company": "Konami Digital Entertainment, Evil Empire, Motion Twin",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Among the Trolls",
+    "url": "https://steamrip.com/among-the-trolls-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1675260/912d490f2ce1231ce02132267d09d491fedc2573/ss_912d490f2ce1231ce02132267d09d491fedc2573.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1675260/18d356e499f035d2159ef33d852e82dcf2c27b06/ss_18d356e499f035d2159ef33d852e82dcf2c27b06.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 Home 64 bit",
+      "Processor": "Intel Core i5-10400 or AMD Ryzen 5 1600",
+      "Memory": "16 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 1070 or AMD Radeon RX 5600XT",
+      "DirectX": "Version 12",
+      "Storage": "30 GB available space",
+      "Sound Card": "DirectX compatible",
+      "Additional Notes": "SSD (Preferred)"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Indie",
+      "Developer": "Avantgarden SRL",
+      "Platform": "PC",
+      "Game Size": "11.3 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25910683"
+    },
+    "size": "11.3 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/uu3gtnzwwmf9",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Disney/Pixar Toy Story 3 Complete Edition",
+    "url": "https://steamrip.com/disney-pixar-toy-story-3-complete-edition-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4049180/4d8df20d8b16bbfc8774e2fc1ec82d22883a02da/ss_4d8df20d8b16bbfc8774e2fc1ec82d22883a02da.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4049180/f93121a23436a5773df8a43c31ea2680764a9205/ss_f93121a23436a5773df8a43c31ea2680764a9205.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 64-bit",
+      "Processor": "Intel Core i3 – 4130 / AMD equivalent",
+      "Memory": "4 GB RAM",
+      "Graphics": "Radeon HD 7770 / Nvidia equivalent",
+      "Storage": "8 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure",
+      "Developer": "Digital Eclipse",
+      "Platform": "PC",
+      "Game Size": "7.5 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25668953"
+    },
+    "size": "7.5 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/m196evwloinh",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Disney/Pixar Toy Story: Retro Roundup!",
+    "url": "https://steamrip.com/disney-pixar-toy-story-retro-roundup-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4049170/4d16fa149442a738c1a83e393b1f848d08203306/ss_4d16fa149442a738c1a83e393b1f848d08203306.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4049170/d58de6af1ce150951c71ba5636b90bca9ab85080/ss_d58de6af1ce150951c71ba5636b90bca9ab85080.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 (64-bit)",
+      "Processor": "Intel Core i3-4100, AMD A8-6600K",
+      "Memory": "8 GB RAM",
+      "Graphics": "Nvidia GeForce GTX 460, AMD Radeon R7 250X",
+      "Storage": "8 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Racing",
+      "Developer": "Digital Eclipse",
+      "Platform": "PC",
+      "Game Size": "13.3 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25667807"
+    },
+    "size": "13.3 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/bcfwsa1v0v0i",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "FIRE AND ASHES",
+    "url": "https://steamrip.com/fire-and-ashes-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1751730/2c83d9f45a4d45bef155688b4f11bc9ae3c571f7/ss_2c83d9f45a4d45bef155688b4f11bc9ae3c571f7.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1751730/d134e83a7fcde6858f947170a5749383b9adda99/ss_d134e83a7fcde6858f947170a5749383b9adda99.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10, Windows 11 64Bit",
+      "Processor": "Intel Core i5-4440 or equivalent",
+      "Memory": "8 GB RAM",
+      "Graphics": "GeForce GTX 1060 or equivalent",
+      "DirectX": "Version 11",
+      "Storage": "30 GB available space",
+      "Sound Card": "DirectX Compatible Sound Card",
+      "Additional Notes": "Requires a 64-bit processor and operating system"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Indie",
+      "Developer": "ASDstudio",
+      "Platform": "PC",
+      "Game Size": "26.1 GB",
+      "Released By": "Razor1911",
+      "Version": "Build 25969406"
+    },
+    "size": "26.1 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/hjcobfz259jz",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Maid Cafe Simulator",
+    "url": "https://steamrip.com/maid-cafe-simulator-free-download/",
+    "description": "A rundown café on the brink of closing. Not much of an inheritance—until a kemonomimi girl walks into your last hiring interview and gives you an idea that changes everything. Open a maid café with five unforgettable maids, each with a secret of her own. Fill those empty tables and set your sights on three Maidchelin stars . Welcome, Manager! Another order, another customer—and the next drink won’t make itself. Mix drinks, serve customers, scan receipts, and count out the change. Running low on ingredients? Order on your phone and a Maidroid courier will bring them to your door. When orders pile up, share the workload with your maids. Rush hour waits for no one! What will your maids share with you as you work side by side? Fulfill their wishes and follow their bond stories to discover the secrets behind those bright smiles. Make time for the little things, too—a pat on the head, a new outfit, a moment together. They came to work at your café. You never expected them to mean this much. Someone’s making a scene? Time for the manager to step in. Take on troublemakers yourself and keep your café safe. Once they’re out cold, scoop them up in a princess carry and personally escort them outside. The customer is king. Troublemakers are the exception. Add a stage and give your customers a show to go with their coffee. When your maids dance, heads turn and tips fly. After closing, Dance Video Day lets you choose a maid and an outfit, record a longer dance performance, and share her moment in the spotlight on in-game social media. Today, the spotlight belongs to your maids! More customers? Time to think bigger. Expand your dining area and kitchen, arrange furniture and equipment, and make the café your own. Serve special drinks from the festival menu when festivities begin. Then get ready for your toughest guest yet: the exacting Maidchelin inspector. One rundown café. Five maids. Three stars to chase. Game Features Hands-on café management in first person, from taking orders to making and serving drinks Five charming kemonomimi maids 13 main story chapters and 36 bond stories 25 text messages per maid 10 customer personalities and two types of troublemakers 49 drink recipes and three types of drink-making station 18 outfits, plus 15 DLC outfits In-game social media posts from the maids themselves Full Korean voice acting for the main story and bond stories 20 regular achievements and three hidden achievements Included DLCs Black Sugar Bunny (Jennie)” Black Sugar Bunny (Mina)” Black Sugar Bunny (Momo)” Black Sugar Bunny (Omu)” Black Sugar Bunny (Yuki)” Dark Crimson Cloak (Jennie)” Frosty Dress (Yuki)” Jersey Maid Uniform (Jennie)” Jersey Maid Uniform (Mina)” Jersey Maid Uniform (Momo)” Jersey Maid Uniform (Omu)” Jersey Maid Uniform (Yuki)” Maidroid (Jennie)” Maidroid (Mina)” Maidroid (Momo)” Maidroid (Omu)” Maidroid (Yuki)” Spring Sunshine Garden (Omu)” Starlight Diner (Mina)” Sweet and Bitter Pancakes (Momo)”",
+    "cover_image": "https://i3.imageban.ru/out/2026/10/12/cfad259d302e4d4cc016e4840c973876.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/maid-cafe-simulator/screenshots/21/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/maid-cafe-simulator/screenshots/17/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/maid-cafe-simulator/screenshots/12/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/maid-cafe-simulator/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/maid-cafe-simulator/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/maid-cafe-simulator/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/maid-cafe-simulator/screenshots/",
+      "http://s01.riotpixels.net/data/0d/52/0d52fbab-d8fd-4134-8329-d9833875fb90.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5c/74/5c74bfdd-18b6-4673-b5dd-b1aea117a35a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7e/66/7e666843-4ad7-455a-9dd6-2155458609f8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cf/dc/cfdc2c2e-bb17-447f-8b3a-a1ae8ca36690.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bc/52/bc5230c5-e967-47b9-ac48-607b0186a017.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/90/47/90476a2f-34ab-4674-9d98-6046ca30f098.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows (64-bit) 11",
+      "Processor": "i5 3550 / RYZEN 5 2500X",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA GTX 1050 / AMD R9 270X",
+      "DirectX": "Version 11",
+      "Storage": "5 GB available space"
+    },
+    "game_info": {
+      "Genre": "Simulation",
+      "Developer": "Accelix",
+      "Platform": "PC",
+      "Game Size": "3.3 GB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 25795451"
+    },
+    "size": "3.3 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/k83p7chpt4ph",
+    "fitgirl_url": "https://fitgirl-repacks.site/maid-cafe-simulator/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Lifestyle",
+      "First-person",
+      "3D",
+      "Japanese"
+    ],
+    "company": "SCON, Accelix",
+    "updates": [],
+    "video": "https://video.fastly.steamstatic.com/store_trailers/3232690/483585684/b667679d7d8c2eafcf1fa2c73230c9e94b2fd762/1791276509/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Fish & Hike",
+    "url": "https://steamrip.com/fish-hike-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4143100/90609dbecfb452f7c0f13a0c0f55be7963149bb7/ss_90609dbecfb452f7c0f13a0c0f55be7963149bb7.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4143100/1ae499a5f432baef0229985a5f3b16d94972eb0d/ss_1ae499a5f432baef0229985a5f3b16d94972eb0d.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10 or later versions, 64-bit",
+      "Processor": "AMD Ryzen 3 3100 / Intel Core i3-10100F",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA GTX 1050 / AMD Radeon RX 560 or equivalent",
+      "DirectX": "Version 11",
+      "Storage": "3 GB available space"
+    },
+    "game_info": {
+      "Genre": "Adventure, Casual, Indie",
+      "Developer": "Sleepwalking Potatoes",
+      "Platform": "PC",
+      "Game Size": "2.2 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 25936270"
+    },
+    "size": "2.2 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/anfxv9e367v4",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "My Recycling Center 2",
+    "url": "https://steamrip.com/my-recycling-center-2-free-download/",
+    "description": "Design and expand your own recycling center in this first-person simulation game. Take care of unloading, sorting and compacting the waste. Endless compacting and recycling fun! Game Features Randomly generated customers and trash objects Authentic animation of garbage compactors Unload and sort customer’s trash Realistic containers and machines for different types of trash Real-time destruction physics (runtime fragmentation) Buy, paint and configure new containers Waste paper, bulky trash, recyclables, scrap metal and more Almost 450 different trash objects 12 trash types and 10 different containers and compactors Use the management to configure the yard the way you like Earn cash and satisfaction to unlock new trash types and containers Use a cart or barrow to sort and distribute trash Purchase upgrades for machines and containers Use the pressure washer to clean the containers",
+    "cover_image": "https://i7.imageban.ru/out/2024/02/09/2931f56677257834741e6f5b608f4aa1.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/my-recycling-center/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/my-recycling-center/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/my-recycling-center/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/my-recycling-center/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/my-recycling-center/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/my-recycling-center/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/97/36/97367604-e54f-439b-9956-b255a988aeae.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/73/56/7356eafe-5952-4152-9cd5-a00c5bd9a21e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a7/45/a745b595-ef24-4939-9472-d5a1c927f98a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/df/76/df7625b4-a5b8-43c2-8e7f-655bc2280b51.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b9/8e/b98ee7ec-598a-41ca-bbb0-ec397c8d64ef.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6e/41/6e41a1a2-e0e4-43dd-9e36-751b4ee843b7.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 or newer",
+      "Processor": "multi-core CPU Intel Core i7-920 2,66 GHz or similar AMD",
+      "Memory": "16 GB RAM",
+      "Graphics": "NVIDIA GTX 970 or AMD RX 580, 4 GB VRAM",
+      "Storage": "18 GB available space"
+    },
+    "game_info": {
+      "Genre": "Casual, Indie, Simulation",
+      "Developer": "Darius Bode",
+      "Platform": "PC",
+      "Game Size": "8.2 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 25968678"
+    },
+    "size": "8.2 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/smvddpxp0jwt",
+    "fitgirl_url": "https://fitgirl-repacks.site/my-recycling-center/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Lifestyle",
+      "First-person",
+      "3D"
+    ],
+    "company": "Darius Bode",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Shipping Store Simulator 2037",
+    "url": "https://steamrip.com/shipping-store-simulator-2037-free-download/",
+    "description": "Run your own electronic shop! Stock shelves with the latest tech gadgets, set prices to attract customers, handle payments, hire and manage staff, and customize your store layout.Create the ultimate tech shopping experience in your Tech Shop Simulator! “ Tech Shop Simulator ” is an engaging first-person simulation where every aspect of running an electronic shop comes to life. In “Tech Shop Simulator”, every decision matters . Will you rise to the occasion, transforming a modest tech store into a retail powerhouse, while balancing customer satisfaction and finances? Game Features Design your store , optimizing for both efficiency and aesthetics. Determine the best display for your tech gadgets, manage your aisles, and ensure a seamless shopping experience for your customers. Order stock using an in-game computer . Unpack the latest tech gadgets, organize them in your storage room, and strategically place them on shelves and displays. Handle customer transactions by scanning items and making sure customers leave satisfied with their shopping and checkout experience. Be careful of thieves . Not all clients want you to make money. Some of them just want to pick up and run. In this case, only a magic kick will help! Customers come in many forms . Some clients will be nice to you, some not so nice, but you should be able to capitalize on all situations!",
+    "cover_image": "https://i3.imageban.ru/out/2025/02/26/f16fc14c504d86e1599f4e2c648b54a2.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/tech-store-simulator/screenshots/12/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/tech-store-simulator/screenshots/10/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/tech-store-simulator/screenshots/9/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/tech-store-simulator/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/tech-store-simulator/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/tech-store-simulator/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/tech-store-simulator/screenshots/",
+      "http://s01.riotpixels.net/data/00/d8/00d893e0-7449-4cd6-9151-19b2bd61b040.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/21/06/21068c4b-2f52-4310-952c-9afbfa6a3c52.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1f/7f/1f7fe68a-2142-46b6-bebb-d4bd8b0e584e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0f/71/0f71cf78-c2f3-4cb1-89f6-add784383cc8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/57/d8/57d8bb7d-92d3-46a6-bf91-e4c1107d3630.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f9/0c/f90c9a81-d9f9-4050-8d4a-51c04d3a6ea3.jpg.240p.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3076400/extras/GifSell.gif"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 (64 bit)",
+      "Processor": "Intel i5 3550 / AMD Ryzen 5 2500X",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA GTX 1050 / AMD R9 270X",
+      "DirectX": "Version 10",
+      "Storage": "7 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Simulation",
+      "Developer": "Playstrom",
+      "Platform": "PC",
+      "Game Size": "3.3 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 25933521"
+    },
+    "size": "3.3 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/zbytmdoxjkws",
+    "fitgirl_url": "https://fitgirl-repacks.site/tech-store-simulator/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Lifestyle",
+      "Management",
+      "First person view",
+      "3D"
+    ],
+    "company": "Astrasoft",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Reentry – A Space Flight Simulator",
+    "url": "https://steamrip.com/reentry-a-space-flight-simulator-free-download/",
+    "description": "Reentry is a space flight simulator based on real life spacecrafts, and aims to meet the middle-ground between a simulator and a game. You create a new astronaut, gain levels and experience for every move you make by completing missions in space. You will have access to missions similar to what happened in real life, or fictional missions designed to challenge you as an astronaut. Spacecrafts are highly complicated machines with the primary task of exploring and understanding what’s outside the atmosphere of Earth, while keeping the astronauts alive for long periods. This is achieved by hundreds of individual systems and backup systems working together. With the help from the in-game Space Flight Academy, the provided flight manual for each spacecraft, and checklists, you will learn how to fly and operate these machines, and explore space in a high resolution and realistic environment. Control almost every system like the real astronauts, see the sunset and sunrise while orbiting Earth with speeds exceeding 25,500 ft/s. Explore the surface of Earth and the Moon, or simply enjoy the solitude of being in space. Imagine the final few seconds before launching into space. You are sitting on top of a 111 meter high rocket, looking at the instruments of a spaceship about to leave the oasis we call Earth. The engines are igniting, mechanical systems are clinging below you, while thousands of gallons of fuel is pumping through the systems. The loud roar of the five F1 engines are producing close to 8,000,000 pounds of thrust, violently shaking the cockpit and lifting 3 million kg off the pad. The launch pad tower is slowly moving away from you while the engines are balancing the rocket like a skyscraper on a needle. Sophisticated engineers has created the systems that will safely accelerate you to 25,500 ft/s, into a free fall orbit, with the Moon as the destination. Welcome to Reentry, a space flight simulator.",
+    "cover_image": "https://i1.imageban.ru/out/2025/11/11/143188c3b228a81cebce230cdb372e69.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/reentry-a-space-flight-simulator/screenshots/34/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/reentry-a-space-flight-simulator/screenshots/33/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/reentry-a-space-flight-simulator/screenshots/25/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/reentry-a-space-flight-simulator/screenshots/14/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/reentry-a-space-flight-simulator/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/reentry-a-space-flight-simulator/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/reentry-a-space-flight-simulator/screenshots/",
+      "http://s01.riotpixels.net/data/43/0d/430dfd2e-238e-4923-a7f4-bd304e15fa8c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/83/1f/831f950f-aa2d-42b6-8f26-30b7260f4884.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/16/e2/16e258b5-d7e7-43de-afbe-1e7d7b98e96d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/23/43/2343590a-0c07-4ec7-8fda-c7194359a5b2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c4/3b/c43b0082-deaa-42b7-81db-1eef5e7d353a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c6/35/c6354ee9-41d8-4ee7-880a-7ce9a6fe27ad.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 64-bit",
+      "Processor": "Intel Core i5 6400 / AMD Athlon X4 845",
+      "Memory": "16 GB RAM",
+      "Graphics": "NVIDIA RTX 2060 w/ 6GB VRAM, NVIDIA GTX 1070 Ti w/8GB VRAM / AMD Radeon 5600XT w/ 6GB VRAM",
+      "DirectX": "Version 11",
+      "Storage": "28 GB available space",
+      "VR Support": "OpenXR"
+    },
+    "game_info": {
+      "Genre": "Adventure, Indie, Simulation, Strategy",
+      "Developer": "Lyra Creative",
+      "Platform": "PC",
+      "Game Size": "6.7 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25295180"
+    },
+    "size": "6.7 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/zc9gq556zvmm",
+    "fitgirl_url": "https://fitgirl-repacks.site/reentry-a-space-flight-simulator/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Simulator",
+      "Open world",
+      "Physics-based",
+      "First-person",
+      "3D"
+    ],
+    "company": "Lyra Creative",
+    "updates": [
+      {
+        "name": "Reentry.A.Space.Flight.Simulator.Update.v1.0.21-RUNE.rar",
+        "url": "https://filecrypt.cc/Container/05781E3FCD.html"
+      },
+      {
+        "name": "Reentry.A.Space.Flight.Simulator.Update.v1.0.41-RUNE.rar",
+        "url": "https://filecrypt.cc/Container/B074D18766.html"
+      },
+      {
+        "name": "Reentry.A.Space.Flight.Simulator.Update.v1.0.53-RUNE.rar",
+        "url": "https://filecrypt.cc/Container/40DC3C3051.html"
+      },
+      {
+        "name": "Reentry.A.Space.Flight.Simulator.Update.v1.1.0-RUNE.rar",
+        "url": "https://filecrypt.cc/Container/49D7C23734.html"
+      }
+    ],
+    "video": "https://video.fastly.steamstatic.com/store_trailers/882140/1431386228/9044e289cac96170c08a6c5a6c23e1536142c168/1759847029/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Warhammer 40,000: Boltgun 2",
+    "url": "https://steamrip.com/warhammer-40000-boltgun-2-free-download/",
+    "description": "Warhammer 40,000: Boltgun 2 is the brutal and fast-paced sequel to boomer shooter Warhammer 40,000: Boltgun. Following directly on from the end of Warhammer 40,000: Boltgun, your duty takes you to new locations in a branching, single-player campaign that effortlessly blends the grim, and dark Warhammer 40,000 universe with a fast-paced first-person shooter. Lock in as one of two playable characters, each offering their own unique abilities, weapons, and play style. Dominate combat as the unrelenting force that is Malum Caedo, a formidable Sternguard Veteran with a reputation for purging heretics. Or quickly take control of the battlefield as the swift and nimble Sister of Battle Celestian, Nyra Veyrath, torching enemies and leaving only ashes in her wake. Take the fight to never-before-seen worlds and vanquish the foes that lurk there. From the colossal heights of a hive city to the impenetrable mangrove swamps of a jungle, and even to the heart of the Ark of Omen… You’ll need to overcome the challenges of each location to complete your mission. Built on the explosive combat of Warhammer 40,000: Boltgun, charge headfirst into glorious battle armed with an arsenal of deadly weapons. Shred enemies with your lethal chainsword, blast them into an explosion of pixels and blood with your Shotgun or set them aflame with a torrent of liquid fire from your Flamer! As your arsenal improves, so do the enemies! Eviscerate enemies from the four Chaos god factions (Nurgle, Tzeentch, Khorne, and Slaanesh) in glorious, visceral fashion. The ferocious Bloodletters and their daemonic Juggernauts are a near unstoppable force as they charge into battle hungry for blood! While Daemonettes gracefully leap around the battlefield between the Noise Marines and their devastating sonic weaponry. Features Two Playable Characters – Play as the formidable Malum Caedo or battle-hardened Nyra Veyrath, each with their own playstyle. Explosive FPS Gameplay – Obliterate foes in high-octane combat. Branching Campaign – Choose your own path through the campaign with each branch featuring unique levels. NEW Enemies – Face never-before-seen foes from different factions. NEW Weapons – Eviscerate hordes of relentless heretical scum with devastating weapons. NEW Locations – Discover a range of worlds and biomes. Navigation Tools (Optional) – Effortlessly maneuver across the battlefield with the navigation guide and automap so you’re always at the center of the combat. Mick Gordon Guest Track – Annihilate the final boss to the sound of Mick’s sick riffs. AND MORE!",
+    "cover_image": "https://i8.imageban.ru/out/2026/10/16/bcc93f7178c98dcbc15faa359a52dc91.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/warhammer-40-000-boltgun-2/screenshots/9/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/warhammer-40-000-boltgun-2/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/warhammer-40-000-boltgun-2/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/warhammer-40-000-boltgun-2/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/warhammer-40-000-boltgun-2/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/warhammer-40-000-boltgun-2/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/warhammer-40-000-boltgun-2/screenshots/",
+      "http://s01.riotpixels.net/data/45/91/45911535-9336-43a3-a184-8d065673dd60.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/50/18/5018dd50-afe2-4c26-a118-8cb6694e717e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/37/97/3797840f-d030-4aca-9e76-87c7f22b0922.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/97/b8/97b8b5f1-26e8-413c-8713-497dafe096de.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/24/95/24954b19-9c2b-4db3-9561-d75f382e8499.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/42/1a/421a32f4-f41b-405d-adb4-fe8b9cdf6b7d.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 x64 Bit",
+      "Processor": "Intel Core i5-8600K / AMD Ryzen 5 2600",
+      "Memory": "8 GB RAM",
+      "Graphics": "GeForce GTX 980 (4096MB) / Radeon R9 Fury (4096MB) / Arc A580",
+      "DirectX": "Version 12",
+      "Storage": "13 GB available space",
+      "Additional Notes": "Low Quality setting, in 1080p, producing 60 FPS"
+    },
+    "game_info": {
+      "Genre": "Action, Indie",
+      "Developer": "Auroch Digital",
+      "Platform": "PC",
+      "Game Size": "9.5 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25805762"
+    },
+    "size": "9.5 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/eowv697dppcr",
+    "fitgirl_url": "https://fitgirl-repacks.site/warhammer-40000-boltgun-2/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Action",
+      "Shooter",
+      "Warhammer 40",
+      "000",
+      "First-person",
+      "3D",
+      "Retro look"
+    ],
+    "company": "Big Fun Games, Auroch Digital",
+    "updates": [],
+    "video": "https://video.fastly.steamstatic.com/store_trailers/3115160/1164053626/3b214d0c16be7127231bf0eaeb0c0f0962315615/1787681029/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Sledders",
+    "url": "https://steamrip.com/sledders-free-download/",
+    "description": "Shred your sled in open-world backcountries. Sledders is a realistic, physics-based snowmobile simulator. Manoeuvre the big open terrain, plow through tons of fresh snow, conquer the mountains, and reach the peak faster than your friends! Sit back, relax, and enjoy as you rip around on one of the sleds speeding between trees and throwing it around at the ridges. The limits are only set by you so let loose and show us what you can accomplish! Game Features EXPLORE EPIC TERRAIN – The game offers a big map for you to explore and play around in. It contains steep hills, mountains, lots of trees, and open areas ready to be ridden by you (yeah, there’s a plenty of jumps, and also water…)! It will take ages for you to ride from one corner to another, that’s how big the map already is. And who knows what the future holds, our plans include bigger, better, and many more maps to come (we hear you ditch bangers, snow crossers, tricksters, trail riders, and all!). MASTER THE BLIZZARDS – The snow in Sledders feel as real as possible, so you better sharpen up your powder skills or you’ll just keep on digging deeper and deeper into the snow! Freeriding in backcountries means a lot of snow to plow and riding in it is way different than on other terrains. You must master the steering by shifting your weight around, making turns with your throttle, counter steering with your skis, and many other new skills. Once you master the skills needed in the backcountries, you’re unstoppable and no pow will make you stuck. READY TO BRAAAAAAAP? – Freeride snowmobile simulator with real-world physics in deep-snow backcountry; Ride with and against your friends in epic freeriding experience; Online multiplayer takes you ride around the world with a likeminded community of sledheads.",
+    "cover_image": "https://i3.imageban.ru/out/2025/03/20/88cb4bb011a85e57cf87fe4bf33ed852.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/sledders/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/sledders/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/sledders/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/sledders/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/sledders/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/sledders/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/sledders/screenshots/",
+      "http://s01.riotpixels.net/data/d9/98/d998a45c-dfa9-4d0b-b3c4-5f2966503d34.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8c/77/8c77bc83-7cbb-4b38-97d0-e37ca5904e33.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a1/f4/a1f4d3b6-a0fd-4a5d-8229-53b19213a1ab.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/02/32/0232c4fe-9b11-424f-8be0-12fb11b9af24.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8b/ec/8becfc16-3ab6-4b84-b8e9-22fbbe2d3d96.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/19/84/1984f733-b4f1-4e22-ba34-6462fae90bc7.jpg.240p.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2486740/extras/1st_1.gif"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10",
+      "Processor": "2.4 Ghz or better",
+      "Memory": "8 GB RAM",
+      "DirectX": "Version 11",
+      "Storage": "10 GB available space",
+      "Additional Notes": "Internet required for multiplayer"
+    },
+    "game_info": {
+      "Genre": "Racing, Simulation, Sports",
+      "Developer": "Hanki Games",
+      "Platform": "PC",
+      "Game Size": "5.1 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25079878"
+    },
+    "size": "5.1 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/v94q37qe4kym",
+    "fitgirl_url": "https://fitgirl-repacks.site/sledders/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Driving",
+      "Racing",
+      "Sports",
+      "Extreme sports",
+      "Winter sports",
+      "Physics-based",
+      "First-person",
+      "Third-person",
+      "3D"
+    ],
+    "company": "Hanki Games, Bonus Stage Publishing",
+    "updates": [
+      {
+        "name": "Sledders.Update.v1.1.6-RUNE.rar",
+        "url": "https://filecrypt.cc/Container/BAF378DADA.html"
+      }
+    ],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "The Witch’s Bakery",
+    "url": "https://steamrip.com/the-witchs-bakery-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2967950/65153ec92bf5d491806068df529356be9918643b/ss_65153ec92bf5d491806068df529356be9918643b.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2967950/bbb65a39cfe1dfd4b2d9ae8c4897cb871cff75b9/ss_bbb65a39cfe1dfd4b2d9ae8c4897cb871cff75b9.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 Version or higher",
+      "Processor": "AMD Athlon X4 | Intel Core i5 4460",
+      "Memory": "8 GB RAM",
+      "Graphics": "Nvidia GTX 950 | AMD R7 370",
+      "DirectX": "Version 11",
+      "Storage": "20 GB available space"
+    },
+    "game_info": {
+      "Genre": "Adventure, Indie, RPG",
+      "Developer": "Sunny Lab",
+      "Platform": "PC",
+      "Game Size": "2.6 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 25756850"
+    },
+    "size": "2.6 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/bvhfsvh48gte",
     "fitgirl_url": null,
     "fitgirl_matched": false,
     "genres": [],
