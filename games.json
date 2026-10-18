@@ -236555,11 +236555,22 @@
   {
     "title": "Spellcaster University",
     "url": "https://steamrip.com/spellcaster-university-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "In Spellcaster University, you take on the role of the director of a magic university in a colourful world of heroic fantasy. Build your school, manage your budget, recruit teachers. Will you turn it into a black magic academy, with the best professors of necromancy and demonology? Or a place in harmony with nature to train druids and shamans? Or why not train adventurous mages, offering them options to learn how to fight and be stealthy? But this will require surviving the ruthless attacks of the orc tribes and the controls of the education authorities. Build your university using an original magic decks mechanism. Each game will be unique. Access different decks according to the magic taught in your schools. Make choices and take advantage of opportunities to create a unique university. Explore the Arcane Deck to access artifacts with strange powers and rooms that defy reality. Dive into the Deck of Light to take care of your students and teachers. Use the Nature Deck to gain access to a wide range of magical beasts. Choose the Alchemy Deck to boost the production of mana and potions. Yield to the Shadow Deck to teach real discipline to all those nasty students. Manage the well-being of your students by building refectories, dormitories, rest rooms… and ensure their discipline with a dungeon. Select your students: traits, personality, alignment, wealth… each aspect is important. Push your students towards a glorious future. At the end of their studies, discover their future (necromancer, archimage, peasant…) according to the success of their studies, and win new bonuses. Upgrade your rooms with powerful artifacts like the World Tree Wood Table Set or the Soul Eater Bed. Fill your school with legendary creatures: dragons, fauns, pegasus, janitors… Choose the rules of your school: exemplary punishments, recruitment conditions, organic meals, paying dormitories… Choose, through multiple-choice events, how to interact with the different factions of the world. Negotiate with the Adventurers Guild. Ask the king for help. Discuss shamanism with the orcs. Threaten the Dark Lord. Pretend to listen to the grievances of the staff representative. Lie to the witch hunters. Every choice can have short or long term consequences. Be careful before saying “No” to the student delegate! Flee from the armies of darkness by building your university in isolated environments: lake, mountain, desert, volcano, giant turtle back, etc. Collect powerful grimoires to strengthen your university and face increasingly hostile environments. Find new allies to help you in your fight. Take advantage of your trained students’ bonuses accumulated throughout the campaign.",
+    "cover_image": "https://i2.imageban.ru/out/2026/10/17/58bbb1bd620602598ff084b4ab046eee.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/895620/ss_0410c61128835c0dc12c0b3bc314766da07f9f69.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/895620/ss_b00612391578a0788e5dd372afed5444b48e03b8.1920x1080.jpg"
+      "https://en.riotpixels.com/games/spellcaster-university/screenshots/12/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/spellcaster-university/screenshots/10/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/spellcaster-university/screenshots/9/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/spellcaster-university/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/spellcaster-university/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/spellcaster-university/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/spellcaster-university/screenshots/",
+      "http://s01.riotpixels.net/data/4e/7e/4e7ed9ff-cb34-4c1f-8388-4f5e5b2cd692.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/37/0e/370eac60-9f74-4d22-bef8-d3a0b4b13e8e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b4/f0/b4f0c157-c32d-4aab-a5f9-44f3037ce45d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/43/11/431137d2-4ed3-4cd6-92a4-c3bba903b985.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/09/e4/09e4ea83-7fa7-4004-b1de-856fa6988e91.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a7/71/a771ee18-3aa6-4e81-be7b-93ac712d1f54.jpg.240p.jpg"
     ],
     "system_requirements": {
       "OS *": "Windows 7 or better",
@@ -236579,15 +236590,19 @@
     "size": "3.2 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/4ytoinr4dt0w",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/spellcaster-university/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Managerial",
+      "Side",
+      "3D"
+    ],
+    "company": "Sneaky Yak Studio, WhisperGames",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/895620/377191/bfc41cf8844c982e7526169bfa328a29a2a9b6cb/1750594488/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "The Witness",
