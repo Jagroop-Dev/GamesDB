@@ -235737,11 +235737,22 @@
   {
     "title": "The Piper of Dawn",
     "url": "https://steamrip.com/the-piper-of-dawn-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Become an alchemist in Diamond City, where growing a business means growing your own workers. Farm, craft, and sell your creations as you build relationships and navigate a dark fantasy story with multiple endings. Build Your Alchemy Business: Grow magical crops, craft valuable goods, and put your homegrown workforce to work. Meet the City’s Unusual Residents: Discover over 40 NPCs and relationship paths for six central heroines. Shape the City’s Fate: Earn the trust of six factions and explore branching stories shaped by your choices and reputation. Grow ingredients, turn them into valuable creations, and sell them to fund your next expansion. Along the way, fulfill orders, build relationships, and uncover the city’s stranger side. Cultivate the Extraordinary Grow over 100 crops and experiment with traits to improve your harvests. Expand underground and use alchemical circles to build a flourishing, self-sustaining farm. Turn Curiosities into Profit Decorate your shop and stock its shelves with crops, potions, and rare curiosities. Build your reputation to attract non-human customers and unlock lucrative special orders. Grow Your Own Workforce Meet the Peoplesprouts: workers you grow yourself. Assign them to farming, retail, and manufacturing to automate your business. Match their talents to the job—and give them time to recover. Overwork takes a toll on their Sanity. Turn Experiments into Opportunity Transform materials into valuable goods or grant your Peoplesprouts powerful abilities. Experiment with volatile elements and combine alchemy with Oracles to discover extraordinary results. Borrow the Power of Ancient Gods Collect and combine divine blessings for powerful bonuses during each time rewind. Just beware of the gods behind them—and the influence of their whispers. Decide Who to Trust Win the favor of six rival factions to unlock special orders and new story possibilities. Your reputation and choices help determine how Diamond City’s story ends. Oracle Summons Try your luck summoning blessings from Ancient and Outer Gods. Their gifts could be just what your next experiment needs.",
+    "cover_image": "https://i5.imageban.ru/out/2026/10/19/b1535909ba1d65c8d2f256f6c089c7f0.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3804370/77dab8cf6e755e01b6191d8bd3eb5408fc478d95/ss_77dab8cf6e755e01b6191d8bd3eb5408fc478d95.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3804370/d7a851b245e3350d93ee1f9d399ec156b3d1a9ec/ss_d7a851b245e3350d93ee1f9d399ec156b3d1a9ec.1920x1080.jpg"
+      "https://en.riotpixels.com/games/piper-of-dawn/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/piper-of-dawn/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/piper-of-dawn/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/piper-of-dawn/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/piper-of-dawn/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/piper-of-dawn/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/piper-of-dawn/screenshots/",
+      "http://s01.riotpixels.net/data/73/07/7307bd41-1bd3-42fb-bf75-e8bf7f072931.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/61/6a/616af52f-a8db-409c-8bbd-1fb1d6890ea6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bc/dd/bcdd7c0a-4a56-4d96-b83b-64216188ac11.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cb/fe/cbfe69c1-bb93-41ba-a16b-5c758db8e2a4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/13/bc/13bcec95-d0ee-4eb3-a434-08ee0463f7d8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/38/b3/38b31218-a284-470a-b7c9-443b855af3a0.jpg.240p.jpg"
     ],
     "system_requirements": {
       "notes": "Requires a 64-bit processor and operating system",
@@ -235761,15 +235772,21 @@
     "size": "1 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/f0qlfw3tsmjg",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/the-piper-of-dawn/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Lifestyle",
+      "Managerial",
+      "Isometric",
+      "2D",
+      "Japanese"
+    ],
+    "company": "2P Games, Bone Nail",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/3804370/446454280/3fc4a433ebd587c1d01b69f1972cfa13a08f7526/1790224564/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "CODEX MORTIS",
@@ -237255,11 +237272,22 @@
   {
     "title": "Cohen 1939",
     "url": "https://steamrip.com/cohen-1939-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Enter Birmingham’s criminal underworld as Elisa seeks revenge for her murdered husband. Cohen 1939 pairs Peaky Blinders-inspired gangster atmosphere with the lethal top-down combat of Hotline Miami. Your enemies die fast. So do you. Read their positions, choose your moment, and strike before they can react. Every encounter puts your aim, movement, and judgement to the test. Stun an enemy with your empty gun, grab a fresh weapon, and keep moving. Chain gunfire, throws, and melee attacks to turn a desperate fight around. Four playable characters bring different abilities to the fight, from sliding shots and focused fire to raven summons and rage. Approach from a blind spot or make noise to draw enemies towards you. Choose where the fight begins—and who goes down first. A careful approach can give you the opening you need. Rain-soaked streets, smoke-filled hideouts, and sharply dressed gangsters set the scene for a bloody reckoning. Follow Elisa into a world of betrayal as she hunts those responsible for her husband’s death.",
+    "cover_image": "https://i8.imageban.ru/out/2026/10/20/9e13059a9b36d31bb64ea7607bae766e.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3582120/55127bf4252ff557093006171f85e979c309f40d/ss_55127bf4252ff557093006171f85e979c309f40d.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3582120/18451f43584ee29a90425042f549b066db689d8d/ss_18451f43584ee29a90425042f549b066db689d8d.1920x1080.jpg"
+      "https://en.riotpixels.com/games/cohen-1939/screenshots/12/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/cohen-1939/screenshots/10/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/cohen-1939/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/cohen-1939/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/cohen-1939/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/cohen-1939/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/cohen-1939/screenshots/",
+      "http://s01.riotpixels.net/data/7e/8d/7e8d5eed-f269-4598-8ca1-b350bcbc0e27.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/45/92/45925a8d-1302-4c74-aea2-71fe82188bea.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/53/c6/53c663f3-8dd5-4f25-b6a8-c336a91877af.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6c/e0/6ce09d17-d1c0-45cf-90a4-0a011f145cf1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/94/1a/941af9bc-eb44-45c2-a8f2-de14194bfe0a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9f/19/9f190c3e-ff15-484c-8cc2-73766c829ac0.jpg.240p.jpg"
     ],
     "system_requirements": {
       "OS": "Windows 10 64-bit or later",
@@ -237278,15 +237306,20 @@
     "size": "8.6 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/asd1y89766pw",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/cohen-1939/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Arcade",
+      "Run and gun",
+      "Top-down",
+      "3D"
+    ],
+    "company": "Cube of Cube, 2P Games",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/3582120/1978464346/7f2dec839969c24c143e5f976552caea3f36e0d0/1790736379/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "Halo Wars: Definitive Edition",
@@ -242531,11 +242564,22 @@
   {
     "title": "Among the Trolls",
     "url": "https://steamrip.com/among-the-trolls-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Among the Trolls is a first-person narrative-adventure game, with survival elements, where the secret mysteries of Finnish forests are unraveled. Step into Anna’s shoes as she travels from the U.S. to Finland to visit her grandfather in a remote and isolated cabin deep in the forest. But upon arrival, you discover the cabin abandoned and your grandfather has vanished, drawing you into a realm of Nordic mythology and long-lost memories of summers past. Embark on a quest to find your missing grandfather and survive the untamed wilderness, facing supernatural creatures from Finnish mythology and the living, animistic forces of Nature. Follow in your grandfather’s footsteps and uncover ancient secrets of Finnish mythology. FIND YOUR ROOTS Embark on an empowering journey to uncover your past and solve the mystery behind your granpa’s disappearance. Discover hidden truths that will reshape your destiny. WITHSTAND THE NATURAL AND THE SUPERNATURAL Face a relentless world shaped by harsh weather, wild animals, scarce resources, and supernatural encounters. Balance Väki (Magic) and Lykky (Luck) to survive, and discover how these ancient forces intertwine. FINNISH MYTHOLOGY Experience and explore a vast world inspired by Finnish mythology and ancient shamanistic magic. Meet extraordinary creatures rooted in the classic Kalevala myths. SURVIVE THE WILD Survive and thrive in the breathtaking yet unforgiving Finnish wilderness. Build, craft, and adapt to the environment as you unlock the ancient secrets of your ancestors. AUDIOVISUAL EXPERIENCE Immerse yourself in a beautifully crafted 3D world that blends nostalgic and otherworldly aesthetics. The stunning visuals are paired with an enchanting soundtrack and the authentic sounds of Nordic nature, making it hard to leave the world of Among the Trolls.",
+    "cover_image": "https://i3.imageban.ru/out/2026/10/19/d675c295d8a7c8e99fb81cfad10b1e74.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1675260/912d490f2ce1231ce02132267d09d491fedc2573/ss_912d490f2ce1231ce02132267d09d491fedc2573.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1675260/18d356e499f035d2159ef33d852e82dcf2c27b06/ss_18d356e499f035d2159ef33d852e82dcf2c27b06.1920x1080.jpg"
+      "https://en.riotpixels.com/games/among-the-trolls/screenshots/23/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/among-the-trolls/screenshots/15/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/among-the-trolls/screenshots/14/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/among-the-trolls/screenshots/12/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/among-the-trolls/screenshots/11/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/among-the-trolls/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/among-the-trolls/screenshots/",
+      "http://s01.riotpixels.net/data/83/a8/83a8e075-f10b-432a-a636-1f13d6431be1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/40/4f/404fe6a0-ed9f-4db4-84a2-40c0e5a4f48f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/73/b7/73b7431e-1fcd-4a5a-989f-0fbea73aeb34.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e5/2d/e52de915-464f-4d20-adc0-c17064ec0d70.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ba/e4/bae4460b-f988-4db7-ac4e-2d690ca6c2db.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9a/68/9a688047-ba61-4b07-ba82-030b7472c66d.jpg.240p.jpg"
     ],
     "system_requirements": {
       "notes": "Requires a 64-bit processor and operating system",
@@ -242559,15 +242603,20 @@
     "size": "11.3 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/uu3gtnzwwmf9",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/among-the-trolls/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Action",
+      "Survival",
+      "First-person",
+      "3D"
+    ],
+    "company": "505 Games, Forbidden Studios",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/1675260/919807389/9bf182dd03bb15f4c963cbdc6659de4794c5b304/1791276389/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "Disney/Pixar Toy Story 3 Complete Edition",
