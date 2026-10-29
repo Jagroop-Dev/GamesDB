@@ -241815,11 +241815,22 @@
   {
     "title": "Battleplan",
     "url": "https://steamrip.com/battleplan-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Take command of entire divisions and fight in some of the war’s largest battles. Battleplan is a unique real-time strategy game that simulates massive month-long battles with hundreds of thousands of troops second by second, day by day. You give high-level orders, then watch your officers and companies carry them out autonomously. Create elaborate plans Create elaborate, multi-step and multi-unit plans intuitively by directly drawing on the map. Employ varied tactics such as defence in depth, counterattacks, planned withdrawals and more. Perform preparatory bombardments before large set-piece attacks, then split the division to capture multiple objectives. Realistic army Each division is realistically modeled with headquarters, regiments, battalions and companies. Watch your infantry, tanks, engineers, anti-tank guns, artillery and scouts work together and perform tasks autonomously. Customize the entire chain of command and order of battle of your entire army. Combine divisions into corps, or split units down to companies. Requisition and upgrade units throughout the campaign. Hire and fire officers for your divisions. Listen to their advice – or don’t! Keep your officers alive so they gain veterancy (and quirks). Massive battlefields Fight across thousands of kilometers modeled using real-world geographic data. Each road, town, forest and swamp is exactly where they are in real-life. Place your artillery on the high-ground by examining real-world elevation maps. Real-time missions Each mission is simulated second-by-second, allowing you to pause, play in real-time or fast-forward at will. Mission lengths range from one week to a month. Master logistics Starve the enemy by cutting their supply lines. Fuel your advance by capturing supply depots. Pull back when your units run low on supplies. Supply is realistically simulated, with terrain dictating supply flow. Win the war Play 10+ massive historical battles set on World War II specifically in the Western Front, from 1944 onward. Upgrade your divisions with new attachments and promote officers. Let wounded divisions rest and recuperate. Gain powerful air support assets such recon, fighter-bomber and heavy bomber aircraft. Relive history Learn real-world history by examining geo-tagged historical photos and videos where they were taken in real-life.",
+    "cover_image": "https://i7.imageban.ru/out/2026/10/28/f10f3dc6007e69b9aa06cce6c4cf5eeb.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3743140/2462a9a564e30f573ab73aa05184bfbb1ce1450b/ss_2462a9a564e30f573ab73aa05184bfbb1ce1450b.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3743140/2dab2c2587915c34ff38ea97a33ad3dc90dcad0a/ss_2dab2c2587915c34ff38ea97a33ad3dc90dcad0a.1920x1080.jpg"
+      "https://en.riotpixels.com/games/battleplan/screenshots/13/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/battleplan/screenshots/11/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/battleplan/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/battleplan/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/battleplan/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/battleplan/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/battleplan/screenshots/",
+      "http://s01.riotpixels.net/data/4b/42/4b42574f-a528-42b6-9470-bb0356bc05aa.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/64/e6/64e67947-e6df-4cf8-bf6d-7ee1f855ae7c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/93/dc/93dcbe99-7eb4-4d41-a912-c3ebd50e7e3b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/10/70/107075a1-089e-4672-9836-ee5753825b66.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9f/9b/9f9b5f3f-4807-4707-8585-de75a13d62ed.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/07/03/0703e518-f4b7-4c43-9b3d-886e409e297e.jpg.240p.jpg"
     ],
     "system_requirements": {
       "OS": "64-bit Windows 11 / 10",
@@ -241842,15 +241853,21 @@
     "size": "2.7 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/vn5kxgvihici",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/battleplan/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Strategy",
+      "World War II",
+      "Top-down",
+      "3D",
+      "Real-time"
+    ],
+    "company": "Slitherine, Foolish Mortals",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/3743140/1661167927/fedf1aaac21169db9bcb3087020bbf3f03a563dc/1791793182/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "Schrodinger’s Cat Burglar",
@@ -245585,6 +245602,320 @@
     "size": "2.3 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/4g5goiagao83",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Dog Man: Bark in Action",
+    "url": "https://steamrip.com/dog-man-bark-in-action-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4782240/7d8cb85677fc243e2a2b745066e786200fdebf84/ss_7d8cb85677fc243e2a2b745066e786200fdebf84.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4782240/d87bf7a89ea4dabd16ec19e40be4d88db3892e40/ss_d87bf7a89ea4dabd16ec19e40be4d88db3892e40.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows 7+",
+      "Processor": "Intel Core i5-5257U, AMD Ryzen 3 1200 or equivalent",
+      "Memory": "2 GB RAM",
+      "Graphics": "GeForce GTX 1050, AMD RX 460 or equivalent",
+      "DirectX": "Version 10",
+      "Storage": "2 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure",
+      "Developer": "Floor 84",
+      "Platform": "PC",
+      "Game Size": "1.6 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25762150"
+    },
+    "size": "1.6 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/wyrw0cpc5jao",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "ANOMALITH",
+    "url": "https://steamrip.com/anomalith-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/98af3b6e17cf13c4921508654ac0633d73e8b917/ss_98af3b6e17cf13c4921508654ac0633d73e8b917.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/ca500d96bc36b5c0e5741b1e3d2b9ee65944cfb8/ss_ca500d96bc36b5c0e5741b1e3d2b9ee65944cfb8.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 11",
+      "Processor": "Intel Core i5-6600 / AMD Ryzen 5 2600",
+      "Memory": "12 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 1050 Ti /AMD Radeon RX 5500 XT",
+      "DirectX": "Version 11",
+      "Storage": "40 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, RPG",
+      "Developer": "FURYU CORPORATION",
+      "Platform": "PC",
+      "Game Size": "20.8 GB",
+      "Released By": "RUNE",
+      "Version": "Build 26269914"
+    },
+    "size": "20.8 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/klbf42bzpln0",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Probably Stolen – Cyberpunk Shopkeeper Sim",
+    "url": "https://steamrip.com/probably-stolen-cyberpunk-shopkeeper-sim-free-download/",
+    "description": "In a towering space station split by wealth and corruption, your business runs on merchandise with flexible origins. You’re a former scavenger who secured a storefront thanks to a generous loan and questionable timing. Now rent is rising, factions are watching, and most of your best margins live in legal gray zones.\n\nYou never really know who’s on the other side of the counter. Today’s customer could be a security fisher for evidence, a revolutionary seeking leverage, or a fallen elite testing your usefulness. Every sale is a gamble.\n\nApprove it, refuse it, report it, or look away; someone is always taking notes. Reputation buys access and protection, but it also paints a target on your back. On this station, every client is a potential profit and a potential trouble. You Are Empty: Absolute Edition\n\nStart as a gunsmith , chemist, water merchant, fence, farmer, or from absolute rock bottom. Every product line has its own profit curve and its own way of ruining you, weapons bring inspections, chemicals bring addiction, water brings liability, contraband brings raids .\n\nSome trades need heavy machinery and permits, others just a good hiding spot and a straight face. The better the margins, the worse the consequences when something goes wrong. You’re not choosing a theme for your shop, you’re choosing which kind of trouble you’re willing to monetize.\n\nEvery item you stock carries its own risks. Cigarette packs need visual inspection before resale. Water must be tested and filtered. Weapons require permits and modifications. Profitable chemicals rely on closely guarded recipes. Rare items need proper appraisal to avoid overpaying.\n\nYou can cut the product’s quality, relabel counterfeit products as genuine, or fence discounted, stolen goods if you believe Security won’t reach you. But beware, there’s always the mob justice. Suppliers overstate value, customers push their luck, and contraband often comes with issues you only notice after the deal is done. Your margins depend on how well you assess what’s in front of you. Misjudge the item or the person selling it, and you absorb the cost.",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://steamrip.com/wp-content/uploads/2026/10/probably-stolen-steamrip.jpg",
+      "https://steamrip.com/wp-content/uploads/2026/10/probably-stolen-screenshots-steamrip.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Win 10, x64",
+      "Processor": "Intel Core i3 or equivalent",
+      "Memory": "8 GB RAM",
+      "Graphics": "GTX 650ti equivalent or higher",
+      "DirectX": "Version 10",
+      "Storage": "1 GB available space"
+    },
+    "game_info": {
+      "Genre": "Indie, RPG, Simulation, Strategy",
+      "Developer": "Questing Goose Studio",
+      "Platform": "PC",
+      "Game Size": "389 MB",
+      "Released By": "RUNE emu",
+      "Version": "Build 26274380 | Full Version"
+    },
+    "size": "389 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/07mmr5c0u0oj",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "EVERSPACE 2",
+    "url": "https://steamrip.com/everspace-2-free-download/",
+    "description": "EVERSPACE™ – EVERSPACE™ combines fast-paced combat with roguelike elements, great visuals and a captivating story. It takes you on a challenging journey through an ever-changing, beautifully crafted universe full of surprises. Shoot, craft and loot your way to victory while the odds are stacked against you.",
+    "cover_image": "http://i95.fastpic.ru/big/2017/0527/cc/ff9472eff334d22c7c64d16a2ace25cc.jpg",
+    "screenshots": [
+      "http://en.riotpixels.com/games/everspace/screenshots/104/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/everspace/screenshots/102/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/everspace/screenshots/101/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/everspace/screenshots/96/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/everspace/screenshots/91/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://en.riotpixels.com/games/everspace/screenshots/79/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/42/45/42456c49-c52a-4c5f-baf6-2dea3b94c05d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c4/c6/c4c6ab68-1b87-48c1-8a68-b378217c149a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e9/3a/e93a3505-477c-4717-9a0d-f23db6df4a93.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/95/61/95618019-5e20-4f0c-91cc-928a2e4ed1f0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/38/11/38118da6-eff5-41a0-bf0c-0831bf55f99b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/02/15/02156908-5874-4441-b6a5-5845e05da2ee.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 64-bit",
+      "Processor": "Intel Core [email protected] or AMD FX [email protected]",
+      "Memory": "8 GB RAM",
+      "Graphics": "Nvidia GeForce GTX 970 (4 GB) or AMD Radeon RX 6400 (4GB)",
+      "DirectX": "Version 11",
+      "Storage": "35 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, RPG, Simulation",
+      "Developer": "ROCKFISH Games",
+      "Platform": "PC",
+      "Game Size": "35.1 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25503461"
+    },
+    "size": "35.1 GB",
+    "languages": "ENG",
+    "bzzhr_url": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/everspace/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Action",
+      "Shooter",
+      "Open world",
+      "Permanent death",
+      "3D"
+    ],
+    "company": "Rockfish Games",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Session: Skate Sim",
+    "url": "https://steamrip.com/session-skate-sim-free-download-2/",
+    "description": "AUTHENTIC GAMEPLAY: With the dual stick controls, each stick represents one of your feet. You will need to learn how to control them and transfer weight, just like on a real skateboard. The physics have been developed with a focus on realism, smoothness and immersion. Just like in real life for a new skateboarder, the first hours can seem challenging, but once you have mastered the technique, you will feel the unrivalled thrill of pulling off your very first kickflip! Session: Skate Sim also includes full options customisation, so you can enjoy the perfect experience tailored to you. A full tutorial provides all the help you need to get started, and you can choose from four difficulty levels! THE 1990S AND SKATE CULTURE: Inspired by the golden age of street skating – the 1990s – Session: Skate Sim lets you experience true skateboarding and its culture: no scoring system; just you, your spot and your imagination! There’s no need for judges to tell you that your noseslide or varial heelflip are perfect for this spot. And because certain locations are iconic, the developers have added several of them to the game for you to skate in and express your creativity, including Black Hubbas (New York City), Brooklyn banks (New York City), FDR Park (Philadelphia) and many other spots. “IF IT WASN’T CAUGHT ON VIDEO, IT DIDN’T HAPPEN”: Skating and pulling off the best lines in the best spots is one thing, but if no one is there to film it, it didn’t really happen… In Session: Skate Sim, you can film with a 1990s filter or fisheye lens, and you can use the video editor to create your clips and share them. You can play with multiple options, including changing the field of view, time of day, filters, and different camera views (tripod, orbit, etc.). Session: Skate Sim also offers the chance to go from skater to filmmaker: pull off your moves then go into film mode to experience the action from the point of view of your camera operator and create the best clip. CUSTOMISATION: Show off your style with an extensive customisation system for your skater and skateboard. By completing challenges, you earn money to spend in skate shops. You can find nearly 200 items (hoodies, shoes, caps, T-shirts, trousers, etc.) from top brands, such as Fallen, Zero, GrindKing, Thankyou, HIJINX Net, Antilanta, Roger Skate CO, No-Comply, iDabble and others. You can also customise your skateboard with over 250 parts, such as wheels, trucks and many other components from famous brands like, No-Comply, GindKing, Thankyou and many others. In addition to the design aspect, the components (trucks, riser pads, wheels…) impact the way you skate. Find the right ones for your style and shred the most iconic spots! Included DLCs: Brandalised Pack Supporter Pack Waterpark & Chris Cole Abandoned Mall Year 1 Pack Schoolyard Paris Prague Year 2 Pack El Lay",
+    "cover_image": "https://i3.imageban.ru/out/2022/09/24/095c38ac69f220c92a61299a5e8aec96.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/session-skate-sim/screenshots/27/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/session-skate-sim/screenshots/19/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/session-skate-sim/screenshots/16/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/session-skate-sim/screenshots/10/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/session-skate-sim/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/session-skate-sim/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/5d/e4/5de40f19-a33b-4468-8391-1dd30ca96fa0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b4/ec/b4eccdb9-2cf3-4e49-b8f7-5db052d28444.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/80/3f/803fda1b-e976-496d-9df2-50b9f857e342.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e3/22/e3229c0a-3c64-468e-863b-66d7ba94921d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2c/93/2c93480b-e937-4820-8382-78563dd088c1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9d/dc/9ddce62a-06f7-45c1-93bf-536727fe0290.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Windows 7",
+      "Processor": "Intel Core i7-2700K or AMD FX-8370",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 650 Ti, 2 GB or AMD Radeon R7 360, 2 GB",
+      "DirectX": "Version 9.0",
+      "Storage": "15 GB available space",
+      "Sound Card": "On board",
+      "Additional Notes": "Your experience with Session will be best at higher FPS. Lower graphic settings to help if you’re getting low FPS."
+    },
+    "game_info": {
+      "Genre": "Indie, Simulation, Sports, Strategy",
+      "Developer": "crea-ture Studios Inc.",
+      "Platform": "PC",
+      "Game Size": "7.4 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25126913"
+    },
+    "size": "7.4 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/5guo2zwyfjee",
+    "fitgirl_url": "https://fitgirl-repacks.site/session-skate-sim/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Arcade",
+      "Extreme sports",
+      "Third-person",
+      "3D"
+    ],
+    "company": "crea-ture Studios Inc., Nacon",
+    "updates": [
+      {
+        "name": "Session.Skate.Sim.El.Lay.Update.v1.0.6.40-RUNE.rar",
+        "url": "https://filecrypt.cc/Container/16973CEF3E.html"
+      },
+      {
+        "name": "Session.Skate.Sim.El.Lay.Update.v1.0.6.42-RUNE.rar",
+        "url": "https://filecrypt.cc/Container/AE28FA7CB4.html"
+      }
+    ],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Virtue and a Sledgehammer",
+    "url": "https://steamrip.com/virtue-and-a-sledgehammer-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3743260/3eeda93166a51c737922a079e311cc05c78b13e0/ss_3eeda93166a51c737922a079e311cc05c78b13e0.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3743260/486128a3f63fbb20b5985a0963faf4c2e8b02661/ss_486128a3f63fbb20b5985a0963faf4c2e8b02661.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 x64 Bit",
+      "Processor": "Intel Core i5-6600K / AMD Ryzen 5 3550H",
+      "Memory": "8 GB RAM",
+      "Graphics": "GeForce GTX 960 / Radeon RX 570 / Arc A380",
+      "DirectX": "Version 11",
+      "Storage": "3 GB available space",
+      "Additional Notes": "Low Quality setting, in 1080p, producing 60 FPS"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure",
+      "Developer": "Deconstructeam",
+      "Platform": "PC",
+      "Game Size": "3.8 GB",
+      "Released By": "RUNE",
+      "Version": "Build 26242019"
+    },
+    "size": "3.8 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/wm70o5fr6n7u",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "The Boss Gangster: Criminal Empire",
+    "url": "https://steamrip.com/the-boss-gangster-criminal-empire-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2774040/eded3e64e918bf39598c80b59bcc5f436c45528d/ss_eded3e64e918bf39598c80b59bcc5f436c45528d.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2774040/edd41f811385641c09774b176b2752222e9a2ce8/ss_edd41f811385641c09774b176b2752222e9a2ce8.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows® 10 Home 64 Bit",
+      "Processor": "Intel i5 AMD Ryzen 5",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 1050",
+      "DirectX": "Version 12",
+      "Storage": "5000 MB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Indie, RPG, Simulation, Strategy",
+      "Developer": "BEF GAMES",
+      "Platform": "PC",
+      "Game Size": "1.8 GB",
+      "Released By": "RUNE",
+      "Version": "Build 26276781"
+    },
+    "size": "1.8 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/c8zft4rzkazx",
     "fitgirl_url": null,
     "fitgirl_matched": false,
     "genres": [],
