@@ -245515,11 +245515,22 @@
   {
     "title": "Stygian: Outer Gods",
     "url": "https://steamrip.com/stygian-outer-gods-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Stygian: Outer Gods is a first-person survival horror and role-playing game set within the grim, cosmic-horror universe of Stygian: Reign of the Old Ones. Serving as a narrative prequel, the story takes place just before the catastrophic event known as the Black Day. Players step into the shoes of Jack, an investigator lured to the isolated, fog-shrouded coastal town of Kingsport under the pretense of finding his presumed-dead father. The gameplay shifts the series away from its original top-down CRPG perspective into an immersive first-person survival-horror experience. Exploration takes place across a hostile, maze-like environment of derelict buildings, snowy settlements, dark mines, and lighthouses. Survival demands careful resource management, environmental puzzle-solving, crafting tools like lockpicks and bandages, and utilizing a distinct tarot-card progression system that grants both major “seer” abilities and minor skill boosts. Combat is hazardous and heavily punishing, turning single enemies into lethal threats that require stealth, glass-bottle distractions, and careful crouching rather than direct confrontation. Players must also actively manage a fragile sanity meter, which erodes near supernatural anomalies, dark visions, and terrifying entities tied to the ancient Outer Gods. Your moral and character choicesвЂ”shaped initially at a bathroom mirror and expanded through side questsвЂ”directly influence the narrative’s path, encounters, and multiple possible conclusions.",
+    "cover_image": "https://i3.imageban.ru/out/2026/10/31/931b562ba7c29e3adfffd3680fcad6e8.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2581410/ss_d6e8350baacab190ce0a53b044434864a0896e83.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2581410/ss_d775e675817aa0c8ad7ea4aa3cd6ed45329b4802.1920x1080.jpg"
+      "https://en.riotpixels.com/games/stygian-outer-gods/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/stygian-outer-gods/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/stygian-outer-gods/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/stygian-outer-gods/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/stygian-outer-gods/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/stygian-outer-gods/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/stygian-outer-gods/screenshots/",
+      "http://s01.riotpixels.net/data/b5/ff/b5ff02c3-394a-4cf4-8b06-a75cc39aaa55.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d2/d1/d2d1fafc-a80b-4fa8-bcaa-d784972801a0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8c/f9/8cf92fec-833c-4ee9-a7d7-e60ca47b8094.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/34/b5/34b59099-6fe8-412f-b65f-bc4991b9f8ef.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b9/d5/b9d57f65-d91d-4706-ac36-8747f820fa26.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e3/9d/e39debc1-87e3-40a8-8a88-6fd70f6634ea.jpg.240p.jpg"
     ],
     "system_requirements": {
       "notes": "Requires a 64-bit processor and operating system",
@@ -245541,15 +245552,21 @@
     "size": "12.4 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/3uj8otf1wxv4",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/stygian-outer-gods/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Action",
+      "Survival",
+      "First-person",
+      "3D",
+      "Horror"
+    ],
+    "company": "Misterial Games, Fulqrum Publishing",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/2581410/859763347/e3d1708890ea6b7bba9605fcbadf20b30a14978b/1793034585/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "Village in the Shade",
@@ -246273,6 +246290,44 @@
       "Version": "Build 25961017 | Full Version"
     },
     "size": "3.6 GB",
+    "languages": "ENG",
+    "bzzhr_url": null,
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "The Jackbox Party Pack 12",
+    "url": "https://steamrip.com/the-jackbox-party-pack-12-free-download/",
+    "description": "Our team of Chicago comedians and party wizards set out to create all-new concepts that bring the thrill to holiday gatherings, dinner parties, game nights, and happy hours. Travel between joke-writing, photo alteration, absurd disputes, and fact battles to create a night perfectly suited to your crowd.\n\nWe’ve tailored this pack to help you shake off your humdrum day and make your game night run like a dream. Only one person needs to own the game in order for all to play Use your phones or web-enabled devices as controllers to make it easy to join and get started. Ecstatica II\n\nThe Jackbox Party Pack 12 arrives just in time for the holiday season and can be enjoyed on any night that deserves a special touch. Is it a Monday ? Kick the week off right. The day you went to the dentist? Show off your clean smile. You have a bunch of stuff due tomorrow? Tomorrow can wait\n\nMegaPals (Speed, Guessing) A mind-melding game that celebrates friends both old and new! See how connected you are with your pals through impulsive wordsmithing and explosive match-ups. How well do you know how your fellow players think? (3-8 players)\n\nHyperface (Head-to-Head, Photoediting) A game where you take selfies or use stock photos and warp them in wild ways in order to respond to bizarre prompts like “your face when you’ve just seen a bear.” Smudge, yank, squash, and draw on photos to create one-of-a-kind masterpieces meant to be shared! (3-8 players)\n\nWe Forgot a Card (Design, Joke-Writing) A game where you craft ridiculous greeting cards for weird occasions with the option to purchase them IRL. You’re running late to your big event and you stumbled upon a shop with limited options. Time to get creative! (3-8 players)",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://steamrip.com/wp-content/uploads/2026/10/the-jackbox-party-12-steamrip.jpg",
+      "https://steamrip.com/wp-content/uploads/2026/10/the-jackbox-party-12-screenshots-steamrip.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10+",
+      "Processor": "2.66 Ghz Core 2 Duo or Greater",
+      "Memory": "4 GB RAM",
+      "Graphics": "GeForce 500+ / Radeon 5000+ or Greater",
+      "Network": "Broadband Internet connection",
+      "Storage": "3 GB available space"
+    },
+    "game_info": {
+      "Genre": "Casual, Indie, Strategy",
+      "Developer": "Jackbox Games, Inc.",
+      "Platform": "PC",
+      "Game Size": "1.07 GB",
+      "Released By": "Mr_GOLDBERG emu | Ty LinkNotZelda08 (csrin)",
+      "Version": "Build 25885498 | Full Version"
+    },
+    "size": "1.07 GB",
     "languages": "ENG",
     "bzzhr_url": null,
     "fitgirl_url": null,
