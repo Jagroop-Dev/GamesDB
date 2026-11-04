@@ -239524,11 +239524,22 @@
   {
     "title": "Toy Shire",
     "url": "https://steamrip.com/toy-shire-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "You received new toys from your family. Isn’t that lovely? Oh, it’s for sure… Your old toys, though, aren’t getting along as well. They are no longer cared for and have been forgotten. So what follows next? They’re going to join together against you and assault your brand-new toys, so be prepared. But never worry! You’re in luck since your brand-new toys are troops of green soldiers. They still require your aid though! Control, strengthen, and defeat the opposing forces! However, focus with care, the enemies you encounter might not be your old playthings! Tower building alone won’t be sufficient to repel incoming attackers. Build up your own troops in the best feasible positions, then unleash attacks into enemy territory. Never abandon your towers, and deploy your troops in accordance with the traits of the enemy. First, the attacking forces will attempt to get past your defenses. Build and improve towers to aid your army. By using unique abilities, you can support your troops and towers as well. Safeguard your base against waves of attackers. You need to pick the right troops if you would like to prevail. Clean the paths and guard any open routes. Upgrade your troops and unlock new ones to take down the waves and claim victory. Enter a world and a narrative built around the toys that enriched your youth, including toy soldiers, dinosaur sets, robots, building blocks, and more. For you to continue this journey, you must defeat outdated toys that are scattered throughout your house, starting in your room. Keep in mind that different enemy troops appear at different locations! To better repel the attackers, build towers according with the enemy traits. Due to the distinctive designs, certain locations could have different battlefields. You might stumble to a number of circumstances during your battle with the enemy that could have an impact on you. A toy-themed tower defense adventure. Small green soldiers that allow you to attack the enemy base, in addition to defending your own base. Different rooms, unique levels, where you battle against a variety of vintage toys. Unique towers, soldiers, and enemy types. Three different difficulty settings to cater to every player. A creative mode that allows you to design your own levels with over 100+ objects. Over 30 achievements to complete.",
+    "cover_image": "https://i5.imageban.ru/out/2026/11/03/83cf1b6795a3e30dba29443ce38dae1a.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2361460/ss_53407e29ace85218ac4437220eefd7ae6dab6589.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2361460/ss_15127da38a39aff679d4d519573d71a5d418d9c8.1920x1080.jpg"
+      "https://en.riotpixels.com/games/toy-shire/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/toy-shire/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/toy-shire/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/toy-shire/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/toy-shire/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/toy-shire/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/toy-shire/screenshots/",
+      "http://s01.riotpixels.net/data/95/f2/95f2d142-7151-4c19-94a5-b90ee4f09852.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/69/46/69464204-6c95-459e-b6a6-e69b2eee6e48.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3f/bd/3fbde6cc-97d9-4c22-bca7-0fce70634ebe.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/14/3b/143bdf06-b1c5-4df4-be8b-94ba0f7d25e7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a3/34/a3342bb4-a30e-4a76-9a95-1ca629a39be8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d6/e0/d6e0a5dd-525f-46eb-b643-dda81c80ed24.jpg.240p.jpg"
     ],
     "system_requirements": {
       "OS": "Windows 10",
@@ -239548,15 +239559,20 @@
     "size": "1.4 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/89ql0cufjlxx",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/toy-shire/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Tower defense",
+      "First-person",
+      "Top-down",
+      "3D"
+    ],
+    "company": "Bluespy Studios, Catoptric Games",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/2361460/745265/4bd46daa55acd845907bec9ae106309ae6694455/1750911127/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "The Adventures of Elliot: The Millennium Tales",
@@ -245672,11 +245688,22 @@
   {
     "title": "You Are Empty: Absolute Edition",
     "url": "https://steamrip.com/you-are-empty-absolute-edition-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "In an alternate history 1950s Soviet Kyiv, most of the city’s population has mysteriously vanished, and uncontrollable, horrific monsters roam its abandoned streets. Fate has brought you face to face with the ominous emptiness of a dead city that watches its only visitor with unwavering attention. Face bizarre enemies born from propaganda, science, and madness as you uncover the truth behind the catastrophe, and try to make things right. Features Explore surreal locations across an alternate history Soviet Union, including collective farms, the Metro, an opera house, city rooftops, secret laboratories, and more. Use an arsenal of classic weapons, including the C96 Broomhandle pistol, PPSh submachine gun, Mosin rifle, double barrel shotgun, Molotov cocktails, and experimental retrofuturistic weaponry. Distinctive, grotesque enemies inspired by Soviet themes. Experience one of Eastern Europe’s most unusual cult FPS titles, faithfully revitalized for modern systems.",
+    "cover_image": "https://i8.imageban.ru/out/2026/11/03/077f5b3f4d59467c4f6e1ee1a6987cfe.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4760480/3fac4080376ae155965d8df695fa70b1ff0aab3e/ss_3fac4080376ae155965d8df695fa70b1ff0aab3e.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4760480/c7d64daa76f663c73a69fce8afaedca805c72b80/ss_c7d64daa76f663c73a69fce8afaedca805c72b80.1920x1080.jpg"
+      "https://en.riotpixels.com/games/you-are-empty/screenshots/172/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/you-are-empty/screenshots/169/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/you-are-empty/screenshots/165/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/you-are-empty/screenshots/159/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/you-are-empty/screenshots/158/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/you-are-empty/screenshots/153/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/you-are-empty/screenshots/",
+      "http://s01.riotpixels.net/data/95/a9/95a9827c-4d8b-421c-99b5-193b03401bd3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8f/f3/8ff30599-cd63-4456-a4e8-bceb5f23e3b8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/db/bc/dbbc7847-dc9f-494b-9a51-0c6a3e5ed87a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8f/da/8fda3bbb-db08-470e-8275-7895e4f0678b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/de/16/de16e466-5594-43b7-9518-dbdd23ec5967.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6f/83/6f83fdeb-6b55-459a-81d9-5d50088a3723.jpg.240p.jpg"
     ],
     "system_requirements": {
       "OS": "Windows 10",
@@ -245697,15 +245724,20 @@
     "size": "2.3 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/4g5goiagao83",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/you-are-empty-absolute-edition/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Action",
+      "Shooter",
+      "First-person",
+      "3D"
+    ],
+    "company": "1C Company, Digital Spray Studios, Excalibur Publishing, Friendware, Atari, 1C Entertainment, Mandel ArtPlains",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/4760480/588424345/79b80218479b0959f57d262202d4938e4896afea/1788627309/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "Dog Man: Bark in Action",
@@ -245806,11 +245838,22 @@
   {
     "title": "Probably Stolen – Cyberpunk Shopkeeper Sim",
     "url": "https://steamrip.com/probably-stolen-cyberpunk-shopkeeper-sim-free-download/",
-    "description": "In a towering space station split by wealth and corruption, your business runs on merchandise with flexible origins. You’re a former scavenger who secured a storefront thanks to a generous loan and questionable timing. Now rent is rising, factions are watching, and most of your best margins live in legal gray zones.\n\nYou never really know who’s on the other side of the counter. Today’s customer could be a security fisher for evidence, a revolutionary seeking leverage, or a fallen elite testing your usefulness. Every sale is a gamble.\n\nApprove it, refuse it, report it, or look away; someone is always taking notes. Reputation buys access and protection, but it also paints a target on your back. On this station, every client is a potential profit and a potential trouble. You Are Empty: Absolute Edition\n\nStart as a gunsmith , chemist, water merchant, fence, farmer, or from absolute rock bottom. Every product line has its own profit curve and its own way of ruining you, weapons bring inspections, chemicals bring addiction, water brings liability, contraband brings raids .\n\nSome trades need heavy machinery and permits, others just a good hiding spot and a straight face. The better the margins, the worse the consequences when something goes wrong. You’re not choosing a theme for your shop, you’re choosing which kind of trouble you’re willing to monetize.\n\nEvery item you stock carries its own risks. Cigarette packs need visual inspection before resale. Water must be tested and filtered. Weapons require permits and modifications. Profitable chemicals rely on closely guarded recipes. Rare items need proper appraisal to avoid overpaying.\n\nYou can cut the product’s quality, relabel counterfeit products as genuine, or fence discounted, stolen goods if you believe Security won’t reach you. But beware, there’s always the mob justice. Suppliers overstate value, customers push their luck, and contraband often comes with issues you only notice after the deal is done. Your margins depend on how well you assess what’s in front of you. Misjudge the item or the person selling it, and you absorb the cost.",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "In a towering space station split by wealth and corruption, your business runs on merchandise with flexible origins. You’re a former scavenger who secured a storefront thanks to a generous loan and questionable timing. Now rent is rising, factions are watching, and most of your best margins live in legal gray zones. You never really know who’s on the other side of the counter. Today’s customer could be a security fisher for evidence, a revolutionary seeking leverage, or a fallen elite testing your usefulness. Every sale is a gamble. Approve it, refuse it, report it, or look away; someone is always taking notes. Reputation buys access and protection, but it also paints a target on your back. On this station, every client is a potential profit and a potential trouble. Start as a gunsmith, chemist, water merchant, fence, farmer, or from absolute rock bottom. Every product line has its own profit curve and its own way of ruining you, weapons bring inspections, chemicals bring addiction, water brings liability, contraband brings raids. Some trades need heavy machinery and permits, others just a good hiding spot and a straight face. The better the margins, the worse the consequences when something goes wrong. You’re not choosing a theme for your shop, you’re choosing which kind of trouble you’re willing to monetize. Every item you stock carries its own risks. Cigarette packs need visual inspection before resale. Water must be tested and filtered. Weapons require permits and modifications. Profitable chemicals rely on closely guarded recipes. Rare items need proper appraisal to avoid overpaying. You can cut the product’s quality, relabel counterfeit products as genuine, or fence discounted, stolen goods if you believe Security won’t reach you. But beware, there’s always the mob justice. Suppliers overstate value, customers push their luck, and contraband often comes with issues you only notice after the deal is done. Your margins depend on how well you assess what’s in front of you. Misjudge the item or the person selling it, and you absorb the cost. Keep the rent paid and you can start thinking bigger. Expand your operation, run multiple businesses, and unlock new merchandise and production opportunities. But rent keeps rising, and confiscated stock or a bad deal can leave you struggling to make the next payment. Every purchase needs to earn its keep A sentient AI chip went rogue and took its hosts with it. Augs look like everyone else … until they don’t. Stay alert, pick up on the signs. Every faction agrees on the policy, and you have the gun to enforce it. But missing the signs, or misreading them, carries its own price GAME FEATURES Run your store in a dystopian station Balance supply and demand by attracting the right customers Authenticate rare goods and sell them for a profit Haggle for the best deals, but remember that every bargain comes with a trade-off Master additional jobs: water merchant, hydroponic farmer, organ dealer, and more Manage machines and production chains to craft valuable artifacts Unlock advanced licenses to access the underground market Navigate cutthroat politics and build connections with the right factions to get the exclusive deals Profit from the arrogant elite by selling them counterfeit goods Exploit (or help) the less fortunate Manage and expand your inventory Hide stolen goods and contraband from the authorities (or bribe your way out if you get caught)",
+    "cover_image": "https://i3.imageban.ru/out/2026/11/03/46e6feabd43fbd12c55e82de36ad6964.jpg",
     "screenshots": [
-      "https://steamrip.com/wp-content/uploads/2026/10/probably-stolen-steamrip.jpg",
-      "https://steamrip.com/wp-content/uploads/2026/10/probably-stolen-screenshots-steamrip.jpg"
+      "https://en.riotpixels.com/games/probably-stolen/screenshots/17/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/probably-stolen/screenshots/12/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/probably-stolen/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/probably-stolen/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/probably-stolen/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/probably-stolen/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/probably-stolen/screenshots/",
+      "http://s01.riotpixels.net/data/81/8c/818c34c2-2358-4763-9edd-e0a0896074f1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d5/db/d5db501c-e5e9-45f7-9504-74f06eb974d7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/aa/c0/aac0b7c1-d5a0-4db8-bdda-ef644d8034fa.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/62/fb/62fb7585-00f9-434f-ba14-6420ed83fa05.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/76/11/7611c204-721e-4b7e-97f2-0a0cc38d7333.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/20/88/2088b427-c448-4ebd-9a2c-7b187e4a229c.jpg.240p.jpg"
     ],
     "system_requirements": {
       "OS": "Win 10, x64",
@@ -245831,15 +245874,21 @@
     "size": "389 MB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/07mmr5c0u0oj",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/probably-stolen-cyberpunk-shopkeeper-sim/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Lifestyle",
+      "Managerial",
+      "Item crafting",
+      "2D",
+      "Cyberpunk"
+    ],
+    "company": "Questing Goose Studio, tinyBuild",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/4348910/1029376199/a658a0ad7992fdb9eba32eadff946e0d84c4d06c/1793112587/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "EVERSPACE 2",
@@ -246707,11 +246756,22 @@
   {
     "title": "COP BASTARD",
     "url": "https://steamrip.com/cop-bastard-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Step into early 90s Osaka as a tough, no-nonsense detective in COP BASTARD – a classic, fast-paced corridor shooter that cuts straight to the chase. No puzzles, no perks, no upgrades, and definitely no time wasted on fancy mechanics. Just raw, relentless action inspired by gritty 90s action movies. Wade through endless waves of Yakuza in tight, intense corridors where every shot counts and survival depends on quick reflexes and guts. Use an arsenal of brutal weapons and even spit in enemies’ faces to assert your dominance. This game is tailor-made for fans of old-school shooters who want pure, unfiltered gameplay: no aiming down sights, no character builds, just pure shooting mayhem. If you crave high-octane, corridor-based FPS action with zero filler, COP BASTARD delivers. Built with a modern engine yet dripping with retro atmosphere, the game throws you into an immersive world full of gore, pounding music, and chaotic combat. Get ready to run, shoot, and spit your way through the criminal underworld – and don’t expect anything less than non-stop, brutal fun.",
+    "cover_image": "https://i3.imageban.ru/out/2026/11/04/808d8e825abd39b6d576f0abcfc0b91d.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1742440/8236894500ee25e1c2004b4531290221a950e292/ss_8236894500ee25e1c2004b4531290221a950e292.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1742440/cbfaf28e19f244391617a8116b501547f7604a6e/ss_cbfaf28e19f244391617a8116b501547f7604a6e.1920x1080.jpg"
+      "https://en.riotpixels.com/games/cop-bastard/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/cop-bastard/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/cop-bastard/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/cop-bastard/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/cop-bastard/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/cop-bastard/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/cop-bastard/screenshots/",
+      "http://s01.riotpixels.net/data/20/dd/20dd5efa-2c79-4d2d-891f-f8a5192f8cc7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f0/92/f0923f0b-3f06-4f1e-9286-063197e29480.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/25/bd/25bd5e56-e697-4dec-a8e1-aceb26ea76cc.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d1/d1/d1d1f420-b5e0-45a6-9de1-c72d75ee3912.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f6/83/f683cbcb-9276-4974-a12c-c8d184eeaba2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/23/f3/23f32d82-e4f4-457b-87dd-08ba48a581ee.jpg.240p.jpg"
     ],
     "system_requirements": {
       "OS": "Windows 10",
@@ -246731,15 +246791,20 @@
     "size": "2.3 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/nf3h7jt98dl1",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/cop-bastard/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Action",
+      "Shooter",
+      "First-person",
+      "3D"
+    ],
+    "company": "targim., Retrovibe Games",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/1742440/141992875/befd7a4c06cdc72e072f560617813c3f31ac5dbd/1793277079/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "Croc 2 Kingdom of the Gobbos",
