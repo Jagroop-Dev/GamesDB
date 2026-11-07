@@ -240617,11 +240617,22 @@
   {
     "title": "Sort The Capybaras",
     "url": "https://steamrip.com/sort-the-capybaras-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Sort The Capybaras is a cozy organizing game. You are in a messy capybara store with 4,800 cute capybara toys. Pick up a capybara and identify the type of the capybara and then place them on the correct shelves. You will earn money for every capybara you sort. Use your money to upgrade sorting abilities, then you can sort faster and faster. Sort Capybaras to Earn Money Put a capybara onto the correct shelf will immediately give you money. Pick a capybara on the floor, look at it and look at the signboard on the shelf, you will easily find the shelf it belongs to. From Chaos to Organized The store starts with compeletely chaos, you can fill the shelves one by one. Finally, the store will be tidy and perfectly organized. Superpower for sorting You can unlock superpower abilities for sorting by spending money. Highlight the same type of capybaras, carry More capybaras at once, automatically highlight correct shelves, immediatelly collect all the same type of capybaras from the whole store to you hand, automatically collect same type of capybaras nearby. Superpower for sorting You can unlock superpower abilities for sorting by spending money. Highlight the same type of capybaras, carry More capybaras at once, automatically highlight correct shelves, immediatelly collect all the same type of capybaras from the whole store to you hand, automatically collect same type of capybaras nearby.",
+    "cover_image": "https://i4.imageban.ru/out/2026/11/06/2e435c25bdbbece0e18fc3d47bde67ca.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5130480/0e90cf32a3b5c5a55541622dcb6f20edbb479890/ss_0e90cf32a3b5c5a55541622dcb6f20edbb479890.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5130480/b214e6574179c40a34bd8a5095f0d8e0a1751704/ss_b214e6574179c40a34bd8a5095f0d8e0a1751704.1920x1080.jpg"
+      "https://en.riotpixels.com/games/sort-the-capybaras/screenshots/12/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/sort-the-capybaras/screenshots/10/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/sort-the-capybaras/screenshots/9/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/sort-the-capybaras/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/sort-the-capybaras/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/sort-the-capybaras/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/sort-the-capybaras/screenshots/",
+      "http://s01.riotpixels.net/data/56/8c/568c8506-0540-488b-a02f-cf5928240df0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/83/9d/839d51fe-695d-43d3-be95-a8679576c4e8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7a/90/7a902c19-d279-4415-bea5-297cb203c437.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b3/a9/b3a93e9a-4bab-48eb-be57-4dad24e45cb7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/38/6e/386eeaa1-41d6-4ada-8eab-bd9a941d6201.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3d/2a/3d2adab5-f751-4cd7-96c3-2355ec3ae0db.jpg.240p.jpg"
     ],
     "system_requirements": {
       "notes": "Requires a 64-bit processor and operating system",
@@ -240643,15 +240654,21 @@
     "size": "2.5 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/an0frjeqt5c4",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/sort-the-capybaras/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Logic",
+      "Hidden object",
+      "Physics-based",
+      "First-person",
+      "3D"
+    ],
+    "company": "CapybaraKoala",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/5130480/1795435021/2767287d8c0873f42f2006798a3fc3afbcec8c77/1788512735/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "SOS OPS!",
@@ -244506,7 +244523,7 @@
     "title": "Every Day We Fight",
     "url": "https://steamrip.com/every-day-we-fight-free-download/",
     "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "cover_image": "https://i5.imageban.ru/out/2026/11/06/6553d2e9bdde5cc9f0d3e8bf2580909f.jpg",
     "screenshots": [
       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1546080/5be9577d0efe2fed6e626a21e708b3f04667a611/ss_5be9577d0efe2fed6e626a21e708b3f04667a611.1920x1080.jpg",
       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1546080/ff4c967a78353e33299b135b82245883d1f820c2/ss_ff4c967a78353e33299b135b82245883d1f820c2.1920x1080.jpg"
@@ -244531,13 +244548,19 @@
     "size": "7.8 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/d43vxosu668c",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/every-day-we-fight/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Strategy",
+      "Tactics",
+      "Top-down",
+      "3D",
+      "Turn-based"
+    ],
+    "company": "Signal Space Lab, Wild Hog Games",
     "updates": [],
     "video": null,
-    "source_cover": "steamrip",
+    "source_cover": "fitgirl",
     "source_screenshots": "steamrip",
     "source_description": "steamrip"
   },
@@ -246523,11 +246546,22 @@
   {
     "title": "Giggleland",
     "url": "https://steamrip.com/giggleland-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Booting up Assistant… Loading Eliot… O-oh! Hi there! Heheh, it’s been a while since I’ve met another kid! I’m Eliot, your Giggleland guide. Welcome to the place where smiles are forever! This is Tolie. She doesn’t talk, but she knows how to listen, and that makes her the best kind of friend. Her dad is waiting for her somewhere in the park, so first we’re going to see Farmer Terry. He loves helping children find their way home! There are only a few rules. Stay on the path. Stay where I can see you. And if a door says Staff Only, don’t go in there. It’s against the rules. You’ll get in trouble! Attention, guests. If you have seen a little girl wearing a white dress and a pink hat, please notify the nearest staff member immediately. Explore all of Giggleland across eight chapters, from Farmer Terry’s farm to the tunnels beneath the park. About six hours of first-person psychological horror, in one complete game. Uncover a story of family, belonging and the true cost of endless happiness, told by a fully voice-acted cast. Giggleland does things no other horror game has done, and some of them happen outside the game. The full game is safe to stream * .",
+    "cover_image": "https://i3.imageban.ru/out/2026/11/07/54b74b903117868ddb132ba2256f679b.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3370490/6dbaeb7baeb0a323f8956293072df438d5cf3676/ss_6dbaeb7baeb0a323f8956293072df438d5cf3676.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3370490/4f0b2b870aed5b72fb96ae5beff6fb94022dd5f8/ss_4f0b2b870aed5b72fb96ae5beff6fb94022dd5f8.1920x1080.jpg"
+      "https://en.riotpixels.com/games/giggleland/screenshots/9/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/giggleland/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/giggleland/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/giggleland/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/giggleland/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/giggleland/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/giggleland/screenshots/",
+      "http://s01.riotpixels.net/data/c7/79/c779f0d4-a3e5-4fa3-8488-088aa0e3d1af.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/32/d2/32d2afca-8119-4627-84f4-71fa31971b97.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/18/ff/18ff7e28-4e32-412c-bff1-710c96c5905b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/19/02/1902c933-f932-4c90-adec-81a5c8bda540.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/25/00/2500cb86-553a-4875-a088-f8df4c0d7439.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d4/96/d49630a5-69f3-4b65-8e80-0a68d43b06b4.jpg.240p.jpg"
     ],
     "system_requirements": {
       "OS": "Windows 10 or higher 64bit",
@@ -246547,15 +246581,20 @@
     "size": "10.7 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/6jftxh1g2lzu",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/giggleland/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Adventure",
+      "First-person",
+      "3D",
+      "Horror"
+    ],
+    "company": "Gamincat, Hooked",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/3370490/1767767069/d6b080b20b7077d0205a59a20103c037261191e3/1792015147/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "Finals Week ✍🏻",
@@ -247324,6 +247363,82 @@
       "Version": "Build 26450088 | Full Version"
     },
     "size": "917 MB",
+    "languages": "ENG",
+    "bzzhr_url": null,
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Can ‘Em All",
+    "url": "https://steamrip.com/can-em-all-free-download/",
+    "description": "A truck delivers a fresh batch of adorable creatures straight to your factory . Unfortunately for them, they’re also your main source of income. Potato Please\n\nFirst, you need them dead. Grab your weapons and clear out the factory.\n\nNow turn them into something useful. Grab the bodies and throw them into the crusher.\n\nGet those cans into the tube. Your freshly processed cans still need to be sold.\n\nReinvest in the business. Get stronger weapons. Upgrade your vacuum. Unlock machines. Build conveyors . Increase production. Bring in more creatures. Automate the factory.",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://steamrip.com/wp-content/uploads/2026/11/can-em-all-steamrip.jpg",
+      "https://steamrip.com/wp-content/uploads/2026/11/can-em-all-screenshots-steamrip.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10 (64-bit)",
+      "Processor": "AMD Ryzen 3 1200 / Intel Core i3-7100",
+      "Memory": "8 GB RAM",
+      "Graphics": "AMD Radeon RX 460 / NVIDIA GTX 950",
+      "DirectX": "Version 11",
+      "Storage": "1 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Indie, Simulation, Strategy",
+      "Developer": "LuisDev",
+      "Platform": "PC",
+      "Game Size": "355 MB",
+      "Released By": "Mr_GOLDBERG emu",
+      "Version": "Build 26330345 | Full Version"
+    },
+    "size": "355 MB",
+    "languages": "ENG",
+    "bzzhr_url": null,
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Hull Rupture",
+    "url": "https://steamrip.com/hull-rupture-free-download/",
+    "description": "Welcome to Hull Rupture. The objective is simple. Keep moving. Whatever it takes.\n\nEarth is gone. Your ship is one of humanity’s last weapons – a living projectile racing toward the alien homeworld under the command of Despot AI, tasked with delivering final vengeance with a cargo of cooperative personnel.\n\nTo survive the journey, you must keep the ship moving at all costs while it grows into an overengineered machine that converts resources, materials, and human effort into continued propulsion .\n\nConstruct interconnected modules to produce resources, repair damage, boost efficiency, and reinforce defenses. Every resource has its purpose. Humans included, while supplies last. Can ‘Em All\n\nAliens don’t knock, they rip holes straight through your hull. You know exactly when they will arrive and where they will breach, which somehow still isn’t enough. Place turrets, traps, barricades, and automated defenses to funnel enemies into carefully planned kill zones while the humans assist. Each wave grows stronger and more aggressive , forcing you to constantly adapt your layout while expanding. Good planning reduces deaths. Poor planning distributes them.\n\nYour routes determine what you encounter, and each encounter recalculates your resources, your momentum, and the projected duration of the mission. Some paths are safer, others are more profitable, and a few resolve complications through decisive personnel adjustments. Human loss is acceptable.\n\nDifferent ship models further influence how situations unfold, as layouts, systems, and loss thresholds vary between hulls. These differences affect priorities, acceptable risks, and survival projections, particularly for the crew tasked with executing your decisions.",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://steamrip.com/wp-content/uploads/2026/11/hull-rupture-steamrip.jpg",
+      "https://steamrip.com/wp-content/uploads/2026/11/hull-rupture-screenshots-steamrip.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10 version 21H1 or newer",
+      "Processor": "Intel i7-8700, Ryzen 1600",
+      "Memory": "8 GB RAM",
+      "Graphics": "GeForce GTX 670 / Radeon HD 7970",
+      "DirectX": "Version 11",
+      "Storage": "2 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Indie, Strategy",
+      "Developer": "Konfa Games",
+      "Platform": "PC",
+      "Game Size": "453 MB",
+      "Released By": "Mr_GOLDBERG emu",
+      "Version": "Build 26467789 | Full Version"
+    },
+    "size": "453 MB",
     "languages": "ENG",
     "bzzhr_url": null,
     "fitgirl_url": null,
