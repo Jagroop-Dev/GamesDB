@@ -185340,11 +185340,22 @@
   {
     "title": "Swordship",
     "url": "https://steamrip.com/swordship-free-download-1x/",
-    "description": "The world after global warming. Humanity has taken refuge in three gigantic underwater cities at the bottom of the ocean. Those who are expelled from the cities, for lack of space, barely survive on the burned lands. Meanwhile, the megacities exchange millions of containers loaded with goods every day. At the command of ultra-fast boats, a few inhabitants of the underwater cities started stealing these precious containers, in order to deliver them to the banished .",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Don the robes of a mad cultist who pledges his faith to an eldritch god in exchange for untold powers. Grow your cult base and build monuments to receive unholy blessings and learn new rituals. Embrace your dark side as your cult gradually corrupts the Mortal Realm to plan the arrival of your otherworldly deity. Command your Flock To obey the whispers of the Old Ones, you will need an army. Build it by spreading the gospel and converting the godless to your cause. Command your followers through battles and various occult bidding in this pikmin-like mix of real-time strategy, exploration and puzzle solving . Don’t let trivial things like empathy stop you from leading them to certain death. Draw Blood Rituals Cast otherworldly spells by drawing blood symbols on the ground. Summon deadly horrors, unleash ghastly projectiles and make toxic frogs rain on your enemies. Your blood is also your ink, but don’t worry too much about it, you are surrounded by followers eager to spill theirs in your place. Drawing with blood is also key for interacting with various puzzles, shrines and occult ruins you’ll stumble upon during your unholy journey. End a Living World Explore a visually unique dark-fantasy living world where four distinct factions wage war. Prepare yourself to face inquisitors of The Last Church, Untamed Akka warriors, witches from the Coven and aberrations from the Unseen Depths. Filled with dark humour and merciless realisations, a grim but equally cute world is waiting for you to end it. What to Expect A Pikmin-like mix of RTS, exploration and puzzle solving. Command an army of devout followers eager to die for the cause. Draw blood symbols to cast devastating eldritch rituals on the nonbelievers. Meaningful bosses that can singlehandedly end your cult. Eldritch prophecies: Worship’s roguelite progression. Complete challenges during your runs to unlock new gods, more power, skins and more! Vast open areas to explore and corrupt in a world on the verge of collapse. Flavorful hand drawn animations in a distinctive black and white art style with scattered splashes of color.",
+    "cover_image": "https://i2.imageban.ru/out/2026/11/09/224f69183ffb504c0a73d122db1fbd5c.jpg",
     "screenshots": [
-      "https://steamrip.com/wp-content/uploads/2022/12/swordship-steamrip.jpg",
-      "https://steamrip.com/wp-content/uploads/2022/12/swordship-screenshots-steamrip.jpg"
+      "https://en.riotpixels.com/games/worship/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/worship/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/worship/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/worship/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/worship/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/worship/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/worship/screenshots/",
+      "http://s01.riotpixels.net/data/cc/07/cc07086b-bb7b-45be-b736-0bd4d7711c69.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/09/3a/093aa9c6-bfaf-41ab-914e-00e811d11d6d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fd/08/fd083ac3-feef-4484-bd5a-891c6aea74b1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a1/75/a1750f60-9903-4a88-aee9-280222ac40eb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a6/75/a675dd05-f25a-41d8-8f83-edef1161986e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a0/81/a0812501-956d-4ebd-8ad2-9cf9c1b509de.jpg.240p.jpg"
     ],
     "system_requirements": {
       "OS": "Windows 10",
@@ -185364,15 +185375,20 @@
     "size": "652 MB",
     "languages": "ENG",
     "bzzhr_url": null,
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/worship/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Strategy",
+      "Top-down",
+      "2D",
+      "Real-time"
+    ],
+    "company": "Chasing Rats Games",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/1548180/1207766314/c9c3d65a51b63e0a5591ed8f1ff977fe038cb1ef/1793766748/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "SWORN",
@@ -248028,5 +248044,40 @@
     "source_cover": "fitgirl",
     "source_screenshots": "fitgirl",
     "source_description": "fitgirl"
+  },
+  {
+    "title": "Casualties: Unknown",
+    "url": "https://steamrip.com/casualties-unknown-free-download/",
+    "description": "Each layer brings its own challenges, adapt and descend. Simulated Limb and Cardiovascular Systems Injuries are unavoidable. You will have to bandage yourself, fight infected wounds, and stabilize blood loss before losing consciousness. Additionally, your mood can greatly affect your chances of survival, too much doom and gloom will make your life harder. Whirlight – No Time To Trip\n\nCraft to Survive As a creature capable of reason, using tools will allow you to travel the cavernous layers more efficiently. In case you start bleeding out, the flora will provide great resources to patch yourself up.\n\nExplore at Your Own Risk Previous expeditions have left some good loot behind. But even helpful things can prove to be your death.\n\nUncover the Truth What actually lies at the end of this journey ? And what becomes of you if you are to succeed?",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://steamrip.com/wp-content/uploads/2026/11/casualties-unknown-steamrip.jpg",
+      "https://steamrip.com/wp-content/uploads/2026/11/casualties-unknown-screenshots-steamrip.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10",
+      "Processor": "Intel Core i3-8130U 2.20 GHz",
+      "Storage": "500 MB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Simulation",
+      "Developer": "Orsoniks",
+      "Platform": "PC",
+      "Game Size": "400 MB",
+      "Released By": "Mr_GOLDBERG emu",
+      "Version": "Build 26525321 | Full Version"
+    },
+    "size": "400 MB",
+    "languages": "ENG",
+    "bzzhr_url": null,
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
   }
 ]
