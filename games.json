@@ -246457,11 +246457,22 @@
   {
     "title": "Terrible Lizards",
     "url": "https://steamrip.com/terrible-lizards-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "YOU SHOULD NOT BE HERE Something is very wrong at Dalton’s Dinos, the once must-see Route 66 roadside attraction baking under the New Mexico sun. The staff have vanished, but a mysterious voice on the telephone you find in the attraction begs you for help to find a missing child. You’d leave… if your car hadn’t died miles from anywhere. It’s 1992. No cell phones. No rideshares. No help coming, and you’ll soon find that you are not alone inside the attraction. You’ll encounter monstrous creatures that will hunt, chase, and torment you. Take a moment to catch your breath, it may be your last. RUN. CLIMB. SURVIVE. Terrible Lizards blends horror with first‑person parkour, creating a relentless chase experience that feels intuitive to learn and has a lot to master. You’ll be hunted by creatures that stalk the abandoned dino depot. They shamble and charge toward you, forcing you to run, jump, climb, wall run, bounce, and slide to survive. There are no weapons except your wits. FEATURES Horror Meets Parkour: Outrun unstoppable creatures using fluid, momentum‑driven movement. A Mystery Buried: Explore this crumbling roadside attraction and discover the nightmares below it. No Weapons: Outsmart and outmaneuver your pursuers, combat is not an option. Environmental Storytelling: Collect tapes, notes, and recordings to uncover the truth behind Dalton’s Dinos.",
+    "cover_image": "https://i5.imageban.ru/out/2026/11/13/3a31415e510fecdddff3df9afb6c2d18.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2920220/fe2a2fe0bff165dabe7b5b2af5670921eb890669/ss_fe2a2fe0bff165dabe7b5b2af5670921eb890669.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2920220/9642a54eef8c7f40eefe02ada8c67173313cf229/ss_9642a54eef8c7f40eefe02ada8c67173313cf229.1920x1080.jpg"
+      "https://en.riotpixels.com/games/terrible-lizards/screenshots/11/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/terrible-lizards/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/terrible-lizards/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/terrible-lizards/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/terrible-lizards/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/terrible-lizards/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/terrible-lizards/screenshots/",
+      "http://s01.riotpixels.net/data/07/94/0794e98f-01de-4ca3-84ac-76d940ead111.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/75/7a/757ae7e8-3e36-4818-9772-6c819f35d9e7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c0/77/c0777ec5-21e8-4915-970d-ce4acf41e1f5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8c/00/8c0090c1-c1a3-4674-86f4-f3a052bd06e6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1e/28/1e28578e-2922-4e80-bbfb-9c78af12ffe7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ad/12/ad129668-d0a3-4410-927d-5dbe523f60ee.jpg.240p.jpg"
     ],
     "system_requirements": {
       "OS": "Windows 10",
@@ -246483,15 +246494,21 @@
     "size": "14.8 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/83nsvzibdwm5",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/terrible-lizards/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Action",
+      "Jump and run",
+      "First-person",
+      "3D",
+      "Horror"
+    ],
+    "company": "Behaviour Interactive, WDR Studios, Digital Pajamas",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/2920220/2122947371/3b7e0004e17c3682e9da88fa6d5b0f79423d1df7/1793054955/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "HYPNOS",
@@ -248666,6 +248683,123 @@
     "updates": [],
     "video": null,
     "source_cover": "fitgirl",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Invokyr",
+    "url": "https://steamrip.com/invokyr-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3883570/b28d710fbb4c40688570539f1f087f2c8dd02af3/ss_b28d710fbb4c40688570539f1f087f2c8dd02af3.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3883570/3086ecbba0553761fe796cb7863daaca7f1b66dc/ss_3086ecbba0553761fe796cb7863daaca7f1b66dc.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "64-bit Windows 10",
+      "Processor": "Inter Core i5-7500 Or AMD Ryzen 5 1600",
+      "Memory": "16 GB RAM",
+      "Graphics": "Nvidia GeForce GTX 1650 Or AMD Radeon RX 580",
+      "DirectX": "Version 11",
+      "Network": "Broadband Internet connection",
+      "Storage": "5 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Indie, Simulation, Free To Play, Early Access",
+      "Developer": "Ludogram",
+      "Platform": "PC",
+      "Game Size": "4 GB",
+      "Released By": "Unsteam + CSF",
+      "Version": "Build 26485130"
+    },
+    "size": "4 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/9kg3yg7oyjzd",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Incremental Traffic",
+    "url": "https://steamrip.com/incremental-traffic-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5475960/50f7cba23085ea0b7bb2644d2ec4fb5c97d07153/ss_50f7cba23085ea0b7bb2644d2ec4fb5c97d07153.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5475960/d72b39013cf4dac33c0988ed437cb9d272a9bb2e/ss_d72b39013cf4dac33c0988ed437cb9d272a9bb2e.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 64-bit",
+      "Processor": "Dual-core 2.5 GHz with SSE4.2 (Intel Core i3-4130 / AMD FX-4300)",
+      "Memory": "4 GB RAM",
+      "Graphics": "Vulkan 1.0 compatible GPU: NVIDIA GeForce GTX 650 / AMD Radeon HD 7750 / Intel HD Graphics 520",
+      "Storage": "500 MB available space"
+    },
+    "game_info": {
+      "Genre": "Casual, Simulation",
+      "Developer": "Rischer Kriebl",
+      "Platform": "PC",
+      "Game Size": "445.6 MB",
+      "Released By": "Goldberg Exp + CSF",
+      "Version": "Build 26624771"
+    },
+    "size": "445.6 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/h2gvpvsx3tai",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Cozy Game Restoration",
+    "url": "https://steamrip.com/cozy-game-restoration-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3581230/9dceadf5daba17712fa5daafe87d35aa3de066ec/ss_9dceadf5daba17712fa5daafe87d35aa3de066ec.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3581230/0d1a544f96809ba95fa92bcac46e4554bf0a39f7/ss_0d1a544f96809ba95fa92bcac46e4554bf0a39f7.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10 and Windows 11",
+      "Processor": "X64 architecture",
+      "Memory": "8 GB RAM",
+      "Graphics": "Intel Graphics 4400 or better",
+      "DirectX": "Version 10",
+      "Storage": "6 GB available space",
+      "Sound Card": "I guess you could skip sound if you had to",
+      "Additional Notes": "A mouse with 2 buttons + scroll wheel is needed for camera control."
+    },
+    "game_info": {
+      "Genre": "Casual, Simulation",
+      "Developer": "Parasol Corp",
+      "Platform": "PC",
+      "Game Size": "2 GB",
+      "Released By": "Goldberg + CSF",
+      "Version": "Build 26629260"
+    },
+    "size": "2 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/uf1r3fnyjz57",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
     "source_screenshots": "steamrip",
     "source_description": "steamrip"
   }
