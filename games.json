@@ -242743,11 +242743,22 @@
   {
     "title": "Witch Cabin Cleanup",
     "url": "https://steamrip.com/witch-cabin-cleanup-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Witch’s Cabin Cleanup is a cozy organizing simulator about putting a cluttered witch’s cabin back in order. Sort 5,313 curios across 6 rooms: the apothecary, the library, the greenhouse, the ritual chamber, and more. All at your own pace. A Relaxing Witch’s Cabin Organizing Simulator The cabin is a mess, and the magic only made it worse. Return everything to its proper shelf at your own pace, with no timers and no pressure. Pick up each item: a potion vial, a loose spellbook, or a jar of moth wings, find the room and shelf it belongs on, and set it in place. Work through the cabin one shelf at a time. Earn upgrades as you play. Move faster, reach farther, and unlock a few small spells: a levitation charm, a banishing wand, that make tidying the cabin quicker. Cluttered shelves fill with neat rows of labelled jars, and the tangled herb rack settles into order. Each finished room shows clear progress. Key Features Sort more than 5,300 curios across 6 rooms of a witch’s cabin Simple gameplay: pick things up and put them back where they belong Skill upgrades for speed and reach, plus a few magical abilities No time limits and no game over. A relaxed pace you set yourself",
+    "cover_image": "https://i1.imageban.ru/out/2026/11/14/5e5ac787a52fd54ef7f00416a1e3333c.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4991240/e335cf5f8a7161f957dab1357f8f8bfa86871be8/ss_e335cf5f8a7161f957dab1357f8f8bfa86871be8.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4991240/ad4ff05393fd615a5247231e8f37aac6ecdcc96b/ss_ad4ff05393fd615a5247231e8f37aac6ecdcc96b.1920x1080.jpg"
+      "https://en.riotpixels.com/games/witch-cabin-cleanup/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/witch-cabin-cleanup/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/witch-cabin-cleanup/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/witch-cabin-cleanup/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/witch-cabin-cleanup/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/witch-cabin-cleanup/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/witch-cabin-cleanup/screenshots/",
+      "http://s01.riotpixels.net/data/ac/10/ac109d3e-bf2c-48fb-ab18-af0d37f6fa3c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f4/02/f402070e-b896-470a-a397-828cbbfdb9d0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/58/6d/586d4a06-cdcd-4407-86e7-9aac4503f493.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/11/a9/11a9fca3-b907-46dc-bcf1-8c24b55cdd58.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/26/24/262483d4-90a5-4ccf-9722-6dd6de21d73c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d2/67/d26796a2-a4bf-40aa-81ad-280ceac351f1.jpg.240p.jpg"
     ],
     "system_requirements": {
       "OS": "Windows 10+",
@@ -242767,15 +242778,21 @@
     "size": "3.4 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/ngrtu6p8ax8s",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/witch-cabin-cleanup/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Lifestyle",
+      "Logic",
+      "Hidden object",
+      "First-person",
+      "3D"
+    ],
+    "company": "Cleanup Crew!",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/4991240/998711315/c38532095ca3b4846ad594037f011347f2f539dc/1792138078/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "Bluey’s Happy Snaps",
@@ -243501,11 +243518,22 @@
   {
     "title": "The Witch’s Bakery",
     "url": "https://steamrip.com/the-witchs-bakery-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "The Witch’s Bakery is a cozy narrative Adventure RPG about a joyful witch who opens her bakery in modern Paris . She has one special power: she can see into people’s heart and heal their emotions through magic! YOUR DAILY LIFE AS A WITCH-BAKER IN PARIS! You play as Lunne, who has just arrived in the city! Each day is split into three phases: Daytime , where Lunne works in the bakery and helps customers through their troubles with a little magic. Evening , where Lunne explores Paris, builds relationships, discovers the city’s secrets and goes inside her friends’ troubled hearts. Night , where Lunne rests, improves her magic, decorates her bakery and spends time in her cosy atelier. The story progresses through the days as you earn experience, money, and fame, meet new friends and heal their heart. A COLORFUL PARIS IN A JOYFUL ADVENTURE! Once your work day is done, you can visit several districts of Paris to meet with main characters , engage in activities to get to know them , buy books for new recipes , etc. The above example is “Le Quai des Bouquinistes” located in the 6th arrondissement of Paris! This place is known for its book sellers and its collectors of various entertainment goods, like vinyls, posters, old magazines… But also, of course, for the beautiful Notre-Dame. Each district has its own characters, activities and shops! A STORY ABOUT EMOTIONS AND VULNERABILITY For some people, their emotion is locked away so strongly than Lunne needs to go inside their heart to help them. She enters their “Heart Palace” , a magical space where emotions and thoughts take shape . Lunne needs to guide the personified Emotion back to the Heart’s Cradle . Inside the Heart Palace, Lunne discovers the person’s deepest struggles and finds the key ingredient she needs to make a bread that will heal them ! ABOUT SUNNY LAB We are an indie team of experienced developers from France ! We have gathered to create hopeful stories , filled with lovable characters, happy smiles and deep emotional journeys . We are always reachable on our socials @SunnyLabGames! We are so happy to share our first game “The Witch’s Bakery” with you! We are still at the beginning of production and we’ll be sharing all our progress with you! Feel free to ask us any question! THE WITCH’S BAKERY DISCORD SERVER Join our community of bakers on The Witch’s Bakery Discord! It’s the best place to find all the latest news regarding the game and where you can find a community of likeminded people to chat to. You can find the link to join the server in the FAQ pinned in the Steam Discussions page!",
+    "cover_image": "https://i4.imageban.ru/out/2026/11/14/666cfc89596869a8427973ec8c2cbbcd.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2967950/65153ec92bf5d491806068df529356be9918643b/ss_65153ec92bf5d491806068df529356be9918643b.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2967950/bbb65a39cfe1dfd4b2d9ae8c4897cb871cff75b9/ss_bbb65a39cfe1dfd4b2d9ae8c4897cb871cff75b9.1920x1080.jpg"
+      "https://en.riotpixels.com/games/witchs-bakery/screenshots/16/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/witchs-bakery/screenshots/15/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/witchs-bakery/screenshots/13/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/witchs-bakery/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/witchs-bakery/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/witchs-bakery/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/witchs-bakery/screenshots/",
+      "http://s01.riotpixels.net/data/32/7d/327d9a4e-6fd2-430a-acc3-668d8228efd6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/eb/1c/eb1ce214-12a5-433f-ae42-86fbe0281299.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ac/63/ac639426-6f99-4dac-8e5a-976ac5a0fc2c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/85/40/8540f542-ea9a-4cc1-8dac-664c6e13972d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d3/7b/d37b95e1-bc18-4f6e-b977-0977e3d4c3e1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e2/7f/e27fb2a1-5122-4e79-ac5d-815e58c9addd.jpg.240p.jpg"
     ],
     "system_requirements": {
       "notes": "Requires a 64-bit processor and operating system",
@@ -243527,15 +243555,19 @@
     "size": "2.6 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/bvhfsvh48gte",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/the-witchs-bakery/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Adventure",
+      "Side",
+      "2D"
+    ],
+    "company": "Silver Lining Interactive, Sunny Lab",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/2967950/1624422952/e55cc336a3560a298391b62921bc72b015e1b76f/1791974196/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "Chinese Parents",
@@ -247208,11 +247240,20 @@
   {
     "title": "SURI: The Seventh Note",
     "url": "https://steamrip.com/suri-the-seventh-note-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Rhythm is Life and Law Rhythm is everything on the island of Suri, and when its harmony is broken, the land dances to a darker pulse. Play as Ajira , a young girl fast and fearless, on her quest to find a fruit that can save her mother from the illness that killed her father. But what begins as a simple trek through a forest, becomes a journey to restore the rhythmic balance of the island, and with it, life itself. In SURI: The Seventh Note, rhythm isn’t decoration, but the law of nature. Learn its patterns. Trust its timing. When you move with the beat, the island moves with you Game Features Rhythm-Driven Action – Run, jump, and phase in sync with the soundtrack. The world reacts to your timing, and missing the beat means losing your flow. Cinematic Escape Sequences – Push your reflexes through handcrafted chases where gameplay and music fuse into one. Evolving Abilities – Unlock rhythm-infused powers that expand your movement and combat as you learn to master the beat. A World That Breathes Music – From quiet ruins to chaotic arenas, each level is composed like a song with its own tempo, tone, and emotion.",
+    "cover_image": "https://i8.imageban.ru/out/2026/11/15/3099de17e9261b860304f464a4910d0f.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4110680/a3b52b620197679b50b36a90d97a6d53d86bf076/ss_a3b52b620197679b50b36a90d97a6d53d86bf076.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4110680/53fcaefcce4779b212c338eb9760da1edb7b34ef/ss_53fcaefcce4779b212c338eb9760da1edb7b34ef.1920x1080.jpg"
+      "https://en.riotpixels.com/games/suri-the-seventh-note/screenshots/",
+      "https://en.riotpixels.com/games/suri-the-seventh-note/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/suri-the-seventh-note/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/suri-the-seventh-note/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/suri-the-seventh-note/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/suri-the-seventh-note/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/85/ea/85eae527-7c08-48cd-9c2e-cebcdb1a3021.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/01/ad/01adca5d-7d89-4c9c-be9a-08eeb6ab7593.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8d/36/8d36ee65-c00e-4b52-a5f1-2c32b7c69c34.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1e/e7/1ee7dc84-6223-434b-8488-326629dbce14.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1f/13/1f1366d7-3dc2-4ecf-bdd5-62a9c5326def.jpg.240p.jpg"
     ],
     "system_requirements": {
       "notes": "Requires a 64-bit processor and operating system",
@@ -247234,15 +247275,21 @@
     "size": "4.4 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/2gjuejr6uzm2",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/suri-the-seventh-note/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Arcade",
+      "Jump and run",
+      "Rhythm",
+      "Side",
+      "2D"
+    ],
+    "company": "Tathvamasi Studios",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/4110680/1792847688/9332d68c858f34300006b3287925908140257c44/1793161637/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "Godzilla: Destroy All Monsters Melee Remastered",
@@ -248802,5 +248849,677 @@
     "source_cover": "steamrip",
     "source_screenshots": "steamrip",
     "source_description": "steamrip"
+  },
+  {
+    "title": "Enotria: The Last Song",
+    "url": "https://steamrip.com/enotria-the-last-song-free-download-2/",
+    "description": "“Enotria: The Last Song” is a thrilling Soulsike set in a sun-lit land inspired by Italian folklore and filled with danger. The world has been gripped by the Canovaccio – a twisted eternal play that keeps everything in an unnatural stasis. You, Maskless One, are the only one without a given role and master of your destiny. Defeat the fearsome Authors that created it and free the world from stagnation, by harnessing the power of Ardore. Become the Mask of Change. Summer Souls 3 Main Regions, 40+ hours, more than 100 different enemies Enotria is a beautiful sun-lit land inspired by Italian nature, that hides dark secrets behind its bright facades, and it is up to you to unravel the mysteries of this stunning world. Many Masks, One Face 30+ Masks. Don your fallen foes’ Masks to take on their roles, enabling new ways to play, each with its own strengths and weaknesses. Swap between up to 3 customisable Loadouts at any time. Path of Innovators 68 Skills (Unlockable PERKS), with 150+ milions different build combinations. Expand your playstyle options through a unique pool of talents in the Path of Innovators. Slot talents into Masks to create custom builds on a single screen, experience a unique system that makes theorycrafting and altering playstyle for each situation easier than ever. Unparalleled Flexibility 30+ aspects to alter your main statistics dynamically. Choose strategically which Mask will face the dangers of Enotria and swap between up to three custom loadouts at any time. Each loadout allows you to try out a new playstyle, without the burden of a respec. Alter Reality 3 different type of Rifts. Channel the power of Ardore to dynamically alter reality. Swap strategically between environmental states to solve puzzles, reveal secrets, traverse a decaying world and gain a strategic edge in battles. Awaken your Potential 120+ weapons, 8 different weapon classes, 45 spells, 8 parry modifiers Break an enemies posture to enable a devastating riposte attack, which grants you the mighty Awakened buff. Chain kills and swap between Masks to alter the boons you receive to best match the opponent. Game Features Wield Ardore to alter the world around you Stay on the offensive with quicksteps and chainable parries Strike foes to charge powerful magical Lines Strategically swap between up to three Loadouts at any time Break an enemies posture for a devastating attack, granting you a mighty Awakened buff Reveal the secrets of Enotria to gain Inspiration & unlock new perks in the Path of Innovators",
+    "cover_image": "https://i5.imageban.ru/out/2024/09/17/a9dde93480894b636f4bfb9e66c04e9f.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/enotria-the-last-song/screenshots/12/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/enotria-the-last-song/screenshots/11/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/enotria-the-last-song/screenshots/9/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/enotria-the-last-song/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/enotria-the-last-song/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/enotria-the-last-song/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/enotria-the-last-song/screenshots/",
+      "http://s01.riotpixels.net/data/66/15/661590ac-3950-4c84-8643-0448183d0114.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4a/27/4a2778ff-caac-4ef4-8d53-66ab7b6a12a2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/89/7f/897fb3aa-e81f-4479-b8aa-6f1841976796.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/61/0c/610ce6c8-8e37-4073-a99c-7a787e91fc42.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/97/af/97afef5f-05a1-4795-9421-c60ec9c14288.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8a/b1/8ab1cfc8-5f0c-454e-812a-cf504a022d54.jpg.240p.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2102450/extras/RiposteV3.gif"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "64-Bit Windows 10",
+      "Processor": "Intel Core i5-6600 (3.3Ghz) or AMD Ryzen 5 1400 (3.2Ghz)",
+      "Memory": "16 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 1080 6GB or AMD Radeon RX 580 8GB",
+      "DirectX": "Version 12",
+      "Storage": "50 GB available space",
+      "Additional Notes": "720p/30 fps, Low Quality Settings"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Indie, RPG",
+      "Developer": "Jyamma Games",
+      "Platform": "PC",
+      "Game Size": "12.7 GB",
+      "Released By": "RUNE",
+      "Version": "Build 25800245"
+    },
+    "size": "12.7 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/gvbfprs6qadk",
+    "fitgirl_url": "https://fitgirl-repacks.site/enotria-the-last-song/",
+    "fitgirl_matched": true,
+    "genres": [
+      "RPG",
+      "Action RPG",
+      "Third-person",
+      "3D"
+    ],
+    "company": "Jyamma Games",
+    "updates": [
+      {
+        "name": "Enotria.The.Last.Song.Update.v1.008-RUNE.rar",
+        "url": "https://filecrypt.cc/Container/5B90930C0D.html"
+      },
+      {
+        "name": "Enotria.The.Last.Song.Update.v1.010-RUNE.rar",
+        "url": "https://filecrypt.cc/Container/F15088A417.html"
+      },
+      {
+        "name": "Enotria_Update_from_v28161_to_v28601-ElAmigos.rar",
+        "url": "https://filecrypt.cc/Container/ADA1A7208C.html"
+      },
+      {
+        "name": "Enotria_Update_from_v28601_to_v29335-ElAmigos.rar",
+        "url": "https://filecrypt.cc/Container/5C11ED2B94.html"
+      }
+    ],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Frontier Tale",
+    "url": "https://steamrip.com/frontier-tale-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4829780/329a1e9ba0fd5a9fa1faea058a3dfd0dd65e3fe8/ss_329a1e9ba0fd5a9fa1faea058a3dfd0dd65e3fe8.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4829780/23f500238850644796c12f0d344b01da1f7e0170/ss_23f500238850644796c12f0d344b01da1f7e0170.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10+",
+      "Processor": "Intel(R) Core(TM) i3-3220",
+      "Memory": "8 GB RAM",
+      "Graphics": "1Gb Video Memory, Capable of OpenGL 3.0+ Support",
+      "Storage": "8 GB available space"
+    },
+    "game_info": {
+      "Genre": "Adventure, Casual, Indie, RPG, Simulation",
+      "Developer": "APOPHIS GAME STUDIO",
+      "Platform": "PC",
+      "Game Size": "1.5 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 26641453"
+    },
+    "size": "1.5 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/798s9pk8infk",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "After the Wane",
+    "url": "https://steamrip.com/after-the-wane-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2742720/c4060565d1f698d05c4968fa8ea3d7d441e09870/ss_c4060565d1f698d05c4968fa8ea3d7d441e09870.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2742720/d9b67de9867a349a18998ca515c88877fd5298ad/ss_d9b67de9867a349a18998ca515c88877fd5298ad.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows 7 Service Pack 1 or later (64bits only)",
+      "Processor": "2.0 Ghz (with SSE2 instruction set support)",
+      "Memory": "2 GB RAM",
+      "Graphics": "Integrated or dedicated graphic card with 512MB of VRAM",
+      "Storage": "2 GB available space"
+    },
+    "game_info": {
+      "Genre": "Indie",
+      "Developer": "Nova-box",
+      "Platform": "PC",
+      "Game Size": "2.4 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 26540364"
+    },
+    "size": "2.4 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/w5xscb2oismr",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Hazard Levels",
+    "url": "https://steamrip.com/hazard-levels-free-download/",
+    "description": "Hidden deep below the Fox Hole Arms, a research division known only as The Family sends recruits into unstable interdimensional rifts to harvest rare and bizarre ingredients. Step into the unknown alone or with up to three friends as you explore unpredictable rift dimensions, evade the creatures within, and grab whatever strange loot you can carry. 1–4 PLAYER CO-OP HORROR WITH PROX CHAT Play solo or with up to three friends to tackle the horrors of each rift. Coordination is key, survival is not guaranteed. Proximity voice chat enabled. Supports both third and first person play. PROCEDURALLY GENERATED RIFT DIMENSIONS No two expeditions are the same. Each rift generates new biomes, shifting layouts, randomised hazards, and escalating threats that force your team to adapt. PHYSICS-BASED LOOTING Use the Gravity Gauntlet to grab, carry, and throw multiple objects at once. Harvest bizarre rift-grown ingredients and sell them at rift stations while surviving the creatures that stalk each dimension. BREW SPECIAL DRINKS After a hard day’s work, bring back your otherworldly ingredients to brew at Brewdragon’s Secret Brewery. Complete orders to develop and level up the potency of your brews. Some grant powerful abilities… others cause complete chaos. FIGHT TO SURVIVE Terrifying creatures lurk within every dimension. Study their behaviour, learn their weaknesses, and use your weapons strategically to survive deadly encounters. Choose when to fight and when to keep your distance. RIFT SCANNING & PORTALS Use your state-of-the-art Rift Scanner to locate dimensional anomalies, then deploy a Rift Stabilising Device to tear open unstable portals. Step through and discover what waits on the other side. THE FOX HOLE ARMS Your HQ is a traditional British pub hiding the Family’s secret R&D facility. Between expeditions customise your outfit, mix perk drinks, review mission intel, or drop a coin in the jukebox. Just don’t piss off the Landlord. Included DLCs: Myths & Legends Dragon Myths & Legends Unicorn Myths & Legends Minotaur Myths & Legends Kitsune Myths & Legends Kelpie",
+    "cover_image": "https://i1.imageban.ru/out/2026/11/15/713a8c1fa3fadd11c2382a4f4dcbe7c6.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/hazard-levels/screenshots/19/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/hazard-levels/screenshots/16/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/hazard-levels/screenshots/15/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/hazard-levels/screenshots/14/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/hazard-levels/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/hazard-levels/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/hazard-levels/screenshots/",
+      "http://s01.riotpixels.net/data/8e/d6/8ed68ea2-0708-46b2-8946-90641efd6c6d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8f/fa/8ffaad47-c0c1-479b-965e-d1d8b6165cc5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9f/28/9f284bec-c348-4f54-8bb9-f10bbcefc60d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f8/2c/f82cabdd-52cc-4433-8938-bdc73068f96b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d5/7a/d57a0527-ffb3-46dc-ad7b-eb8d858dad26.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/96/29/962911f1-1229-4309-bbe2-8bd6e73631ac.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "Windows 7, 8.1, 10 (64-bit required)",
+      "Processor": "Intel Core i5-4460 / AMD FX-6300",
+      "Memory": "8 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 760 / AMD Radeon R7 260x with 2GB Video RAM",
+      "DirectX": "Version 11",
+      "Storage": "15 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Casual, Indie",
+      "Developer": "Wales Interactive",
+      "Platform": "PC",
+      "Game Size": "9.1 GB",
+      "Released By": "RUNE",
+      "Version": "Build 26652097"
+    },
+    "size": "9.1 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/eg2h8uhmgs7i",
+    "fitgirl_url": "https://fitgirl-repacks.site/hazard-levels/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Action",
+      "Shooter",
+      "Third-person",
+      "3D"
+    ],
+    "company": "Wales Interactive",
+    "updates": [],
+    "video": "https://video.fastly.steamstatic.com/store_trailers/1374680/548762510/010587ef7b03a93455e7b96bc40ddf0a57798570/1791280079/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Hope in the City",
+    "url": "https://steamrip.com/hope-in-the-city-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3610790/c9b76ec1637907eb5432eb1a9c8060b9abaccae2/ss_c9b76ec1637907eb5432eb1a9c8060b9abaccae2.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3610790/38ece4268ccbced462cfc5c537abace5f33deacd/ss_38ece4268ccbced462cfc5c537abace5f33deacd.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Windows 7 (64 bit)",
+      "Processor": "i7 2600k",
+      "Memory": "4 GB RAM",
+      "Graphics": "GeForce GTX 560",
+      "DirectX": "Version 9.0",
+      "Storage": "3 GB available space"
+    },
+    "game_info": {
+      "Genre": "Adventure, Indie",
+      "Developer": "Lofty Sky Entertainment Inc.",
+      "Platform": "PC",
+      "Game Size": "8.4 GB",
+      "Released By": "RUNE",
+      "Version": "Build 26653160"
+    },
+    "size": "8.4 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/ezy7yd9mzepa",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Fall of an Empire",
+    "url": "https://steamrip.com/fall-of-an-empire-free-download/",
+    "description": "The empire is dying. You’ve seized the throne. Survival is victory. Seize control of an ailing empire, clinging to echoes of its former glory. Unlike traditional grand strategy games of expansion and conquest, Fall of an Empire challenges you to manage an empire on the brink of collapse. Face invading barbarian hordes, manage internal revolts, and engage in relentless political intrigue. Your rule will not last forever. How long can you defy history and halt its decline? Command an Empire in Decline – You have seized power in a violent coup, crowning yourself Emperor of a crumbling realm. Millions await your orders, but your legions are stretched thin, your coffers are empty, and your provinces are rife with unrest. It is up to you to defy history and extend the life of your empire through iron will, cunning politics, and brilliant strategy. Master Treacherous Politics & Intrigue – Manage a living world filled with unique, simulated characters – senators, generals, governors, and spies. Each character has their own evolving traits, personal ambitions, and loyalties. Exploit rivalries, uncover conspiracies, and forge fragile alliances to keep your throne. Reward your loyalists with power or eliminate threats in cold blood. Rule a Massive, Living World – Exercise dominion over hundreds of settlements and millions of subjects across a sprawling, dynamic map. Build fortifications, manage resources and oversee simulated convoy supply lines on the map itself, allowing you to orchestrate raids and bolster your coffers. Watch cities visibly grow… or burn. Navigate changing seasons that test your logistics, from famine-inducing winters to bountiful harvests in the springs. Experience Truly Immersive Stories – Dynamic storylines take your whole empire into account. When your capital burns, your court knows. When your loyal general grows old and bitter, his betrayal will make sense. No two playthroughs tell the same story. Fight on Every Front – Engage in a unique hybrid battle system combining real-time strategy with timed turn-based decision-making. Direct your armies across multiple fronts simultaneously, then zoom into key battles to make crucial tactical calls that can turn the tide. Survive at Any Cost – Your empire is destined to fall, but your legacy is measured by how long you’re able to halt your empire’s decline. Allocate dwindling resources, maintain fragile order, and respond to ever-shifting threats in a brutal test of strategic endurance. The fate of millions rests in your hands. How long can you hold back the Fall of an Empire? Game Features Survival through cunning strategy. Deep character-driven gameplay. An expansive living world. Advanced resource management. Real-time hybrid battle system.",
+    "cover_image": "https://i4.imageban.ru/out/2026/03/05/757560472bcbb27cf3744b74528fbb3f.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/fall-of-an-empire/screenshots/12/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/fall-of-an-empire/screenshots/11/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/fall-of-an-empire/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/fall-of-an-empire/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/fall-of-an-empire/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/fall-of-an-empire/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/fall-of-an-empire/screenshots/",
+      "http://s01.riotpixels.net/data/da/e8/dae81d12-a3f5-4895-a18e-3411d289c531.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a5/46/a54636d9-164d-4325-be3f-53efbf256123.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0d/2d/0d2d072f-896a-4df4-8c3a-f1c00a0a28be.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a8/a7/a8a75629-167a-4471-944e-7a2cbcb63819.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d8/f2/d8f20fca-458b-4603-824b-4ac2f0e1647a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/35/0d/350d7c65-81ab-45fa-ba70-fa5734e0667d.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10",
+      "Processor": "Core i3 2.4GHz",
+      "Memory": "16 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 750",
+      "DirectX": "Version 12",
+      "Storage": "15 GB available space"
+    },
+    "game_info": {
+      "Genre": "RPG, Simulation, Strategy",
+      "Developer": "JG Games",
+      "Platform": "PC",
+      "Game Size": "19.9 GB",
+      "Released By": "RUNE",
+      "Version": "Build 26611591"
+    },
+    "size": "19.9 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/cqsl041ada6p",
+    "fitgirl_url": "https://fitgirl-repacks.site/fall-of-an-empire/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Strategy",
+      "Grand strategy",
+      "Wargame",
+      "Simulation",
+      "Real-time"
+    ],
+    "company": "JG Games",
+    "updates": [
+      {
+        "name": "Fall.of.an.Empire.Update.v2.05.4-RUNE (2 parts)",
+        "url": "https://filecrypt.cc/Container/1B1CD2BDBE.html"
+      }
+    ],
+    "video": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1830290/extras/eace91e6195289d9161d383000e51179.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Revenge of the Mage",
+    "url": "https://steamrip.com/revenge-of-the-mage-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2287150/dd3274c242513d7c1b7b8d169c87d2a3b84145ee/ss_dd3274c242513d7c1b7b8d169c87d2a3b84145ee.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2287150/0c8fab0437890e8784d37e8b9406ff0ea54a5d58/ss_0c8fab0437890e8784d37e8b9406ff0ea54a5d58.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS *": "64-bit Windows 7, Windows 8.1, Windows 10",
+      "Processor": "Intel Core i5-6600K",
+      "Memory": "16 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 1070",
+      "DirectX": "Version 11",
+      "Network": "Broadband Internet connection",
+      "Storage": "5 GB available space",
+      "Sound Card": "No recommendation",
+      "Additional Notes": "We recommend installing it on an SSD for better performance."
+    },
+    "game_info": {
+      "Genre": "Action, Casual, Indie, RPG",
+      "Developer": "SinginGiant",
+      "Platform": "PC",
+      "Game Size": "8.3 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 26593332"
+    },
+    "size": "8.3 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/d5iw7m93vvbt",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "STAR WARS: Galactic Racer",
+    "url": "https://steamrip.com/star-wars-galactic-racer-free-download/",
+    "description": "Star Wars : Galactic Racer is a runs-based, high-stakes reinvention of racing born in the lawless Outer Rim of the Star Wars galaxy. The Empire’s grip on the galaxy has finally broken, and with its fall comes a new obsession: speed. As the New Republic struggles to rebuild, gambling, entertainment, and glory fuel a booming underground. Out of this chaos, the Galactic League is born: an unsanctioned racing circuit where syndicates sponsor pilots, fortunes are won and lost in seconds, and only the bold survive. No Force. No prophecy. Just skill, strategy, and the will to rise. Slam, shunt, and takedown rivals across varied circuits as you pilot landspeeders, speeder bikes, skim speeders, and podracers. The greater the risk, the greater the reward. Join the Galactic League – an unsanctioned racing circuit born in the lawless Outer Rim. Become Shade, a lone racer chasing revenge and glory. Pilot different classes of repulsorcraft each with distinct physics and playstyles. Build a ride that showcases your style and gives you a competitive edge. Ride solo through a story-driven campaign of shifting alliances or brave strategic PvP grudge matches where reputation rides with you. Prove yourself through intense rivalries and escalating challenges. Every choice shapes your prospects as you build your status in the Galactic League .",
+    "cover_image": "https://i1.imageban.ru/out/2026/11/13/8f6f3913e84798d0fcffbfc4ee07affb.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/star-wars-galactic-racer/screenshots/10/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/star-wars-galactic-racer/screenshots/9/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/star-wars-galactic-racer/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/star-wars-galactic-racer/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/star-wars-galactic-racer/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/star-wars-galactic-racer/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/star-wars-galactic-racer/screenshots/",
+      "http://s01.riotpixels.net/data/22/c5/22c55381-56e7-4e47-91ca-64adb9247030.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/44/49/4449fb23-671f-427a-9864-d8f899bfbb0a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2d/b4/2db41fdd-0a2f-46b6-b08e-944401ef075f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2d/41/2d41051a-930f-4cdf-bcd3-b0a0b8ca9f64.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/92/18/9218b3ec-29da-4f85-98e1-e70da78c2228.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/37/66/37666fc2-4afa-4c63-92a7-ed759eb9a2b9.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10",
+      "Processor": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+      "Memory": "12 GB RAM",
+      "Graphics": "Nvidia RTX 2060 / Intel Arc A580 / AMD Radeon RX 5600 XT 6GB",
+      "Storage": "50 GB available space",
+      "Additional Notes": "SSD Required"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Racing, Simulation, Sports",
+      "Developer": "Fuse Games",
+      "Platform": "PC",
+      "Game Size": "34.8 GB",
+      "Released By": "voices38",
+      "Version": "Build 26133805"
+    },
+    "size": "34.8 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/std3jctzb6nc",
+    "fitgirl_url": "https://fitgirl-repacks.site/star-wars-galactic-racer/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Arcade",
+      "Racing",
+      "Star Wars",
+      "Vehicular combat",
+      "First-person",
+      "Third-person",
+      "3D"
+    ],
+    "company": "Fuse Games, Secret Mode",
+    "updates": [],
+    "video": "https://video.fastly.steamstatic.com/store_trailers/4078430/2113656610/1ad3486cb98d413f61b81b334d26fd4779fff6ae/1780485725/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Novus Orbis",
+    "url": "https://steamrip.com/novus-orbis-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2437330/ss_c56a7a32bb015b8e726cd5310160d2e8a2c93ee6.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2437330/ss_1e7dc3e174bc2aa2f81b9ec71bf9ccb0411ad05d.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS *": "Windows 7, 8/8.1, 10, 11",
+      "Processor": "2.0 Ghz",
+      "Memory": "2 GB RAM",
+      "Graphics": "1GB Video Memory",
+      "Storage": "500 MB available space"
+    },
+    "game_info": {
+      "Genre": "Adventure, RPG, Strategy",
+      "Developer": "Seizo Games",
+      "Platform": "PC",
+      "Game Size": "2.4 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 26661171"
+    },
+    "size": "2.4 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/sqivbpw4k9q6",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Slotbound",
+    "url": "https://steamrip.com/slotbound-free-download/",
+    "description": "Master your luck or be consumed by it! Slotbound is a solo-developed roguelite defense game that fuses explosive 3×3 slot machine jackpots with deep autobattler strategy . Pull the lever to summon units, trigger massive synergies, and crush endless waves of enemies. It’s time to put your luck and intellect to the ultimate test Trakonius\n\nPull the Lever! Say Goodbye to Ordinary Defense Games! Tired of the same old tower defense? We’ve injected pure dopamine into the very core of combat preparation. Spin the 3×3 slot machine, match the lines, and summon your units. Feeling unlucky? Don’t panic. There’s nothing quite like the thrill of a single, desperate spin triggering a massive jackpot, filling the screen and summoning a legendary Prism unit to save the day.\n\nAbsorb, Evolve, and Reign Supreme There’s no such thing as a useless unit on this battlefield. Weaker units are sacrificed to feed the strong, becoming their flesh and blood. Watch an ordinary 1 star Warrior ascend into a stronger unit. Your branching class choices will completely shift the tide of battle .\n\nInfinite Synergies That Overpower Pure Luck This isn’t just a mindless slot machine where you leave everything to chance. Every time a unit spawns, it rolls from dozens of ‘Random Stats’. Combine these with unique unit ‘ Imprints ‘, powerful Items, and game-changing Cores. Trigger explosive Core synergies through meticulous planning. Exploit system loopholes, bend RNG to your will, and become the master architect of your own victory .",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://steamrip.com/wp-content/uploads/2026/11/slotbound-steamrip.jpg",
+      "https://steamrip.com/wp-content/uploads/2026/11/slotbound-screenshots-steamrip.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10 (64-bit)",
+      "Processor": "Intel Core i3-6100 / AMD Ryzen 3 1200",
+      "Memory": "4 GB RAM",
+      "Graphics": "NVIDIA GTX 750 Ti / AMD Radeon HD 7850",
+      "DirectX": "Version 11",
+      "Network": "Broadband Internet connection",
+      "Storage": "2 GB available space"
+    },
+    "game_info": {
+      "Genre": "Indie, Strategy",
+      "Developer": "Optima Arch",
+      "Platform": "PC",
+      "Game Size": "181 MB",
+      "Released By": "Mr_GOLDBERG emu",
+      "Version": "Build 26666405 | Full Version"
+    },
+    "size": "181 MB",
+    "languages": "ENG",
+    "bzzhr_url": null,
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "The Rusted",
+    "url": "https://steamrip.com/the-rusted-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4159290/f4fcdc8b3f4eff209a6f8ce69a1387ca2e5bd4f7/ss_f4fcdc8b3f4eff209a6f8ce69a1387ca2e5bd4f7.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4159290/3c255bbeab59be44ba0bf2ee48d7169383674bb4/ss_3c255bbeab59be44ba0bf2ee48d7169383674bb4.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10 64-bit",
+      "Processor": "Intel Core i3-2100 / AMD equivalent",
+      "Memory": "4 GB RAM",
+      "Graphics": "DirectX 11 compatible GPU",
+      "Storage": "650 MB available space"
+    },
+    "game_info": {
+      "Genre": "Adventure, Indie",
+      "Developer": "Rodd Games",
+      "Platform": "PC",
+      "Game Size": "512.6 MB",
+      "Released By": "TENOKE",
+      "Version": "Build 26485014"
+    },
+    "size": "512.6 MB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/mpi74x3u3mlo",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Trakonius",
+    "url": "https://steamrip.com/trakonius-free-download/",
+    "description": "",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2418490/e600d44f86756ac22df796875cab60a846bb4b42/ss_e600d44f86756ac22df796875cab60a846bb4b42.1920x1080.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2418490/55058daffac10077b64e29208c41f3fcd8ad9282/ss_55058daffac10077b64e29208c41f3fcd8ad9282.1920x1080.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10 64-bit",
+      "Processor": "Intel Core i3-8100 / AMD Ryzen 3 1200",
+      "Memory": "6 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 1050 Ti (4 GB VRAM) AMD Radeon RX 570 (4 GB VRAM) Intel Arc A380",
+      "DirectX": "Version 12",
+      "Network": "Broadband Internet connection",
+      "Storage": "10 GB available space",
+      "Sound Card": "DirectX compatible"
+    },
+    "game_info": {
+      "Genre": "Action, Indie",
+      "Developer": "Edvar Studio",
+      "Platform": "PC",
+      "Game Size": "4.3 GB",
+      "Released By": "TENOKE",
+      "Version": "Build 26641457"
+    },
+    "size": "4.3 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/z540otkah7vd",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "The Strange City",
+    "url": "https://steamrip.com/the-strange-city-free-download/",
+    "description": "Embark on the adventure as Agent G, a lone survivor drawn into a mystery after a brutal car crash. Pursued by relentless monsters and trapped in eerie, shifting environments, you’ll need courage and wit to survive. Can you uncover the secrets at the journey’s end—or will the shadows claim you first? The Strange City is a single-player horror adventure game that invites you into a world of eerie mysteries and strange discoveries. Game Features Each Chapter Challenges You to Adapt and Think on Your Feet – In The Strange City, survival demands more than courage—it requires wit. Across five chapters, relentless pursuers each employ unique hunting tactics to track G. To endure, you must outsmart their unyielding chase, search the fear-filled environments, and uncover the escape route! Only Those Who Break Their Limits Will Survive – Survival won’t come easy—each chapter culminates in a final encounter that will push your instincts and resolve to limits. Only those who conquer these final trials can move forward to the next chapter of the journey. Uncover the Secrets of The Strange City – What will she find waiting at the end of the path? Dive into The Strange City and discover the reason behind G’s fateful adventure.",
+    "cover_image": "https://i1.imageban.ru/out/2024/12/16/937aa6414137cb02cd62327e10369a08.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/strange-city/screenshots/12/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/strange-city/screenshots/11/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/strange-city/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/strange-city/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/strange-city/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/strange-city/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/strange-city/screenshots/",
+      "http://s01.riotpixels.net/data/b1/86/b186f56a-5d34-43a9-aea3-79d13048d249.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0b/59/0b592e8e-930b-44b6-8547-0c25ddaa62ab.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ce/88/ce88c5ab-7d5c-45ef-8934-f55f921b4826.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/de/2c/de2cd340-fa64-49b1-ab67-9a6be10a2b69.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a6/ce/a6ce503d-53a2-43ed-9d2e-201af9f298b0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/dc/5b/dc5b93fa-52a0-4547-ad3f-39776eb990a8.jpg.240p.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2944750/extras/STC_GIF_BossRun_02.gif"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Window 10",
+      "Processor": "Intel CPU Core i5",
+      "Memory": "4 GB RAM",
+      "Graphics": "Nvidia Geforce GTX 1660 super",
+      "DirectX": "Version 12",
+      "Storage": "6 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Adventure, Indie",
+      "Developer": "Newmatic Co., Ltd.",
+      "Platform": "PC",
+      "Game Size": "2.6 GB",
+      "Released By": "RUNE",
+      "Version": "Build 26639627"
+    },
+    "size": "2.6 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/3tvyn3vo83zx",
+    "fitgirl_url": "https://fitgirl-repacks.site/the-strange-city/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Arcade",
+      "Platform adventure",
+      "Side",
+      "3D",
+      "Horror"
+    ],
+    "company": "Newmatic",
+    "updates": [
+      {
+        "name": "The.Strange.City.Update.v1.0.5-RUNE.rar",
+        "url": "https://filecrypt.cc/Container/9348FA947A.html"
+      }
+    ],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Ukrainian Fight Drone Simulator (UFDS) – FPV drone simulator",
+    "url": "https://steamrip.com/ukrainian-fight-drone-simulator-ufds-fpv-drone-simulator-free-download/",
+    "description": "AI Drone Simulator is an FPV drone simulator. Start from an existing drone Model, or place a BlackBox file in the game and fly your own FPV drone in races or free flight on a variety of maps. Game Features Drone Model and settings extraction form a BlackBox file, in a few clicks. Or start from an existing drone model from top pilots. Many beautiful maps, from forest to cities to factories. Chase cars, enter moving trains or power loop small tree gaps : everything is allowed with millimetre collision accuracy. Races. Time Attack mode. Ghosts, in race and time attack mode. Track editor: Simple and powerful. Design any track on any map! Flexible and easy Controller setup. Any controller recognized by Windows should work, but a real radio transmitter is highly recommended. Support radio transmitters compatible with PC. The Drone Models, extracted or presets, are easy to use, but fully customizable for the expert pilot : AI should be at the service of humans, not the other way around ! Everything is customizable, even the gravity !",
+    "cover_image": "https://i114.fastpic.ru/big/2021/0615/b4/6a9423bcb634174c187b64548224e1b4.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/ai-drone-simulator/screenshots/18/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/ai-drone-simulator/screenshots/14/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/ai-drone-simulator/screenshots/13/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/ai-drone-simulator/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/ai-drone-simulator/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/ai-drone-simulator/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "http://s01.riotpixels.net/data/b5/ce/b5ce145a-2149-4290-ae87-5a19f7e59112.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/99/39/9939feae-849a-41db-8cfb-c22425d66a48.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/db/78/db786852-0db9-4077-b67d-458e949753c1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ad/6b/ad6b6aa7-aa0e-4b53-bb30-1098c490dd9c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8d/23/8d23a35b-333d-4471-842d-c9023af3d183.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6f/1b/6f1be251-65bb-4ade-a760-aee0877e6133.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "notes": "Requires a 64-bit processor and operating system",
+      "OS": "Windows 10",
+      "Processor": "Intel Core i5-7400 / AMD Ryzen 5 1600",
+      "Memory": "16 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 1060 (6GB VRam)/ AMD Radeon RX 5600 (6GB VRam)",
+      "DirectX": "Version 12",
+      "Storage": "28 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, Massively Multiplayer, Simulation",
+      "Developer": "SIMTECH SOLUTIONS",
+      "Platform": "PC",
+      "Game Size": "30.3 GB",
+      "Released By": "Unsteam + CSF",
+      "Version": "Build 26508517"
+    },
+    "size": "30.3 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/f6lhtr43sux7",
+    "fitgirl_url": "https://fitgirl-repacks.site/ai-drone-simulator/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Racing",
+      "Simulation",
+      "First-person",
+      "Real world",
+      "3D"
+    ],
+    "company": "Diophante Studio",
+    "updates": [],
+    "video": null,
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   }
 ]
