@@ -248581,11 +248581,22 @@
   {
     "title": "BOXROOM",
     "url": "https://steamrip.com/boxroom-free-download/",
-    "description": "",
-    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "description": "Do you miss running your finger along the spines of all your game boxes, deciding what you might be in the mood to play? Do you long for instruction manuals, inlays, and that intoxicating plasticky smell when you crack open a new box and bury your nose inside. Ahhh. BOXROOM is a shrine to all of that; a little space to call your own, and a way to explore and interact with your game library in a more meaningful way. It’s a throwback to the bedrooms and game-spaces of yesteryear – a place for shelves, cabinets and curated displays, for posters, figurines and collectors items. It’s also a game, if you want to call it that; a design/decorator-sim giving you the space to put a stamp on your Steam library and game collection. After setting up your room and preferred shelving arrangement, the game will boot your ACTUAL Steam library onto the shelves – giving you space to arrange, curate and explore your collection as you see fit. Put your feet up! Sit back and soak in the space. You can then share your room with a friend (or your mortal enemy I suppose) to show off your collection in all its glory. Build, design and arrange your game room Populate your shelves with your actual game library, direct from Steam Search the BoxCo Catalogue for your preferred furniture and furnishings Secret figures, collector’s editions and upgrades based on certain games – how many are hiding in your collection? Pick up, inspect and re-arrange your game-boxes as you see fit Boot your games ….from BOXROOM ! Share your rooms with friends and show off your collection Integrate your own items and textures with Steam Workshop functionality. NOTE: Games that appear in BOXROOM use publicly available Steam data and images. All trademarks and artwork belong to their respective owners.",
+    "cover_image": "https://i8.imageban.ru/out/2026/11/23/c8d4a776a3d8649edb7fe98174d5e05e.jpg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4335460/dde4943bddb407b334425780add1fd76e8e98193/ss_dde4943bddb407b334425780add1fd76e8e98193.1920x1080.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4335460/94631f0a57f91763d372f61738320ba3ffe32b97/ss_94631f0a57f91763d372f61738320ba3ffe32b97.1920x1080.jpg"
+      "https://en.riotpixels.com/games/boxroom/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/boxroom/screenshots/5/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/boxroom/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/boxroom/screenshots/3/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/boxroom/screenshots/2/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/boxroom/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/boxroom/screenshots/",
+      "http://s01.riotpixels.net/data/79/37/793791da-2eed-4679-bdc1-7f0ab3310bfb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b9/5f/b95f8ade-0bd3-4c59-b304-ae267f208521.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b8/c0/b8c09ef7-bc62-49de-b1f0-4e08a4503e3f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4c/eb/4cebf203-e480-4fb1-ab95-30bf8410fbd1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/72/cc/72cc82d8-49e6-4777-ad3e-7ef3782da2dd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5a/32/5a3272c6-8985-4339-9a38-fbbef862e2af.jpg.240p.jpg"
     ],
     "system_requirements": {
       "OS *": "Windows 7 SP1+ (64-bit recommended)",
@@ -248608,15 +248619,19 @@
     "size": "2.3 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/58cskhixdsa7",
-    "fitgirl_url": null,
-    "fitgirl_matched": false,
-    "genres": [],
-    "company": null,
+    "fitgirl_url": "https://fitgirl-repacks.site/boxroom/",
+    "fitgirl_matched": true,
+    "genres": [
+      "Lifestyle",
+      "First-person",
+      "3D"
+    ],
+    "company": "Nested Loop Studios, Pantaloon",
     "updates": [],
-    "video": null,
-    "source_cover": "steamrip",
-    "source_screenshots": "steamrip",
-    "source_description": "steamrip"
+    "video": "https://video.fastly.steamstatic.com/store_trailers/4335460/1672256717/2728e3ec383e21841bcda87a6d1713650e21d2f0/1794332031/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
   },
   {
     "title": "Cinema Theater Tycoon",
@@ -250116,6 +250131,149 @@
     "size": "4.3 GB",
     "languages": "ENG",
     "bzzhr_url": "https://bzzhr.to/0d7f9qtmuj8j",
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Dungeonbound",
+    "url": "https://steamrip.com/dungeonbound-free-download/",
+    "description": "Dungeonbound is a roguelike autobattler about your inventory . Every item is a piece on a grid and where you put it changes what it does. At the forge you can fuse any two items into a brand new one that keeps the powers of both. Buy, forge and curse your gear to put together the craziest build you can, then watch it fight.\n\nThe rivals you face are the builds of other players. Beat them to keep climbing and your own build goes into the pool for someone else to face. Your village was burned and you are out for revenge . Go alone or bring up to 3 friends. Zombies Aren’t Real",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://steamrip.com/wp-content/uploads/2026/11/dungeonbound-steamrip.jpg",
+      "https://steamrip.com/wp-content/uploads/2026/11/dungeonbound-screenshots-steamrip.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10 (64-bit)",
+      "Processor": "Dual-core 2.0 GHz or higher",
+      "Memory": "2 GB RAM",
+      "Graphics": "Integrated graphics (e.g., Intel HD Graphics) or equivalent; dedicated GPU not necessary",
+      "DirectX": "Version 10",
+      "Storage": "300 MB available space"
+    },
+    "game_info": {
+      "Genre": "Adventure, Indie, RPG, Strategy",
+      "Developer": "louidev",
+      "Platform": "PC",
+      "Game Size": "282 MB",
+      "Released By": "Mr_GOLDBERG emu",
+      "Version": "v1.0.15 | Full Version"
+    },
+    "size": "282 MB",
+    "languages": "ENG",
+    "bzzhr_url": null,
+    "fitgirl_url": null,
+    "fitgirl_matched": false,
+    "genres": [],
+    "company": null,
+    "updates": [],
+    "video": null,
+    "source_cover": "steamrip",
+    "source_screenshots": "steamrip",
+    "source_description": "steamrip"
+  },
+  {
+    "title": "Phantom Blade Zero",
+    "url": "https://steamrip.com/phantom-blade-zero-free-download/",
+    "description": "Framed for murdering his master, Soul suffers a devastating wound to the heart, leaving him just sixty-six days to live. Alone and hunted, he roams the Wulin, determined to unravel a conspiracy that has ensnared the martial world. Through rain and blood, kindness and vengeance, he embarks on a journey where love and hatred intertwine in search of a heart. Explore the mysterious Phantom World, where shifting light and shadow conceal mysteries at every turn. Memory Flowers, the Wulin and the Discordance, Transcension, the Lady of the Veil, Inanis’ Dreamscape… Every secret leads to another, and every corner hides a new story. When one path ends, another begins. Hidden passages and intricate mechanisms await those who dare to explore. In the Wulin, your weapon is your life. Master over 30 primary weapons and more than 20 unique Phantom Edges, wrested from the hands of fallen foes. Rooted in traditional martial arts, combat flows through seamless combos that are easy to learn yet rewarding to master. Only true masters will uncover the deadly intricacies within every technique. Blades clash in showers of sparks. Dodge, deflect, counter, and strike in one seamless flow, where victory and defeat are decided in an instant. Will the next turn leave the sands stained with blood, or lead you back from the brink of death? The golden age of wuxia cinema collides with punk fantasy in Phantom Blade Zero. Martial arts, cold steel, mechanical prosthetics, crumbling industrial ruins, traditional Chinese aesthetics, and modern rock music. Together, they create the dark, unmistakable aesthetic of kungfupunk. Powered by Unreal Engine 5 and cutting-edge motion capture technology, renowned martial arts choreographers from the golden age of wuxia cinema collaborated to bring authentic Chinese kungfu to life. Every strike and stance in Phantom Blade Zero is rooted in real martial techniques. Experience the timeless allure of Chinese kungfu through breathtaking cinematic action.",
+    "cover_image": "https://i1.imageban.ru/out/2026/10/31/73dca9b0ed13f92c8f1a83af09fcf3ac.jpg",
+    "screenshots": [
+      "https://en.riotpixels.com/games/phantom-blade-zero/screenshots/9/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/phantom-blade-zero/screenshots/8/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/phantom-blade-zero/screenshots/7/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/phantom-blade-zero/screenshots/6/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/phantom-blade-zero/screenshots/4/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/phantom-blade-zero/screenshots/1/?utm_source=emb-gfx-html&utm_medium=image&utm_campaign=rp-mass",
+      "https://en.riotpixels.com/games/phantom-blade-zero/screenshots/",
+      "http://s01.riotpixels.net/data/90/b7/90b794cc-aad5-4cf7-93be-4b4e46b8868f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9f/44/9f44af58-1e37-4ddc-8996-6f1cb22a19b7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/51/d4/51d4b2d8-b5c0-4992-a1a9-ee2438cf639b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/25/81/25816a12-17a7-4c60-9521-e8912c08fd36.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3c/16/3c16fa1a-4817-4ad7-88f1-28671375bd93.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2c/18/2c183b90-e0be-4600-9771-b0bea51c41cd.jpg.240p.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10/11 (64bit required)",
+      "Processor": "Intel Core i7-8700K / AMD Ryzen 5 3600",
+      "Memory": "16 GB RAM",
+      "Graphics": "NVIDIA GeForce GTX 1660 6GB / AMD Radeon RX 5500 XT 8GB",
+      "DirectX": "Version 12",
+      "Storage": "145 GB available space"
+    },
+    "game_info": {
+      "Genre": "Action, RPG",
+      "Developer": "S-GAME Studio",
+      "Platform": "PC",
+      "Game Size": "143 GB",
+      "Released By": "voices38",
+      "Version": "Build 26367565 | Full Version"
+    },
+    "size": "143 GB",
+    "languages": "ENG",
+    "bzzhr_url": "https://bzzhr.to/7y3dipshiscu",
+    "fitgirl_url": "https://fitgirl-repacks.site/phantom-blade-zero/",
+    "fitgirl_matched": true,
+    "genres": [
+      "RPG",
+      "Action RPG",
+      "Third-person",
+      "3D"
+    ],
+    "company": "S-Game",
+    "updates": [
+      {
+        "name": "Phantom.Blade.Zero.Crackfix-ARTIFACT.rar",
+        "url": "https://filecrypt.cc/Container/6DC77EFD53.html"
+      },
+      {
+        "name": "Phantom_Blade_Zero_Update_from_v301524_to_v302256_Hypervisor-ElAmigos.rar",
+        "url": "https://filecrypt.cc/Container/81D13A5B46.html"
+      },
+      {
+        "name": "Phantom.Blade.Zero.Fixed.DLL.rar",
+        "url": "https://filecrypt.cc/Container/86B9DDE8DF.html"
+      }
+    ],
+    "video": "https://video.fastly.steamstatic.com/store_trailers/4115450/664334575/770d51a385d199e86d14445dfe938539582b6603/1792600747/microtrailer.webm",
+    "source_cover": "fitgirl",
+    "source_screenshots": "fitgirl",
+    "source_description": "fitgirl"
+  },
+  {
+    "title": "Zombies Aren’t Real",
+    "url": "https://steamrip.com/zombies-arent-real-free-download/",
+    "description": "Zombies Aren’t Real is a horde-defense, strategy game where you attempt to control a quick-spreading zombie infection in real-world cities by commanding military Safari-TV\n\nYou’re given a bird’s eye view of a city and time to prepare for the outbreak . With limited resources, carefully choose how you will respond to the infection and establish a plan to save as many civilians as possible.\n\nOnce you’re ready the chaos begins. The zombies will fan out and begin to infect the population . You are able to adapt your plan on the fly. If the zombies break through your perimeter you can call in air support such as bombers or gatling gun helicopters to attempt to stop the spread before it gets out of control. If you’re able to eliminate all the zombies you win and your score is determined by how many civilians you saved.",
+    "cover_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=",
+    "screenshots": [
+      "https://steamrip.com/wp-content/uploads/2026/11/zombies-arent-real-steamrip.jpg",
+      "https://steamrip.com/wp-content/uploads/2026/11/zombies-arent-real-screenshots-steamrip.jpg"
+    ],
+    "system_requirements": {
+      "OS": "Windows 10/11 64-bit",
+      "Processor": "4-core CPU at 3.0 GHz with SSE4.2 (Intel Core i5-6500 / AMD Ryzen 3 1200)",
+      "Memory": "8 GB RAM",
+      "Graphics": "DirectX 11 GPU with 2 GB VRAM (Intel UHD 620 / GeForce GTX 750 Ti / Radeon R7 260X)",
+      "DirectX": "Version 11",
+      "Storage": "2 GB available space"
+    },
+    "game_info": {
+      "Genre": "Strategy, Early Access",
+      "Developer": "Jogamedev",
+      "Platform": "PC",
+      "Game Size": "302 MB",
+      "Released By": "Mr_GOLDBERG emu",
+      "Version": "Build 26692741 | Full Version"
+    },
+    "size": "302 MB",
+    "languages": "ENG",
+    "bzzhr_url": null,
     "fitgirl_url": null,
     "fitgirl_matched": false,
     "genres": [],
